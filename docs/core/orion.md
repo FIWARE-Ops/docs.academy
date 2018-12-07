@@ -17,13 +17,13 @@ Provides an introduction to Orion Context Broker and its basic API to manage con
 
 
 
-* <a href="https://edu.fiware.org/mod/resource/view.php?id=913"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=core&amp;image=f%2Fpdf-24" alt=" " />Lesson 1 - Slides File</a>
+* <a href="https://fiware.github.io/academy/orion/orion1.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 1 - Slides File</a>
 
 
 <h4>Lesson 2. Orion Context Broker Advanced</h4>
 Describes advances Orion Context Broker topics, such as pagination, filtering, geo-location and much more.
 
-* <a href="https://edu.fiware.org/mod/resource/view.php?id=914"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=core&amp;image=f%2Fpdf-24" alt=" " />Lesson 2 - Slides File</a>
+* <a href="https://fiware.github.io/academy/orion/orion2.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 2 - Slides File</a>
 
 
 
@@ -32,18 +32,18 @@ Describes advances Orion Context Broker topics, such as pagination, filtering, g
 
 This document describes the novelties in NGSI v2 for people already familiar with NGSI v1. Thus, you would learn how to do the things you are familiar with NGSI v1 now in NGSI v2 as long as new and powerful capabilities of the new version of the API. Some knowledge in NGSI v1 API is required.
 
-* <a href="https://edu.fiware.org/mod/resource/view.php?id=997"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=core&amp;image=f%2Fpdf-24" alt=" " />Lesson 3 - Slides File</a>
+* <a href="https://fiware.github.io/academy/orion/orion3.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 3 - Slides File</a>
 
 <h4>Lesson 4. Orion Context Broker Basic Exercises</h4>
 
 A set of basic-level exercises that you can use to exercise your knowledge on Orion.
 
-* <a href="https://edu.fiware.org/mod/resource/view.php?id=915"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=core&amp;image=f%2Fpdf-24" alt=" " />Lesson 4 - Slides File</a>
+* <a href="https://fiware.github.io/academy/orion/orion4.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 4 - Slides File</a>
 
 <h4>Lesson 5. Orion Context Broker Advanced Exercises</h4>
 A set of advanced-level exercises that you can use to exercise your knowledge on Orion.
 
-* <a href="https://edu.fiware.org/mod/resource/view.php?id=916"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=core&amp;image=f%2Fpdf-24" alt=" " />Lesson 5 - Slides File</a>
+* <a href="https://fiware.github.io/academy/orion/orion5.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 5 - Slides File</a>
 
 <h3>Step-by-Step Tutorials</h3>
 

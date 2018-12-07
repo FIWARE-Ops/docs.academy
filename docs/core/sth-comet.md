@@ -19,7 +19,7 @@ entity attribute values) registered in an Orion Context Broker instance.
 
 Training program for the FIWARE Short Time Historic (STH, aka. Comet) component including all its distinctive features and covering from installation to configuration and running.
 
-* <a href="https://edu.fiware.org/mod/resource/view.php?id=975"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=core&amp;image=f%2Fpdf-24" alt=" " />Lesson 1 - STH Comet Introduction</a>
+* <a href="https://fiware.github.io/academy/sth-comet/sth-comet1.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 1 - STH Comet Introduction</a>
 
 
 <h3>Step-by-Step Tutorials</h3>

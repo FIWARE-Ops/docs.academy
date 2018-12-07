@@ -118,7 +118,7 @@ This topic is intended for developers that want to create plug-ins for the Busin
 
 
 
-* <a href="https://edu.fiware.org/mod/resource/view.php?id=982"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=core&amp;image=f%2Fpdf-24" alt=" " />API Specification File</a>
+* <a href="https://fiware.github.io/academy/biz-ecosystem/API-Specification.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />API Specification File</a>
 This document includes the reference of the REST API, including the possible interactions and the managed objects
 
 * <a href="https://edu.fiware.org/mod/url/view.php?id=987"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />Plugins Development URL</a>
