@@ -1,0 +1,48 @@
+
+
+<h2>Cosmos - Big Data Analysis</h2>
+
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg)](https://www.fiware.org/developers/catalogue/)
+[![fiware-cosmos](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/cosmos.svg)](http://stackoverflow.com/questions/tagged/fiware-cosmos)
+
+The Cosmos Big Data Analysis GE is a set of tools that help achieving the tasks of Streaming and Batch processing over context data. These tools are:
+
+- Orion-Flink Connector (Source and Sink)
+- Apache Flink Processing Engine
+- Apache Spark Processing Engine (work in progress)
+- Streaming processing examples using Orion Context Broker
+
+<span/>
+
+
+-   [Documentation](https://fiware-cosmos-flink.readthedocs.io)
+
+<h3>Academy Courses</h3>
+
+<h4>Lesson 1. Big Data Fundamentals</h4>
+
+By following this course you will learn about Big Data fundamentals (distributed storing and computing), Map and Reduce basics, Hadoop and its ecosystem.
+
+* <a href="https://edu.fiware.org/mod/resource/view.php?id=283"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=core&amp;image=f%2Fpdf-24" alt=" " />Lesson 1 - An Introduction to Big Data</a>
+
+
+<h4>Lesson 2. HDFS and Map Reduce</h4>
+
+By following this course you will be able to use the Global Instance of Cosmos in FIWARE Lab. Basically, doing I/O with Web HDFS API and submitting and managing MapReduce jobs with Tidopp API.
+
+* <a href="https://edu.fiware.org/mod/resource/view.php?id=995"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=core&amp;image=f%2Fpdf-24" alt=" " />Lesson 2 - HDFS and Map Reduce</a>
+
+
+<h3>Code Examples</h3>
+
+This GitHub repository exists containing a few examples for getting started with the cosmos flink connector is described in the following documentation:
+
+* [Cosmos Flink Examples](https://fiware-cosmos-flink-examples.readthedocs.io)
+
+
+
+
+
+
+
+

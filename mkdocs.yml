@@ -1,0 +1,35 @@
+site_name: Academy
+site_url: https://fiware-academy.readthedocs.org
+repo_url: https://github.com/fiware/academy
+site_description: Fiware Academy
+docs_dir: docs
+site_dir: html
+use_directory_urls: false
+theme: readthedocs
+google_analytics: ["UA-83719923-1", 'fiware-academy.readthedocs.io']
+extra_css: ["https://fiware.org/style/fiware_readthedocs.css"]
+pages:
+  - Home: 'index.md'
+  - 'Core Context Managment':
+    - 'Orion': 'core/orion.md'
+    - 'Cygnus': 'core/cygnus.md'
+    - 'QuantumLeap': 'core/quantum-leap.md'
+    - 'STH-Comet': 'core/sth-comet.md'
+  - 'IoT Agents, Robots & Third Party Systems': 
+    - 'IoT Agents': 'iot-agents/idas.md'
+    - 'Domibus': 'third-party/domibus.md'
+    - 'Fast-RTPS': 'robotics/fast-rtps.md'
+  - 'Security':
+    - 'Authzforce': 'security/authzforce.md'
+    - 'Keyrock': 'security/keyrock.md'
+    - 'Wilma': 'security/wilma.md'
+  - 'Processing, Analysis and Visualization':
+    - 'Cosmos': 'processing/cosmos.md'
+    - 'Knowage': 'processing/knowage.md'
+    - 'Kurento': 'processing/kurento.md'
+    - 'Wirecloud': 'processing/wirecloud.md'
+  - 'Data Publication':
+    - 'Biz Ecosystem': 'data-publication/biz-ecosystem.md'
+    - 'CKAN': 'data-publication/ckan.md'
+
+
