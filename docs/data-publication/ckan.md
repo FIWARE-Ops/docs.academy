@@ -21,7 +21,7 @@ visualization features.
 
 This user guide covers using CKAN&rsquo;s web interface to organize, publish and find data.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=866"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />Managing Data with CKAN URL</a>
+[![](http://img.youtube.com/vi/PFe3Gv_-1wY/0.jpg)](https://www.youtube.com/watch?v=PFe3Gv_-1wY ">Managing Data with CKAN")
 
 
 

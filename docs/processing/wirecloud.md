@@ -16,75 +16,75 @@ control their environment.
 <h4>Lesson 1. Introduction</h4>
 This presentation introduces the WireCloud framework, its architecture and APIs.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=574"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />Introduction to WireCloud URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=574"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Introduction to WireCloud</a>
 
 <h4>Lesson 2. Integration</h4>
 
 This presentation shows how WireCloud is related to other FIWARE Generic Enablers, and what kind of things could be made of them.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=576"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />Integration with other GEs URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=576"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Integration with other GEs</a>
 
 <h4>Lesson 3. WireCloud for end-users</h4>
 In this section you will learn how to use WireCloud from the point of view of a end-user. That is, you will learn how to create and manage dashboards using WireCloud.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=687"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />2.3. End-user exercises URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=687"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />2.3. End-user exercises</a>
 
 
 <h4> Lesson 4. WireCloud for component developers</h4>
 In this section you will learn how to use WireCloud from the point of view of a component developer. That is, you will learn how to develop Mashable Application Components (widgets and operators).
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=561"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />3.1.0. Quick start URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=561"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />3.1.0. Quick start</a>
 Quick tutorial on how to develop widgets using FIWARE technology.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=562"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />3.1.1. Creating widgets and operator descriptions URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=562"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />3.1.1. Creating widgets and operator descriptions</a>
 This presentation explains how to create widget and operators descriptions using either XML or RDF.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=563"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />3.1.2. Logging error messages URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=563"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />3.1.2. Logging error messages</a>
 This presentation shows how to log error messages from widgets and operators.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=564"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />3.1.3. Making requests and wiring URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=564"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />3.1.3. Making requests and wiring</a>
 These slides show an example&nbsp;to learn how to use the most commonly used features of WireCloud.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=565"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />3.1.4. Adding preferences URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=565"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />3.1.4. Adding preferences</a>
 This presentation explains how to add preferences to config.xml file.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=566"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />3.1.5. Accessing context information URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=566"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />3.1.5. Accessing context information</a>
 These slides show how to discover the available context information of a WireCloud instance and how to use widget context for resizing widget's content.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=567"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />3.1.6. Translating widgets URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=567"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />3.1.6. Translating widgets</a>
 These slides explain how to translate widget metadata (using XML or RDF templates) and how to translate widget contents (using JavaScript).
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=824"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />3.1.7. Dynamic dashboards URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=824"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />3.1.7. Dynamic dashboards</a>
 These slides explain how to create dynamic dashboards by the use of the Dashboard Management API.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=864"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />3.1.8. Accessing third-party services using IdM tokens URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=864"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />3.1.8. Accessing third-party services using IdM tokens</a>
 These slides explain how to use IdM tokens associated with the users for accessing thrid-party services from WireCloud widgets and operators.
 
 <h4>3.2. Other GEs</h4>
 These presentations introduce how to enhance your widgets/operators by interacting with other FIWARE&rsquo;s GEs by means of their APIs.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=571"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />3.2.1. Using Orion Context Broker URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=571"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />3.2.1. Using Orion Context Broker</a>
 This presentation shows how to use the Orion Context Broker JavaScript API in a practical way.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=594"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />3.2.2. Using Object Storage URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=594"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />3.2.2. Using Object Storage</a>
 This presentation explains how to configure and use the Object Storage.
 
 <h4>3.3. API Reference</h4>
 Links to the reference documentation of the APIs used in this section.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=590"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />3.3.1. JavaScript API URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=590"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />3.3.1. JavaScript API</a>
 Reference documentation of the Application Mashup JavaScript API (Widget API).
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=591"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />3.3.2. NGSI API URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=591"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />3.3.2. NGSI API</a>
 Reference documentation of the NGSI JavaScript API provided by WireCloud
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=592"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />3.3.3. ObjectStorage URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=592"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />3.3.3. ObjectStorage</a>
 Reference documentation of the ObjectStorage JavaScript API.
 
 <h4>3.4. Exercises</h4>
 Some WireCloud exercises targeting widget and operator developers.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=685"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />3.4. Developer exercises URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=685"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />3.4. Developer exercises</a>
 
 
 <h4>4. WireCloud for administrators</h4>
@@ -108,12 +108,12 @@ There are several ways of installing WireCloud:
 <h4>4.2. Internationalisation</h4>
 This tutorial describes the needed steps to customize the language of your WireCloud instance.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=597"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />Translating WireCloud URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=597"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Translating WireCloud</a>
 
 <h4>4.4.&nbsp;Exercises</h4>
 Some WireCloud exercises targeting administrators.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=689"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />4.4. Administrator exercises URL</a>
+* <a href="https://edu.fiware.org/mod/url/view.php?id=689"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />4.4. Administrator exercises</a>
 
 
 <h4>WireCloud&rsquo;s webinars and other videos...</h4>

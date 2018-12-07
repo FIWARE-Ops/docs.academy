@@ -13,25 +13,23 @@ The Wilma PEP Proxy in combination with Identity Management and Authorization PD
 
 This lesson introduces the main concepts needed to understand the architecture and the goals of Wilma.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=739"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />Lesson 1 - Slides URL</a>
+[![](http://img.youtube.com/vi/8tGbUI18udM/0.jpg)](https://www.youtube.com/watch?v=8tGbUI18udM "Introduction")
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=731"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />Lesson 1 - Video URL</a>
-
+* <a href="https://www.slideshare.net/alvaroalonsogonzalez/pep-proxy-wilma-ge-lesson-1-introduction"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 1 - Slides</a>
 
 <h4>Lesson 2. Installing, registering and configuring Wilma</h4>
 This lesson explains how to install and configure Wilma to start working with it.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=740"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />Lesson 2 - Slides URL</a>
+[![](http://img.youtube.com/vi/b4sYU78skrw/0.jpg)](https://www.youtube.com/watch?v=b4sYU78skrw "Install and Register")
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=733"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />Lesson 2 - Video URL</a>
+* <a href="https://www.slideshare.net/alvaroalonsogonzalez/pep-proxy-wilma-ge-lesson-2-installing-registering-and-configuring-wilma"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 2 - Slides</a>
 
 <h4>Lesson 3. Securing a REST API</h4>
 This lesson presents the way in which you can secure your REST APIs and shows practical examples with a real backend.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=741"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />Lesson 3 - Slides URL</a>
+[![](http://img.youtube.com/vi/coxFQEY0_So/0.jpg)](https://www.youtube.com/watch?v=coxFQEY0_So "Securing a REST API")
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=735"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=url&amp;image=icon" alt=" " />Lesson 3 - Video URL</a>
-
+* <a href="https://www.slideshare.net/alvaroalonsogonzalez/pep-proxy-wilma-ge-lesson-3-securing-a-rest-api" alt=" " />Lesson 3 - Slides</a>
 
 <h3>Step-by-Step Tutorials</h3>
 
