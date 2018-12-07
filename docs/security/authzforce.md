@@ -16,14 +16,14 @@ This lesson is an introduction to the Authorization PDP Generic Enabler, AuthzFo
 
 
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=1001"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=core&amp;image=f%2Fpowerpoint-24" alt=" " />Lesson 1 - Slides with audio</a>
+* <a href="https://fiware.github.io/academy/authzforce/authzforce1.pptx"><img src="https://fiware.github.io/academy/img/doc.svg" />Lesson 1 - Slides with audio</a>
 
 <h4>Lesson 2. Introduction to the API of Authorization PDP GE</h4>
 
 
 In this lesson, you will learn how to use the common API (Application Programming Interface) of Authorization PDP Generic Enabler implementations, as defined in FIWARE Open Specification, including the reference implementation AuthzForce.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=1002"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=core&amp;image=f%2Fpowerpoint-24" alt=" " />Lesson 2 - Slides with audio</a>
+* <a href="https://fiware.github.io/academy/authzforce/authzforce2.pptx"><img src="https://fiware.github.io/academy/img/doc.svg" />Lesson 2 - Slides with audio</a>
 
 <h4>Lesson 3. Introduction to AuthzForce</h4>
 
@@ -37,7 +37,7 @@ In this lesson, you will learn about AuthzForce - the Authorization PDP GEri:
 
 <span/>
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=1003"><img role="presentation" src="https://edu.fiware.org/theme/image.php?theme=klass&amp;component=core&amp;image=f%2Fpowerpoint-24" alt=" " />Lesson 3 - Slides with audio</a>
+* <a href="https://fiware.github.io/academy/authzforce/authzforce3.pptx"><img src="https://fiware.github.io/academy/img/doc.svg" />Lesson 3 - Slides with audio</a>
 
 
 
