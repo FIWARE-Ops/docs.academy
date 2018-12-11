@@ -1,6 +1,6 @@
 <h2>Domibus - Electronic Data Exchange</h2>
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://www.fiware.org/developers/catalogue/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/third-party.svg)](https://www.fiware.org/developers/catalogue/)
 [![fiware](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](http://stackoverflow.com/questions/tagged/fiware)
 
 

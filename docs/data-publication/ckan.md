@@ -8,8 +8,6 @@ portal platform with the main FIWARE GEs, enhancing the default CKAN behaviour
 with improved access control, publication of right-time context data, and rich
 visualization features.
 
-
-
 -   [Documentation](https://fiware-ckan-extensions.rtfd.io/)
 -   [CKAN User Guide](http://docs.ckan.org/en/latest/user-guide.html)
 -   [CKAN API Guide](http://docs.ckan.org/en/latest/api/index.html)
@@ -17,7 +15,7 @@ visualization features.
 
 <h3>Academy Courses</h3>
 
-<h4>Managing data in CKAN</h4>
+<h4>Lesson 1. Managing data in CKAN</h4>
 
 This user guide covers using CKAN&rsquo;s web interface to organize, publish and find data.
 

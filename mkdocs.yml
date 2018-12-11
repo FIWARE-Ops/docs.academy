@@ -29,7 +29,10 @@ pages:
     - 'Kurento': 'processing/kurento.md'
     - 'Wirecloud': 'processing/wirecloud.md'
   - 'Data Publication':
-    - 'Biz Ecosystem': 'data-publication/biz-ecosystem.md'
+    - 'Biz Ecosystem': 'data-publication/business-api.md'
     - 'CKAN': 'data-publication/ckan.md'
+  - 'Integrated Courses':
+    - 'FIWARE for Smart Cities' : 'smart-cities/index.md'
+
 
 

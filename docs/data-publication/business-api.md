@@ -5,6 +5,8 @@
 The **Business API Ecosystem** GE is the result of the collaboration between FIWARE and the TMForum. In this regard, the Business API Ecosystem GE is a joint component made up by integrating the FIWARE Business Framework with a set of standard APIs (and its reference implementations) provided by the TMForum in its TMF API ecosystem.
 This component allows the monetization of different kind of assets (both digital and physical) during the whole service life cycle, from offering creation to its charging, accounting and revenue settlement and sharing. In this way, the Business API Ecosystem provides sellers the means for managing, publishing, and generating revenue of they products, apps, data, and services.
 
+-   [Documentation](https://business-api-ecosystem.rtfd.io/)
+
 
 <h3>Academy Courses</h3>
 

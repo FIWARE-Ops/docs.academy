@@ -15,43 +15,30 @@ Kurento is an implementation of the FIWARE Stream Oriented Generic Enabler. In a
 <h4>Lesson 1. Introduction to Kurento</h4>
 This lesson presents a introduction to the Kurento framework, architecture and key concepts.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=492"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 1 - Video</a>
+[![](http://img.youtube.com/vi/1EKV1wpz4iU/0.jpg)](https://www.youtube.com/watch?v=1EKV1wpz4iU "Introduction")
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=898"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 1 - Slides</a>
-
+* <a href="http://www.slideshare.net/slideshow/embed_code/key/NrhOiNZgJYrTGP"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 1 - Slides</a>
 
 <h4>Lesson 2. Kurento Installation Guide</h4>
 This lesson shows how to install the Kurento infrastructure, i.e. the Kurento Media Server (KMS). For further information, please visit the <a href="http://kurento.readthedocs.io/en/stable/doc/admin_guide.html">Kurento installation and administration guide</a>.
 
+[![](http://img.youtube.com/vi/I-qAFViQfBk/0.jpg)](https://www.youtube.com/watch?v=I-qAFViQfBk "Installation Guide")
 
-
-* <a href="https://edu.fiware.org/mod/url/view.php?id=493"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 2 - Video</a>
-
-
-
-
-* <a href="https://edu.fiware.org/mod/url/view.php?id=900"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 2 - Slides</a>
-
+* <a href="http://www.slideshare.net/slideshow/embed_code/key/4nuMbBzveljUwq"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 2 - Slides</a>
 
 <h4>Lesson 3. Kurento Development Guide</h4>
 This lesson presents a tutorial of how to start developing Kurento-based multimedia applications. For further information, please visit the <a href="http://kurento.readthedocs.io/en/stable/doc/user_guide.html">Kurento programmers guide</a>.
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=494"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 3 - Video</a>
+[![](http://img.youtube.com/vi/rloBE438avU/0.jpg)](https://www.youtube.com/watch?v=rloBE438avU "Development Guide")
 
-* <a href="https://edu.fiware.org/mod/url/view.php?id=901"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 3 - Slides</a>
-
+* <a href="http://www.slideshare.net/slideshow/embed_code/key/rh4MdjkWfUJidt"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 3 - Slides</a>
 
 <h4>Lesson 4. Cloud Instances of Kurento on FIWARE Lab</h4>
 This lesson shows how to create cloud instances of Kurento using FIWARE Lab.
 
+[![](http://img.youtube.com/vi/U-_vh03g5cs/0.jpg)](https://www.youtube.com/watch?v=U-_vh03g5cs "Cloud Instances")
 
-
-* <a href="https://edu.fiware.org/mod/url/view.php?id=692"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 4 - Video</a>
-
-
-
-
-* <a href="https://edu.fiware.org/mod/url/view.php?id=902"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 4 - Slides</a>
+* <a href="https://www.slideshare.net/slideshow/embed_code/key/yQP8pSzp244Isk"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 4 - Slides</a>
 
 
 <h3>Code Examples</h3>
