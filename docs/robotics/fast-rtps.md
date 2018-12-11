@@ -18,4 +18,4 @@ OMG.
 Use of Fast-RTPS is described in the following step-by-step tutorial:
 
 &nbsp; 250.
-[Introduction to Fast-RTPS and Micro-RTPS ](fast-rtps-micro-rtps.md)<br/>
+[Introduction to Fast-RTPS and Micro-RTPS ](https://fiware-tutorials.readthedocs.io/en/latest/fast-rtps-micro-rtps)<br/>

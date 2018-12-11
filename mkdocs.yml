@@ -32,7 +32,14 @@ pages:
     - 'Biz Ecosystem': 'data-publication/business-api.md'
     - 'CKAN': 'data-publication/ckan.md'
   - 'Integrated Courses':
-    - 'FIWARE for Smart Cities' : 'smart-cities/index.md'
+    - 'FIWARE for Smart Cities': 'smart-cities/index.md'
+  - 'FIWARE Ops':
+    - 'Showcase Videos': 'operations/showcase.md'
+    - 'Core Concepts': 'operations/core-concepts.md'
+    - 'FIWARE Lab for SMEs': 'operations/fiware-lab.md'
+    - 'FIWARE Lab for Developers': 'operations/fiware-lab-devs.md'
+    - 'Ops for Infrastructures': 'operations/ops-for-infrastructure.md'    
+    
 
 
 
