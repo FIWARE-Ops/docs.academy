@@ -15,3 +15,13 @@ The FIWARE Academy lists the video tutorials, slide decks and other training mat
 Additional **System Operations** courses are also available describing how to deploy FIWARE and use the [FIWARE Lab](https://account.lab.fiware.org/), as well as cross-functional courses describing how to combine various enablers together to create a functioning Smart System.
 
 
+<h4>Lesson 1. Introduction to FIWARE</h4>
+
+[![](http://img.youtube.com/vi/mdmeeuL4bTM/0.jpg)](https://www.youtube.com/watch?v=mdmeeuL4bTM "Introduction")
+
+This video presentation explains what context data is and why a context data management system such as FIWARE is necessary for the development of Smart Solutions.
+
+
+https://www.youtube.com/watch?v=nXY8DmiAHUw
+
+
