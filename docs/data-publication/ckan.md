@@ -21,6 +21,11 @@ This user guide covers using CKAN&rsquo;s web interface to organize, publish and
 
 [![](http://img.youtube.com/vi/PFe3Gv_-1wY/0.jpg)](https://www.youtube.com/watch?v=PFe3Gv_-1wY ">Managing Data with CKAN")
 
+<h4>Lesson 2. Monetize your APIs</h4>
+
+[![](http://img.youtube.com/vi/Q_TZKLDu4X0/0.jpg)](https://www.youtube.com/watch?v=Q_TZKLDu4X0 "CKAN")
+
+This video presentation explains how push data to CKAN for monetization.
 
 
 

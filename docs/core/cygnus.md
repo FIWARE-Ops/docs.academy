@@ -24,6 +24,13 @@ By following this course, you will learn about Cygnus, our connector able to cre
 
 * <a href="https://fiware.github.io/academy/cygnus/cygnus1.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 1 - introduction to Cygnus</a>
 
+
+<h4>Lesson 2. Persisting to HDFS using Cygnus</h4>
+
+[![](http://img.youtube.com/vi/Q_TZKLDu4X0/0.jpg)](https://www.youtube.com/watch?v=Q_TZKLDu4X0 "Cygnus HDFS")
+
+This video presentation explains how to use Cygnus to persist data for Big Data Analytics.
+
 <h3>Step-by-Step Tutorials</h3>
 
 Data Persistence using Cygnus is described in the following step-by-step tutorial:

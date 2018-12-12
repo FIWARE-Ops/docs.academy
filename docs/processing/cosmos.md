@@ -33,6 +33,13 @@ By following this course you will be able to use the Global Instance of Cosmos i
 * <a href="https://fiware.github.io/academy/cosmos/cosmos2.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 2 - HDFS and Map Reduce</a>
 
 
+<h4>Lesson 3. Big Data Analysis</h4>
+
+[![](http://img.youtube.com/vi/mdmeeuL4bTM/0.jpg)](https://www.youtube.com/watch?v=mdmeeuL4bTM "Introduction")
+
+This video presentation explains context information processing and advanced Big Data Analysis.
+
+
 <h3>Code Examples</h3>
 
 This GitHub repository exists containing a few examples for getting started with the cosmos flink connector is described in the following documentation:

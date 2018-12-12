@@ -32,7 +32,7 @@ support the NGSI API.
 
 <h4> Lesson 1. IoT Agent Training</h4>
 
-IDAS Training at Madrid Developers Week 2015 URL
+Introduction to IoT and IoT Agents. Training at Madrid Developers Week 2015.
 
 [![](http://img.youtube.com/vi/DzmtvEztcSY/0.jpg)](https://www.youtube.com/watch?v=DzmtvEztcSY "IDAS Training")
 
@@ -43,6 +43,13 @@ IDAS Training at Madrid Developers Week 2015 URL
 <h4>Lesson 3. UltraLight 2.0</h4>
 
 * <a href="https://www.slideshare.net/FI-WARE/io-t-basicexercisesdevelopersweek"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Autoevaluation Exercises for UL2.0 Devices</a>
+
+
+<h4>Lesson 4. OMA Lightweight M2M</h4>
+
+[![](http://img.youtube.com/vi/G-3PGEibDuY/0.jpg)](https://www.youtube.com/watch?v=G-3PGEibDuY "OMA Lightweight M2M")
+
+This video presentation explains how to connect to the Internet of Things using the OMA Lightweight M2M protocol.
 
 
 <h3>Step-by-Step Tutorials</h3>

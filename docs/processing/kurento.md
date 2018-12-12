@@ -41,6 +41,13 @@ This lesson shows how to create cloud instances of Kurento using FIWARE Lab.
 * <a href="https://www.slideshare.net/slideshow/embed_code/key/yQP8pSzp244Isk"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 4 - Slides</a>
 
 
+<h4>Lesson 5. Real-time Media Stream Processing</h4>
+
+[![](http://img.youtube.com/vi/KpmOxTMb8Iw/0.jpg)](https://www.youtube.com/watch?v=KpmOxTMb8Iw "Media Streams")
+
+This video presentation explains real-time media stream processing using the Kurento Media Server.
+
+
 <h3>Code Examples</h3>
 
 Moreover, other tutorials can be done using the Stream Oriented GE (Kurento), for example:&nbsp;

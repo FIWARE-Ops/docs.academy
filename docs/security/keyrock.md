@@ -48,11 +48,19 @@ In this lesson you will learn how to install the GE in your own infrastructure.
 * <a href="http://www.slideshare.net/slideshow/embed_code/key/y9B1GY6myvrGDg"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 5 - Slides</a>
 
 <h4>Lesson 6. How to register your sensors in account portal</h4>
+
 In this lesson you will learn how to register IoT sensors in your FIWARE Lab applications
 
 [![](http://img.youtube.com/vi/Kbpx5CbQL74/0.jpg)](https://www.youtube.com/watch?v=Kbpx5CbQL74 "Register Sensors")
 
 * <a href="http://www.slideshare.net/slideshow/embed_code/key/c1nLQTBsjOM8kn"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 6 - Slides</a>
+
+
+<h4> Lesson 7. Adding Identity Manager and Access Control</h4>
+
+End-to-end example for IdM and Access Control. Training at Madrid Developers Week 2015.
+
+[![](http://img.youtube.com/vi/DzmtvEztcSY/0.jpg)](https://www.youtube.com/watch?v=DzmtvEztcSY "Access Control")
 
 <h3>Step-by-Step Tutorials</h3>
 

@@ -23,6 +23,8 @@ Provides an introduction to Orion Context Broker and its basic API to manage con
 <h4>Lesson 2. Orion Context Broker Advanced</h4>
 Describes advances Orion Context Broker topics, such as pagination, filtering, geo-location and much more.
 
+[![](http://img.yotube.com/vi/3qOXUcK0nCo/0.jpg)](https://www.youtube.com/watch?v=3qOXUcK0nCo "OMA Lightweight M2M")
+
 * <a href="https://fiware.github.io/academy/orion/orion2.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 2 - Slides File</a>
 
 
