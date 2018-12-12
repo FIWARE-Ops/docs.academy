@@ -31,6 +31,7 @@ pages:
   - 'Data Publication':
     - 'Biz Ecosystem': 'data-publication/business-api.md'
     - 'CKAN': 'data-publication/ckan.md'
+    - 'APInf': 'data-publication/apinf.md'
   - 'Integrated Courses':
     - 'FIWARE for Smart Cities': 'smart-cities/index.md'
   - 'FIWARE Ops':

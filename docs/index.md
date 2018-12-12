@@ -17,11 +17,8 @@ Additional **System Operations** courses are also available describing how to de
 
 <h4>Lesson 1. Introduction to FIWARE</h4>
 
-[![](http://img.youtube.com/vi/mdmeeuL4bTM/0.jpg)](https://www.youtube.com/watch?v=mdmeeuL4bTM "Introduction")
+[![](http://img.youtube.com/vi/nXY8DmiAHUw/0.jpg)](https://www.youtube.com/watch?v=nXY8DmiAHUw "Introduction")
 
 This video presentation explains what context data is and why a context data management system such as FIWARE is necessary for the development of Smart Solutions.
-
-
-https://www.youtube.com/watch?v=nXY8DmiAHUw
 
 

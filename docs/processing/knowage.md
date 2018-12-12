@@ -40,3 +40,49 @@ LOV stands for List of Values. They represent the valid values for an analytical
 
 
 In this course we see how parameters can be set on analytical documents stored on Knowage Server. The delineation of them is realised by means of LOV and AD. We illustrate the procedure step by step, in particular we show how these two tools comunicate with each other.
+
+
+
+<h4>Lesson 4. Installing Knowage</h4>
+
+[![](http://img.youtube.com/vi/gqBBLOTi07Y/0.jpg)](https://www.youtube.com/watch?v=gqBBLOTi07Y "Installion on Windows")
+
+This video presentation explains how to install Knowage on Windows
+
+[![](http://img.youtube.com/vi/uK_C_bQSAaU/0.jpg)](https://www.youtube.com/watch?v=uK_C_bQSAaU "Installion on Linux")
+
+This video presentation explains how to install Knowage on Linux
+
+
+<h4>Lesson 5. Online Demonstrations</h4>
+
+The following videos are without sound:
+
+[![](http://img.youtube.com/vi/tgnVUAWs1kI/0.jpg)](https://www.youtube.com/watch?v=tgnVUAWs1kI "Overview")
+
+This video presentation gives an overview of the main analytical documents provided by the suite: traditional and advanced charts, reports, maps, OLAP, KPIs and interactive cockpits
+
+[![](http://img.youtube.com/vi/8FOiT7fhyf8/0.jpg)](https://www.youtube.com/watch?v=8FOiT7fhyf8 "Data federation")
+
+This video presentation shows how to upload private files, use external open data sets (ckan), relate both with enterprise data using a federated model.
+
+
+[![](http://img.youtube.com/vi/Rk9slySowO0/0.jpg)](https://www.youtube.com/watch?v=Rk9slySowO0 "Free Inquiry")
+
+This video presentation demonstrates the drag & drop query builder, to freely inquire traditional data source and big data systems, producing custom data sets
+
+
+[![](http://img.youtube.com/vi/ueUfgYHT_CA/0.jpg)](https://www.youtube.com/watch?v=ueUfgYHT_CA "Meta Model")
+
+This video presentation describes how to create a business metamodel over a traditional data source or big data systems/NoSQL databases that provide a metadata catalogue.
+
+[![](http://img.youtube.com/vi/VZHBkfifW2c/0.jpg)](https://www.youtube.com/watch?v=VZHBkfifW2c "Function catalogue")
+
+This video presentation describes how to use advanced analytics over private data in an easy way (prevision using R script)
+
+
+
+[![](http://img.youtube.com/vi/f9dp8A74F7w/0.jpg)](https://www.youtube.com/watch?v=f9dp8A74F7w "Cockpit Creation")
+
+This video presentation describes how to create an interactive cockpit in a few clicks without technical skills.
+
