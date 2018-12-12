@@ -15,14 +15,14 @@ This lesson introduces the main concepts needed to understand the architecture a
 
 [![](http://img.youtube.com/vi/8tGbUI18udM/0.jpg)](https://www.youtube.com/watch?v=8tGbUI18udM "Introduction")
 
-* <a href="https://www.slideshare.net/alvaroalonsogonzalez/pep-proxy-wilma-ge-lesson-1-introduction"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 1 - Slides</a>
+* <a href="https://www.slideshare.net/alvaroalonsogonzalez/pep-proxy-wilma-ge-lesson-1-introduction">![](https://fiware.github.io/academy/img/doc.svg)Lesson 1 - Slides</a>
 
 <h4>Lesson 2. Installing, registering and configuring Wilma</h4>
 This lesson explains how to install and configure Wilma to start working with it.
 
 [![](http://img.youtube.com/vi/b4sYU78skrw/0.jpg)](https://www.youtube.com/watch?v=b4sYU78skrw "Install and Register")
 
-* <a href="https://www.slideshare.net/alvaroalonsogonzalez/pep-proxy-wilma-ge-lesson-2-installing-registering-and-configuring-wilma"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Lesson 2 - Slides</a>
+* <a href="https://www.slideshare.net/alvaroalonsogonzalez/pep-proxy-wilma-ge-lesson-2-installing-registering-and-configuring-wilma">![](https://fiware.github.io/academy/img/doc.svg)Lesson 2 - Slides</a>
 
 <h4>Lesson 3. Securing a REST API</h4>
 This lesson presents the way in which you can secure your REST APIs and shows practical examples with a real backend.

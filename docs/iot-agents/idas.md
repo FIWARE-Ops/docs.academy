@@ -38,11 +38,11 @@ Introduction to IoT and IoT Agents. Training at Madrid Developers Week 2015.
 
 <h4>Lesson 2. Connecting IoT Devices</h4>
 
-* <a href="https://www.slideshare.net/FI-WARE/fiware-iotidasintroul20v2"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Connecting IoT Devices to FIWARE</a>
+* <a href="https://www.slideshare.net/FI-WARE/fiware-iotidasintroul20v2">![](https://fiware.github.io/academy/img/doc.svg)Connecting IoT Devices to FIWARE</a>
 
 <h4>Lesson 3. UltraLight 2.0</h4>
 
-* <a href="https://www.slideshare.net/FI-WARE/io-t-basicexercisesdevelopersweek"><img src="https://fiware.github.io/academy/img/doc.svg" alt=" " />Autoevaluation Exercises for UL2.0 Devices</a>
+* <a href="https://www.slideshare.net/FI-WARE/io-t-basicexercisesdevelopersweek">![](https://fiware.github.io/academy/img/doc.svg)Autoevaluation Exercises for UL2.0 Devices</a>
 
 
 <h4>Lesson 4. OMA Lightweight M2M</h4>

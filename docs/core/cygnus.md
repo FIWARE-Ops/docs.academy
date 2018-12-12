@@ -22,14 +22,14 @@ of information between systems.
 
 By following this course, you will learn about Cygnus, our connector able to create historics from Orion context data. FAQ, architecture, basic and advanced configuration, and detailed sink catalogue.
 
-* <a href="https://fiware.github.io/academy/cygnus/cygnus1.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 1 - introduction to Cygnus</a>
+* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 1 - introduction to Cygnus](https://fiware.github.io/academy/cygnus/cygnus1.pdf)
 
 
 <h4>Lesson 2. Persisting to HDFS using Cygnus</h4>
 
 [![](http://img.youtube.com/vi/Q_TZKLDu4X0/0.jpg)](https://www.youtube.com/watch?v=Q_TZKLDu4X0 "Cygnus HDFS")
 
-This video presentation explains how to use Cygnus to persist data for Big Data Analytics.
+This video presentation explains how to use Cygnus to persist data for Big Data Analyti
 
 <h3>Step-by-Step Tutorials</h3>
 

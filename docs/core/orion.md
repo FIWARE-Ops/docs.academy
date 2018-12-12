@@ -15,37 +15,33 @@ Orion Context Broker allows you to manage the entire lifecycle of context inform
 
 Provides an introduction to Orion Context Broker and its basic API to manage context information. It also explains how to set Orion instances to start working with it.
 
+[![](http://img.youtube.com/vi/dn9PW43-rVg/0.jpg)](https://www.youtube.com/watch?v=dn9PW43-rVg "Context Broker Basic")
 
-
-* <a href="https://fiware.github.io/academy/orion/orion1.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 1 - Slides File</a>
-
+* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 1 - Slides File](https://fiware.github.io/academy/orion/orion1.pdf)
 
 <h4>Lesson 2. Orion Context Broker Advanced</h4>
 Describes advances Orion Context Broker topics, such as pagination, filtering, geo-location and much more.
 
-[![](http://img.yotube.com/vi/3qOXUcK0nCo/0.jpg)](https://www.youtube.com/watch?v=3qOXUcK0nCo "OMA Lightweight M2M")
+[![](http://img.youtube.com/vi/3qOXUcK0nCo/0.jpg)](https://www.youtube.com/watch?v=3qOXUcK0nCo "Context Broker Advanced")
 
-* <a href="https://fiware.github.io/academy/orion/orion2.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 2 - Slides File</a>
-
-
+* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 2 - Slides File](https://fiware.github.io/academy/orion/orion2.pdf)
 
 <h4>Lesson 3. Upgrading from NGSI v1 to NGSI v2</h4>
 
-
 This document describes the novelties in NGSI v2 for people already familiar with NGSI v1. Thus, you would learn how to do the things you are familiar with NGSI v1 now in NGSI v2 as long as new and powerful capabilities of the new version of the API. Some knowledge in NGSI v1 API is required.
 
-* <a href="https://fiware.github.io/academy/orion/orion3.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 3 - Slides File</a>
+* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 3 - Slides File]https://fiware.github.io/academy/orion/orion3.pdf
 
 <h4>Lesson 4. Orion Context Broker Basic Exercises</h4>
 
 A set of basic-level exercises that you can use to exercise your knowledge on Orion.
 
-* <a href="https://fiware.github.io/academy/orion/orion4.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 4 - Slides File</a>
+* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 4 - Slides File](https://fiware.github.io/academy/orion/orion4.pdf)
 
 <h4>Lesson 5. Orion Context Broker Advanced Exercises</h4>
 A set of advanced-level exercises that you can use to exercise your knowledge on Orion.
 
-* <a href="https://fiware.github.io/academy/orion/orion5.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 5 - Slides File</a>
+* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 5 - Slides File](https://fiware.github.io/academy/orion/orion5.pdf)
 
 <h3>Step-by-Step Tutorials</h3>
 

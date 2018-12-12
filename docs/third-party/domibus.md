@@ -22,4 +22,4 @@ even if their IT systems were developed independently from each other.
 
 The course explains how to design a Message Exchange Infrastructure putting together a message exchange model, discovery model and security model. Furthermore, it provides information on the specifications underpinning CEF eDelivery and its sample implementations.
 
-* <a href="https://fiware.github.io/academy/domibus/domibus1.pdf"><img src="https://fiware.github.io/academy/img/pdf.png" alt=" " />Lesson 1- Introdution to eDelivery</a>
+* <a href="https://fiware.github.io/academy/domibus/domibus1.pdf">![](https://fiware.github.io/academy/img/pdf.png)Lesson 1- Introdution to eDelivery</a>
