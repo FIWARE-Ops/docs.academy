@@ -5,7 +5,7 @@
 
 This FIWARE Ops training course is aimed at Infrastructure Owners/Operators and FIWARE Ops users who want to offer the FI-PPP technologies (i.e. Generic and Specific Enablers) to 3rd parties, and who might also want to join the FIWARE Federation through the FIWARE Lab.
 
-* [![](https://fiware.github.io/academy/img/pdf.png)FIWARE Ops Infrastructure Provider Manuak](https://fiware.github.io/academy/operations/operations-manual.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png)FIWARE Ops Infrastructure Provider Manual](https://fiware.github.io/academy/operations/operations-manual.pdf)
 
 This manual aims to cover topics relevant to an infrastructure owner and
 infrastructure operators looking to deploy, setup and integrate a new
