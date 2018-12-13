@@ -146,7 +146,6 @@ Q&A Session (Mark Roddy, TSSG)
 
 [![](http://img.youtube.com/vi/_neKKRIufjU/0.jpg)](https://www.youtube.com/watch?v=_neKKRIufjU "FIWARE Lab Webinar")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 11 - Slides File](https://fiware.github.io/academy/operations/operations-11.pdf)
 
 <h4>Lesson 12.  ITBox Webinar</h4>
 
@@ -156,7 +155,6 @@ In it Alessandro provides a detailed description of the ITBox and its functional
 
 [![](http://img.youtube.com/vi/lHcJA2w07nY/0.jpg)](https://www.youtube.com/watch?v=lHcJA2w07nY "ITBox Webinar")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 12 - Slides File](https://fiware.github.io/academy/operations/operations-12.pdf)
 
 <h4>Lesson 13. Security Webinar</h4>
 
@@ -164,7 +162,6 @@ This webinar was presented by Alvaro Alonso & Joaquin Salvachua from UPM-DIT. In
 
 [![](http://img.youtube.com/vi/SOJU1Whth94/0.jpg)](https://www.youtube.com/watch?v=SOJU1Whth94 "Security Webinar")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 13 - Slides File](https://fiware.github.io/academy/operations/operations-13.pdf)
 
 
 
