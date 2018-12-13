@@ -18,6 +18,9 @@ The following are a series of presentations that are targeted towards Developers
     – Nodes, capacities, architecture, services, networking
 * Deployment timeline and upcoming challenges
 
+<span/>
+* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 1 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-dev-1.pdf)
+
 <h4>Lesson 2. FIWARE Lab for Developers</h4>
 
 * Introduction
@@ -27,6 +30,9 @@ The following are a series of presentations that are targeted towards Developers
     * Managing virtual machine images
     * Working with virtual machines
     * Working with infrastructure monitoring
+
+<span/>
+* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 2 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-dev-2.pdf)
 
 <h4>Lesson 3. Using S3C: Service Capability, Connectivity and Control</h4>
 
@@ -39,6 +45,9 @@ The following are a series of presentations that are targeted towards Developers
     * Network Identity Management
     * Seamless Network Connectivity
 
+<span/>
+* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 3 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-dev-3.pdf)
+
 <h4>Lesson 4. A FIWARE Lab Showcase</h4>
 
 What you will learn:
@@ -50,4 +59,7 @@ What you will learn:
 (Showcase/Demo)
 
 *  Some knowledge of how the showcase was built
+
+<span/>
+* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 4 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-dev-4.pdf)
 

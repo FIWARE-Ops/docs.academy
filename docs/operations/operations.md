@@ -23,6 +23,8 @@ Presented at the Madrid training session (June 2014) by Federico Alvarez from th
 
 [![](http://img.youtube.com/vi/pt97VO6l-Ug/0.jpg)](https://www.youtube.com/watch?v=pt97VO6l-Ug "FIWARE, FIWARE Ops, FIWARE Lab")
 
+* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 1- Slides File](https://fiware.github.io/academy/operations/operations-1.pdf)
+
 
 This video presentation provides an introduction to FIWARE, FIWARE Lab, and FIWARE Ops. It is the opening presentation provided by the XIFI project to Operators trying to federate their Infrastructures with the FIWARE Lab.
 
@@ -30,6 +32,8 @@ This video presentation provides an introduction to FIWARE, FIWARE Lab, and FIWA
 <h4>Lesson 2.  Federated Platform Architecture</h4>
 
 [![](http://img.youtube.com/vi/Cqn92GvGIVc/0.jpg)](https://www.youtube.com/watch?v=Cqn92GvGIVc "Federated Platform Architecture")
+
+* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 2- Slides File](https://fiware.github.io/academy/operations/operations-2.pdf)
 
 The video presentation describes a high-level view of the architecture of the FIWARE Lab Federated Platform.
 

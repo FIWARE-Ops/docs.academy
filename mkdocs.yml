@@ -35,11 +35,11 @@ pages:
   - 'Integrated Courses':
     - 'FIWARE for Smart Cities': 'smart-cities/index.md'
   - 'FIWARE Ops':
-    - 'Showcase Videos': 'operations/showcase.md'
+    - 'Promotional Videos': 'operations/prpmotion.md'
     - 'Core Concepts': 'operations/core-concepts.md'
     - 'FIWARE Lab for SMEs': 'operations/fiware-lab.md'
     - 'FIWARE Lab for Developers': 'operations/fiware-lab-devs.md'
-    - 'Ops for Infrastructures': 'operations/ops-for-infrastructure.md'    
+    - 'Ops for Infrastructures': 'operations/operations.md'    
     
 
 
