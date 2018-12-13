@@ -63,3 +63,26 @@ What you will learn:
 <span/>
 * [![](https://fiware.github.io/academy/img/pdf.png)Lesson 4 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-dev-4.pdf)
 
+
+
+
+<h4>Lesson 5. FIWARE Ops for Developers</h4>
+
+This webinar: "FIWARE Ops for Developers", took place on February 25th 2015. The webinar was targeted towards those researchers and application developers that are aiming to develop and deploy to the FIWARE Lab federation of infrastructures.
+
+[![](http://img.youtube.com/vi/AwYgQmyF50k/0.jpg)](https://www.youtube.com/watch?v=AwYgQmyF50k "FIWARE Ops for Developers")
+
+* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 5- Slides File](https://fiware.github.io/academy/operations/fiware-lab-dev-5.pdf)
+
+The course explains how to use the FIWARE Lab portal for creating, managing and deploying services to the federation complemented by an introduction on how to utilise command line tools for those tasks not yet supported by the portal. The course is focusing on the basic tasks and is suitable for less-skilled users but is also guiding more knowledgeable users by some best-practice examples.
+
+
+<h4>Lesson 6. FIWARE Lab Solution for Managing Resources & Services in a Cloud Federation</h4>
+
+This webinar "FIWARE Lab Solution for Managing Resources & Services in a Cloud Federation" is dedicated to researchers and developers who want to take advantage of the solution concerned with FIWARE Lab management tools and components and it will cover the following topics:
+
+* Introduction to FIWARE Lab • FIWARE Lab Solution for Managing Resources & Services in a Cloud Federation
+* Q&A Session
+
+* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 6 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-dev-6.pdf)
+
