@@ -30,7 +30,7 @@ Describes advances Orion Context Broker topics, such as pagination, filtering, g
 
 This document describes the novelties in NGSI v2 for people already familiar with NGSI v1. Thus, you would learn how to do the things you are familiar with NGSI v1 now in NGSI v2 as long as new and powerful capabilities of the new version of the API. Some knowledge in NGSI v1 API is required.
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 3 - Slides File]https://fiware.github.io/academy/orion/orion3.pdf
+* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 3 - Slides File](https://fiware.github.io/academy/orion/orion3.pdf)
 
 <h4>Lesson 4. Orion Context Broker Basic Exercises</h4>
 
