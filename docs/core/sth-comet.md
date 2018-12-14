@@ -11,7 +11,7 @@ charge of managing (storing and retrieving) historical raw and aggregated time
 series context information about the evolution in time of context data (i.e.,
 entity attribute values) registered in an Orion Context Broker instance.
 
--   [Documentation](https://fiware-sth-comet.rtfd.io)
+[![](https://fiware.github.io/academy/img/books.png) Documentation](https://fiware-sth-comet.rtfd.io)
 
 <h3>Academy Courses</h3>
 
@@ -19,7 +19,7 @@ entity attribute values) registered in an Orion Context Broker instance.
 
 Training program for the FIWARE Short Time Historic (STH, aka. Comet) component including all its distinctive features and covering from installation to configuration and running.
 
-* <a href="https://fiware.github.io/academy/sth-comet/sth-comet1.pdf">![](https://fiware.github.io/academy/img/pdf.png)Lesson 1 - STH Comet Introduction</a>
+* <a href="https://fiware.github.io/academy/sth-comet/sth-comet1.pdf">![](https://fiware.github.io/academy/img/pdf.png) Lesson 1 - STH Comet Introduction</a>
 
 
 <h3>Step-by-Step Tutorials</h3>

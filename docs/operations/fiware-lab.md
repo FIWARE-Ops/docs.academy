@@ -19,7 +19,7 @@ Introduction: Maurizio Cecchi (Telecom Italia)
 
 [![](http://img.youtube.com/vi/2fYRujbj_UM/0.jpg)](https://www.youtube.com/watch?v=2fYRujbj_UM "FIWARE Benefits")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 1 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-1.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 1 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-1.pdf)
 
 
 Presented by Maurizio Cecchi (Coordinator) on behalf of the XIFI project. This is a presentation entitled "The FIWARE Offering". This video presentation provides an introduction to what is on offer from FIWARE. It is the opening presentation provided by the XIFI project to SMEs & Accelerators who would want to deploy and test their business solution with the experimental infrastructures provided by FIWARE Lab.
@@ -35,7 +35,7 @@ Introduction to FIWARE Open Ecosystem: Fernando Lopez Aguilar Fermín Galán Mar
 
 <span/>
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 2 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-2.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 2 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-2.pdf)
 
 <h4>Lesson 3.  Use of the E-learning portal, Helpdesk and support to Developers</h4>
 
@@ -46,7 +46,7 @@ Ecosystem and Support Services: Uwe Herzog (Eurescom)
 
 [![](http://img.youtube.com/vi/HpTsw10ugmk/0.jpg)](https://www.youtube.com/watch?v=HpTsw10ugmk " eLearning Platform")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 3 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-3.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 3 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-3.pdf)
 
 This is a presentation entitled "eLearning Platform: Support to FIWARE Developers". This video presentation provides an introduction to FIWARE, FIWARE Lab, and FIWARE Ops. It is the second presentation provided by the XIFI project to SMEs & Accelerators who would want to deploy and test their business solution with the experimental infrastructures provided by FIWARE Lab.
 
@@ -63,7 +63,7 @@ FIWARE and FIWARE Lab Service Offer: Fernando Lopez Aguilar (Telefónica)
 
 <span/>
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 4 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-4.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 4 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-4.pdf)
 
 <h4>Lesson 5. FIWARE Ops overview</h4>
 
@@ -77,7 +77,7 @@ FIWARE Ops - an Overview: Federico Alvarez (UPM)
 
 [![](http://img.youtube.com/vi/CS2CcyLZj5M/0.jpg)](https://www.youtube.com/watch?v=CS2CcyLZj5M " Ops Overview")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 5- Slides File](https://fiware.github.io/academy/operations/fiware-lab-5.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 5- Slides File](https://fiware.github.io/academy/operations/fiware-lab-5.pdf)
 
 Presentation from the ECFI-2 held in Munich in 2014 Presented by Federico Alvarez on behalf of the XIFI project. This is a link to a Youtube video of a presentation entitled "FIWARE Ops - an Overview". This video presentation provides an introduction to FIWARE Ops. It is the last presentation provided by the XIFI project to SMEs & Accelerators who would want to deploy and test their business solution with the experimental infrastructures provided by FIWARE Lab.
 

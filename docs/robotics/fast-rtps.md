@@ -10,7 +10,7 @@ Management Group (OMG) consortium. RTPS is also the wire interoperability
 protocol defined for the Data Distribution Service (DDS) standard, again by the
 OMG.
 
--   [Documentation](https://eprosima-fast-rtps.rtfd.io/)
+[![](https://fiware.github.io/academy/img/books.png) Documentation](https://eprosima-fast-rtps.rtfd.io/)
 
 
 <h3>Step-by-Step Tutorials</h3>

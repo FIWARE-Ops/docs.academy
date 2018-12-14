@@ -19,13 +19,13 @@ support the NGSI API.
 
 <h3>Documentation</h3>
 
--   [IoT Agent Framework Library](https://iotagent-node-lib.rtfd.io)
-
 -   [IoT Agent for JSON](https://fiware-iotagent-json.rtfd.io)
 -   [IoT Agent for Ultralight](https://fiware-iotagent-ul.rtfd.io)
 -   [IoT Agent for LoRaWaN](https://fiware-lorawan.rtfd.io)
 -   [IoT Agent for LightWeight Machine2Machine](https://fiware-iotagent-lwm2m.rtfd.io)
 -   [IoT Agent for OPC UA](https://iotagent-opcua.rtfd.io)
+
+[![](https://fiware.github.io/academy/img/books.png) IoT Agent Framework Library](https://iotagent-node-lib.rtfd.io)
 
 
 <h3>Academy Courses</h3>

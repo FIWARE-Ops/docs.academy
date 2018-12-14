@@ -9,7 +9,7 @@ such as [CrateDB](https://crate.io/) with reference to maintaining a scalable
 architecture and compatibility with visualization tools such as
 [Grafana](http://www.grafana.com/)
 
--   [Documentation](https://quantumleap.rtfd.io/)
+[![](https://fiware.github.io/academy/img/books.png) Documentation](https://quantumleap.rtfd.io/)
 
 <h3>Step-by-Step Tutorials</h3>
 

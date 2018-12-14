@@ -7,7 +7,7 @@ The Orion Context Broker is an implementation of the Publish/Subscribe Broker Ge
 
 Orion Context Broker allows you to manage the entire lifecycle of context information including updates, queries, registrations and subscriptions. It is an NGSI v2 server implementation to manage context information and its availability. Using the Orion Context Broker, you are able to create context elements and manage them through updates and queries. In addition, you can subscribe to context information so when some condition occurs (e.g. the context elements have changed) you receive a notification.
 
--   [Documentation](https://fiware-orion.rtfd.io)
+[![](https://fiware.github.io/academy/img/books.png) Documentation](https://fiware-orion.rtfd.io)
 
 <h3>Academy Courses</h3>
 
@@ -17,31 +17,31 @@ Provides an introduction to Orion Context Broker and its basic API to manage con
 
 [![](http://img.youtube.com/vi/dn9PW43-rVg/0.jpg)](https://www.youtube.com/watch?v=dn9PW43-rVg "Context Broker Basic")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 1 - Slides File](https://fiware.github.io/academy/orion/orion1.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 1 - Slides File](https://fiware.github.io/academy/orion/orion1.pdf)
 
 <h4>Lesson 2. Orion Context Broker Advanced</h4>
 Describes advances Orion Context Broker topics, such as pagination, filtering, geo-location and much more.
 
 [![](http://img.youtube.com/vi/3qOXUcK0nCo/0.jpg)](https://www.youtube.com/watch?v=3qOXUcK0nCo "Context Broker Advanced")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 2 - Slides File](https://fiware.github.io/academy/orion/orion2.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 2 - Slides File](https://fiware.github.io/academy/orion/orion2.pdf)
 
 <h4>Lesson 3. Upgrading from NGSI v1 to NGSI v2</h4>
 
 This document describes the novelties in NGSI v2 for people already familiar with NGSI v1. Thus, you would learn how to do the things you are familiar with NGSI v1 now in NGSI v2 as long as new and powerful capabilities of the new version of the API. Some knowledge in NGSI v1 API is required.
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 3 - Slides File](https://fiware.github.io/academy/orion/orion3.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 3 - Slides File](https://fiware.github.io/academy/orion/orion3.pdf)
 
 <h4>Lesson 4. Orion Context Broker Basic Exercises</h4>
 
 A set of basic-level exercises that you can use to exercise your knowledge on Orion.
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 4 - Slides File](https://fiware.github.io/academy/orion/orion4.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 4 - Slides File](https://fiware.github.io/academy/orion/orion4.pdf)
 
 <h4>Lesson 5. Orion Context Broker Advanced Exercises</h4>
 A set of advanced-level exercises that you can use to exercise your knowledge on Orion.
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 5 - Slides File](https://fiware.github.io/academy/orion/orion5.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 5 - Slides File](https://fiware.github.io/academy/orion/orion5.pdf)
 
 <h3>Step-by-Step Tutorials</h3>
 

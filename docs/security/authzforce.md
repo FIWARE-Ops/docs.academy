@@ -5,7 +5,7 @@
 
 **AuthzForce** is the reference implementation of the Authorization PDP Generic Enabler (formerly called Access Control GE). Indeed, as mandated by the GE specification, this implementation provides an API to get authorization decisions based on authorization policies, and authorization requests from PEPs. The API follows the REST architecture style, and complies with XACML v3.0.
 
--   [Documentation](https://authzforce-ce-fiware.rtfd.io/)
+[![](https://fiware.github.io/academy/img/books.png) Documentation](https://authzforce-ce-fiware.rtfd.io/)
 
 <h3>Academy Courses</h3>
 
@@ -16,14 +16,14 @@ This lesson is an introduction to the Authorization PDP Generic Enabler, AuthzFo
 
 
 
-* <a href="https://fiware.github.io/academy/authzforce/authzforce1.pptx">![](https://fiware.github.io/academy/img/doc.svg)Lesson 1 - Slides with audio</a>
+* <a href="https://fiware.github.io/academy/authzforce/authzforce1.pptx">![](https://fiware.github.io/academy/img/doc.svg) Lesson 1 - Slides with audio</a>
 
 <h4>Lesson 2. Introduction to the API of Authorization PDP GE</h4>
 
 
 In this lesson, you will learn how to use the common API (Application Programming Interface) of Authorization PDP Generic Enabler implementations, as defined in FIWARE Open Specification, including the reference implementation AuthzForce.
 
-* <a href="https://fiware.github.io/academy/authzforce/authzforce2.pptx">![](https://fiware.github.io/academy/img/doc.svg)Lesson 2 - Slides with audio</a>
+* <a href="https://fiware.github.io/academy/authzforce/authzforce2.pptx">![](https://fiware.github.io/academy/img/doc.svg) Lesson 2 - Slides with audio</a>
 
 <h4>Lesson 3. Introduction to AuthzForce</h4>
 
@@ -37,7 +37,7 @@ In this lesson, you will learn about AuthzForce - the Authorization PDP GEri:
 
 <span/>
 
-* <a href="https://fiware.github.io/academy/authzforce/authzforce3.pptx">![](https://fiware.github.io/academy/img/doc.svg)Lesson 3 - Slides with audio</a>
+* <a href="https://fiware.github.io/academy/authzforce/authzforce3.pptx">![](https://fiware.github.io/academy/img/doc.svg) Lesson 3 - Slides with audio</a>
 
 
 

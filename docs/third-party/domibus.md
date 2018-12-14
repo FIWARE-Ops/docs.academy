@@ -16,10 +16,12 @@ result of this, users adopting CEF eDelivery can easily and safely exchange data
 even if their IT systems were developed independently from each other.
 
 
+[![](https://fiware.github.io/academy/img/books.png) Documentation](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Domibus)
+
 <h3>Academy Courses</h3>
 
 <h4>Lesson 1. Message Exchange Infrastructures</h4>
 
 The course explains how to design a Message Exchange Infrastructure putting together a message exchange model, discovery model and security model. Furthermore, it provides information on the specifications underpinning CEF eDelivery and its sample implementations.
 
-* <a href="https://fiware.github.io/academy/domibus/domibus1.pdf">![](https://fiware.github.io/academy/img/pdf.png)Lesson 1- Introdution to eDelivery</a>
+* <a href="https://fiware.github.io/academy/domibus/domibus1.pdf">![](https://fiware.github.io/academy/img/pdf.png) Lesson 1- Introdution to eDelivery</a>

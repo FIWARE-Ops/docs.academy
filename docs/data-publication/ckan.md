@@ -8,10 +8,11 @@ portal platform with the main FIWARE GEs, enhancing the default CKAN behaviour
 with improved access control, publication of right-time context data, and rich
 visualization features.
 
--   [Documentation](https://fiware-ckan-extensions.rtfd.io/)
 -   [CKAN User Guide](http://docs.ckan.org/en/latest/user-guide.html)
 -   [CKAN API Guide](http://docs.ckan.org/en/latest/api/index.html)
 -   [CKAN Sysadmin guide](http://docs.ckan.org/en/latest/sysadmin-guide.html)
+
+[![](https://fiware.github.io/academy/img/books.png) Documentation](https://fiware-ckan-extensions.rtfd.io/)
 
 <h3>Academy Courses</h3>
 

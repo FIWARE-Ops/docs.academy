@@ -19,7 +19,7 @@ Presented at the Madrid training session (June 2014) by Federico Alvarez from th
 
 [![](http://img.youtube.com/vi/pt97VO6l-Ug/0.jpg)](https://www.youtube.com/watch?v=pt97VO6l-Ug "FIWARE, FIWARE Ops, FIWARE Lab")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 1- Slides File](https://fiware.github.io/academy/operations/operations-1.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 1- Slides File](https://fiware.github.io/academy/operations/operations-1.pdf)
 
 
 This video presentation provides an introduction to FIWARE, FIWARE Lab, and FIWARE Ops. It is the opening presentation provided by the XIFI project to Operators trying to federate their Infrastructures with the FIWARE Lab.
@@ -29,7 +29,7 @@ This video presentation provides an introduction to FIWARE, FIWARE Lab, and FIWA
 
 [![](http://img.youtube.com/vi/Cqn92GvGIVc/0.jpg)](https://www.youtube.com/watch?v=Cqn92GvGIVc "Federated Platform Architecture")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 2- Slides File](https://fiware.github.io/academy/operations/operations-2.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 2- Slides File](https://fiware.github.io/academy/operations/operations-2.pdf)
 
 The video presentation describes a high-level view of the architecture of the FIWARE Lab Federated Platform.
 
@@ -43,7 +43,7 @@ This module describes how an Infrastructure Owner/Operator would successfully jo
 
 [![](http://img.youtube.com/vi/tnz0JWqPJks/0.jpg)](https://www.youtube.com/watch?v=tnz0JWqPJks "Process for joining the Federation")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 3 - Slides File](https://fiware.github.io/academy/operations/operations-3.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 3 - Slides File](https://fiware.github.io/academy/operations/operations-3.pdf)
 
 A presentation from XIFI's Madrid workshop given by Sergio Morant from Images & Réseaux in France.
 
@@ -55,7 +55,7 @@ An Introduction to Infrastructure ToolBox and OpenStack.
 
 [![](http://img.youtube.com/vi/FT2is8IfaVo/0.jpg)](https://www.youtube.com/watch?v=FT2is8IfaVo "Components That You Need")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 4 - Slides File](https://fiware.github.io/academy/operations/operations-4.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 4 - Slides File](https://fiware.github.io/academy/operations/operations-4.pdf)
 
 Presented at the Madrid training session (June 2014) by Alessandro Martelonne from CreateNet in Italy.
 
@@ -67,7 +67,7 @@ Detailed presentation on the Infrastructure ToolBox.
 
 [![](http://img.youtube.com/vi/Yng3m2uVNxw/0.jpg)](https://www.youtube.com/watch?v=Yng3m2uVNxw "Infrastructure ToolBox")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 5 - Slides File](https://fiware.github.io/academy/operations/operations-5.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 5 - Slides File](https://fiware.github.io/academy/operations/operations-5.pdf)
 
 Presented at the Madrid training session (June 2014) by Alessandro Martelonne from CreateNet in Italy.
 
@@ -79,7 +79,7 @@ Provides details to the Infrastructure Owner/Operator on how they would monitor 
 
 [![](http://img.youtube.com/vi/xS1hcsLRkDc/0.jpg)](https://www.youtube.com/watch?v=xS1hcsLRkDc "Detailed Components - Monitoring")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 6 - Slides File](https://fiware.github.io/academy/operations/operations-6.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 6 - Slides File](https://fiware.github.io/academy/operations/operations-6.pdf)
 
 This video presentation provides information to Infrastructure Monitoring, which is part of the offering from the FIWARE Ops. It overviews the FIWARE Ops monitoring tools, such as the NGSI Adapter, the Network Active Monitoring (NAM), the OpenStack Data Collector (ODC), and the Datacentre and Enablers Monitoring (DEM). This presentation is provided by the XIFI project to Operators trying to federate their Infrastructures within the FIWARE Lab.
 
@@ -99,7 +99,7 @@ A presentation from XIFI's Madrid workshop given by Jorge Valhondo Rama from the
 
 [![](http://img.youtube.com/vi/L6KmyaXdJq8/0.jpg)](https://www.youtube.com/watch?v=L6KmyaXdJq8 "Marketplace and Resource Catalogue")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 7 - Slides File](https://fiware.github.io/academy/operations/operations-7.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 7 - Slides File](https://fiware.github.io/academy/operations/operations-7.pdf)
 
 This is a presentation entitled "Marketplace and Resource Catalogue". The video presentation describes the FIWARE Lab Marketplace portal, the glue that offers FIWARE Lab stakeholders the ability to access the portal service, which includes a number of services such as the Resource Catalogue.
 
@@ -111,7 +111,7 @@ The DCA is a XIFI component and offers to the XIFI infrastructure owners and app
 
 [![](http://img.youtube.com/vi/SxEsM6_CRVQ/0.jpg)](https://www.youtube.com/watch?v=SxEsM6_CRVQ "Deployment & Configuration Adapter")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 8 - Slides File](https://fiware.github.io/academy/operations/operations-8.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 8 - Slides File](https://fiware.github.io/academy/operations/operations-8.pdf)
 
 This presentation describes the functionality of the Deployment and Configuration Adapter provided by the XIFI project to Operators trying to deploy their Infrastructures with the FIWARE Lab.
 
@@ -121,7 +121,7 @@ This module provides details to the Infrastructure Owner/Operator on the functio
 
 [![](http://img.youtube.com/vi/cMVTCWSvMTk/0.jpg)](https://www.youtube.com/watch?v=cMVTCWSvMTk "Network Controller")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 9 - Slides File](https://fiware.github.io/academy/operations/operations-8.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 9 - Slides File](https://fiware.github.io/academy/operations/operations-8.pdf)
 
 This presentation describes the functionality of the Network Controller provided by the XIFI project to Operators trying to deploy their Infrastructures with the FIWARE Lab.
 
@@ -131,7 +131,7 @@ New Infrastructures joining the federation will need the support of the XIFI com
 
 [![](http://img.youtube.com/vi/gMaLbZMqm98/0.jpg)](https://www.youtube.com/watch?v=gMaLbZMqm98 "Support Processes")
 
-* [![](https://fiware.github.io/academy/img/pdf.png)Lesson 10 - Slides File](https://fiware.github.io/academy/operations/operations-10.pdf)
+* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 10 - Slides File](https://fiware.github.io/academy/operations/operations-10.pdf)
 
 This presentation describes the support processes provided by the XIFI project to Operators trying to federate their Infrastructures with the FIWARE Lab.
 
