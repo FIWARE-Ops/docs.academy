@@ -1,0 +1,354 @@
+/*
+* Copyright 2014 ENGINEERING GROUP
+*
+* Licensed under the EUPL, Version 1.1 or - as soon they
+will be approved by the European Commission - subsequent
+versions of the EUPL (the "License");
+* You may not use this work except in compliance with the
+License.
+* You may obtain a copy of the License at:
+*
+* http://ec.europa.eu/idabc/eupl
+*
+* Unless required by applicable law or agreed to in
+writing, software distributed under the License is
+distributed on an "AS IS" basis,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
+express or implied.
+* See the License for the specific language governing
+permissions and limitations under the License.
+*/
+
+@import url('normalize.css');
+
+body{
+	font-family: Verdana, sans-serif;
+	color: #656565;
+}
+a{
+	text-decoration: none;
+}
+
+header{
+    background-color: #59c0d2;
+}
+header .content{
+    background-repeat: no-repeat;
+    background-image: url(../images/header/logo.png);
+    background-position: 11px 1px;
+	height: 58px;
+}
+header img{
+	float: right;
+}
+
+.course-container{
+	width: 1000px;
+	position: relative;
+	display: block;
+    margin: 15px auto 0;
+}
+
+.start-course {
+	margin: 85px auto 0;
+	width: 82px;
+}
+.start-course a{
+	font-weight: bold;
+	color: #FFF;
+	text-transform: uppercase;
+	background-color: #233c68;
+	padding: 9px 8px 4px;
+	font-family: "NeoTechRegular";
+	font-size: 22px;
+}
+
+.note {
+	margin: 45px auto 0px;
+    width: 373px;
+	font-weight: bold;
+	font-size: 12px;
+	color: #233c68;
+	border: 1px solid #59c0d2;
+	padding: 12px;
+	border-radius: 3px;
+}
+
+
+.container{
+	width: 1000px;
+	height: 640px;
+	margin: auto; 
+	position: absolute; 
+	top: 0; 
+	left:0; 
+	bottom:0; 
+	right:0;
+}
+
+.close_button {
+    position: absolute;
+    right: 4px;
+    top: -2px;
+}
+.close_button a {
+    background-color: rgba(0, 45, 103, 0.81);
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    color: #f1f1f1;
+    font-family: "NeoTechRegular";
+    font-size: 17px;
+    font-weight: bold;
+    padding: 0 3px;
+}
+.close_button a:hover{
+    color: #fff;
+    background-color: rgba(0, 45, 103, 0.97);
+}
+.course-title{	
+	font-size: 17px;
+	padding: 0px 0px 9px;
+	font-family: "NeoTechRegular";
+	display: inline;
+	color: #233c68;
+}
+
+.audio-slideshow {
+	width: 100%;
+	height: 540px;
+	margin-top: 13px;
+	position: relative;
+	background-color: #f2f2f2;
+}
+.menu{
+	width: 275px;
+	height: auto;
+	max-height: 500px;
+	float: left;
+	margin: 5px 5px 3px;
+	font-family: "Verdana", Arial, sans-serif;
+	font-size: small;
+	padding: 0px;
+}
+
+.menu-slides{
+	font-stretch: condensed;
+	overflow: auto;
+	overflow-x: hidden;
+	height: 463px;
+}
+
+.slide-number{
+	color: #555555;
+	font-size: 11px;
+	width: auto;
+	padding: 1px 8px 0 0;
+	float: right;
+}
+
+.menu-images{
+	color: #555;
+	border-radius: 2px;
+	padding: 1.5px 5.5px 2.5px;
+	font-size: 11px;
+}
+
+.menu-images:hover{
+	/* background-color: #f1f2f2 !important;*/
+	text-decoration: underline;
+}
+
+.audio{
+	width: 710px;
+	float: left;
+}
+
+.audio-info{
+	border-top: 1px solid rgb(204, 204, 204);
+	padding: 2px 0px;
+	background: #fff;
+}
+
+.audio-title{
+	width: auto;
+	text-indent: 10px;
+	font-size: 11px;
+	background: #ffffff;
+	color: #233c68;
+}
+
+.audio-slides {
+	width: auto;
+	background-color: #FFFFFF;
+	height: 500px;
+    margin-top: 5px;
+}
+
+.audio-slides img {
+	display: block;
+	position: absolute;
+	margin-right: 5px;
+}
+
+.play-pause-container {
+	position: absolute;
+	bottom: 4px;
+	height: 38px;
+	left: 8px;
+}
+
+.stop-container {
+	position: absolute;
+	bottom: 4px;
+	height: 38px;
+	left: 14px;
+}
+
+.print-container {
+    bottom: 5px;
+    height: 38px;
+    position: absolute;
+    width: auto;
+}
+
+.time-container {
+	position: absolute;
+	font-weight: bold;
+	color: #555;
+	left: 113px;
+	background-color: #f2f2f2;
+	line-height: 0;
+	font-size: 10px;
+	font-family: monospace;
+	margin-top: 8px;
+    padding: 12px 17px;
+}
+
+.play-pause-container a {
+	outline: none;
+	text-indent: -99999px;
+	width: 28px;
+	height: 28px;
+	position: absolute;
+	margin-left: 0px;
+}
+
+.stop-container a {
+	outline: none;
+	text-indent: -99999px;
+	width: 28px;
+	height: 28px;
+	position: absolute;
+	margin-left: 38px;
+}
+
+.print-container a {
+	outline: none;
+	text-indent: -99999px;
+	width: 28px;
+	height: 28px;
+	position: absolute;
+	margin-left: 235px;
+}
+
+a.audio-play, a.audio-pause, a.audio-stop {
+	width:38px;
+	height:25px;
+}
+
+a.audio-play {
+	background: url("../images/jplayer.png") -1px -2px no-repeat;}
+
+a.audio-play:hover {
+	background: url("../images/jplayer.png") -41px -2px no-repeat;
+}
+a.audio-pause {
+	background: url("../images/jplayer.png") -1px -28px no-repeat;
+}
+a.audio-pause:hover {
+	background: url("../images/jplayer.png") -41px -28px no-repeat;
+}
+
+a.audio-stop {
+	background: url("../images/jplayer.png") -1px -55px no-repeat;
+}
+a.audio-stop:hover {
+	background: url("../images/jplayer.png") -41px -55px no-repeat;
+}
+
+a.print-pdf {
+    width:38px;
+	height:25px;
+	background: url("../images/jplayer.png") -1px -81px no-repeat;
+}
+a.print-pdf:hover {
+	background: url("../images/jplayer.png") -41px -81px no-repeat;
+}
+
+.timeline {
+	position: absolute;
+	width: 100%;
+	background-color: #b4babb;
+	height: 12px;
+	bottom: 0;
+	left: 0;
+	border-top: 1px solid #FFF;
+}
+
+.playhead {
+	position: absolute;
+	height: 12px;
+	background: #233c68;
+	width: 0;
+}
+
+.marker {
+	width: 9px;
+	height: 9px;
+	border-radius: 5px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,0.4) inset;
+	position: absolute;
+	background: #FFFFFF;
+	top: 1px;
+}
+.marker:hover {
+	background: #49b3c5;
+}
+
+
+.marker span {
+	padding: 1px;
+	position: absolute;
+	bottom: 20px;
+	opacity: 0;
+	left: -50px;
+	z-index: -1;
+	box-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+
+.marker span img {
+	display: block;
+}
+
+.marker:hover span {
+	opacity: 1;
+	z-index: 100;
+}
+.index{
+	width: 100%;
+}
+
+sidebar footer{
+	bottom: 2px;
+	width: 285px;
+	position: absolute;
+	height: 50px;
+	border-top: 1px solid rgb(180, 186, 187);
+	background: none repeat scroll 0 0 #d5e2ed;
+}
