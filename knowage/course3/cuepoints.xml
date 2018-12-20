@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<texts title="Parametric report with Knowage" time="376">
+  <text cuepoint="0" name="Introduction"/>
+  <text cuepoint="9" name="Introduction details"/>
+  <text cuepoint="21" name="Definitions"/>
+  <text cuepoint="46" name="LOV definition"/>
+  <text cuepoint="66" name="A glance on LOV"/>
+  <text cuepoint="81" name="Create a new LOV"/>
+  <text cuepoint="90" name="Start a new LOV"/>
+  <text cuepoint="97" name="Fill in the boxes"/>
+  <text cuepoint="111" name="Insert query"/>
+  <text cuepoint="120" name="Test LOV"/>
+  <text cuepoint="128" name="Define meta-information"/>
+  <text cuepoint="142" name="Save LOV"/>
+  <text cuepoint="149" name="Analytical Driver definition"/>
+  <text cuepoint="177" name="Start a new AD"/>
+  <text cuepoint="194" name="Configure a new AD"/>
+  <text cuepoint="205" name="Functional vs Temporal"/>
+  <text cuepoint="224" name="Save the AD"/>
+  <text cuepoint="233" name="Add Usemode"/>
+  <text cuepoint="242" name="Add LOV to the AD"/>
+  <text cuepoint="250" name="Select Modality"/>
+  <text cuepoint="256" name="Grant permission"/>
+  <text cuepoint="261" name="More about Usemode "/>
+  <text cuepoint="279" name="Relate AD and document"/>
+  <text cuepoint="286" name="Relate AD and document: step 1"/>
+  <text cuepoint="295" name="Relate AD and document: step 2"/>
+  <text cuepoint="303" name="Relate AD and document: step 3"/>
+  <text cuepoint="321" name="Relate AD and document: step 4"/>
+  <text cuepoint="350" name="Relate AD and document: step 5"/>
+  <text cuepoint="359" name="Check the document"/>
+  <text cuepoint="369" name="Thanks"/>
+</texts>

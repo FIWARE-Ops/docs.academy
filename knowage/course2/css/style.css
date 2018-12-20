@@ -59,7 +59,7 @@ header img{
 	text-transform: uppercase;
 	background-color: #233c68;
 	padding: 9px 8px 4px;
-	font-family: "NeoTechRegular";
+	font-family: sans-serif;
 	font-size: 22px;
 }
 
@@ -97,7 +97,7 @@ header img{
     -moz-border-radius: 2px;
     border-radius: 2px;
     color: #f1f1f1;
-    font-family: "NeoTechRegular";
+    font-family: Verdana, sans-serif;
     font-size: 17px;
     font-weight: bold;
     padding: 0 3px;
@@ -109,7 +109,7 @@ header img{
 .course-title{	
 	font-size: 17px;
 	padding: 0px 0px 9px;
-	font-family: "NeoTechRegular";
+	font-family: Verdana, sans-serif;
 	display: inline;
 	color: #233c68;
 }

@@ -1,40 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<texts title="Knowage Report Designer" time="424">
+<texts title="Introduction to the Knowage Suite" time="301">
   <text cuepoint="0" name="Introduction"/>
-  <text cuepoint="8" name="Introduction details"/>
-  <text cuepoint="27" name="Environment"/>
-  <text cuepoint="50" name="Definitions"/>
-  <text cuepoint="88" name="Execution"/>
-  <text cuepoint="112" name="New Project"/>
-  <text cuepoint="123" name="&#9;Insert name"/>
-  <text cuepoint="130" name="New Server"/>
-  <text cuepoint="146" name="Test connection"/>
-  <text cuepoint="159" name="New Report"/>
-  <text cuepoint="171" name="Give a name"/>
-  <text cuepoint="181" name="Change Perspective"/>
-  <text cuepoint="199" name="Implement your report"/>
-  <text cuepoint="205" name="Studio Introduction"/>
-  <text cuepoint="212" name="Set Data Source"/>
-  <text cuepoint="220" name="JDBC Data Source"/>
-  <text cuepoint="226" name="Manage Drivers"/>
-  <text cuepoint="237" name="Fill in the boxes"/>
-  <text cuepoint="247" name="New Data Set"/>
-  <text cuepoint="255" name="Give a name to data set"/>
-  <text cuepoint="264" name="Create a simple query"/>
-  <text cuepoint="275" name="Preview your results"/>
-  <text cuepoint="280" name="Report filling"/>
-  <text cuepoint="287" name="Drag and drop"/>
-  <text cuepoint="300" name="Birt Preview"/>
-  <text cuepoint="308" name="Other formats"/>
-  <text cuepoint="318" name="Well done"/>
-  <text cuepoint="330" name="Deploy your Report"/>
-  <text cuepoint="335" name="Connection Name"/>
-  <text cuepoint="344" name="Deploy&#9;"/>
-  <text cuepoint="351" name="Select a folder"/>
-  <text cuepoint="358" name="Check on server"/>
-  <text cuepoint="374" name="Execute"/>
-  <text cuepoint="379" name="Change of state"/>
-  <text cuepoint="391" name="Change of state 2"/>
-  <text cuepoint="401" name="Conclusions"/>
-  <text cuepoint="417" name="Thanks"/>
+  <text cuepoint="8" name="Topic of the course"/>
+  <text cuepoint="18" name="Knowage policy"/>
+  <text cuepoint="29" name="Knowage Suite"/>
+  <text cuepoint="50" name="Knowage Suite"/>
+  <text cuepoint="76" name="Integrated BI solutions"/>
+  <text cuepoint="88" name="Integrated BI solutions"/>
+  <text cuepoint="97" name="Architecture"/>
+  <text cuepoint="129" name="Cloud-ready"/>
+  <text cuepoint="147" name="Cloud-ready"/>
+  <text cuepoint="164" name="Modules"/>
+  <text cuepoint="169" name="BD - Big Data"/>
+  <text cuepoint="185" name="Function catalog"/>
+  <text cuepoint="198" name="SI- Smart Intelligence"/>
+  <text cuepoint="209" name="Cockpit"/>
+  <text cuepoint="217" name="ER- Enterprise Reporting"/>
+  <text cuepoint="228" name="Report"/>
+  <text cuepoint="235" name="LI - Location Intelligence"/>
+  <text cuepoint="242" name="GIS and SVG maps"/>
+  <text cuepoint="249" name="PM- Performance Management"/>
+  <text cuepoint="258" name="KPI"/>
+  <text cuepoint="264" name="PA - Predictive Analysis"/>
+  <text cuepoint="273" name="What-if"/>
+  <text cuepoint="278" name="Conclusions"/>
+  <text cuepoint="295" name="Thanks"/>
 </texts>
