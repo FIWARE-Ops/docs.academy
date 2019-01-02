@@ -12,7 +12,6 @@ OMG.
 
 [![](https://fiware.github.io/academy/img/books.png) Documentation](https://eprosima-fast-rtps.rtfd.io/)
 
-
 <h3>Step-by-Step Tutorials</h3>
 
 Use of Fast-RTPS is described in the following step-by-step tutorial:

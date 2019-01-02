@@ -1,6 +1,3 @@
-
-
-
 <h2>STH Comet - Short Term History</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://www.fiware.org/developers/catalogue/)
@@ -17,13 +14,17 @@ entity attribute values) registered in an Orion Context Broker instance.
 
 <h4>Lesson 1. STH-Comet Introduction</h4>
 
-Training program for the FIWARE Short Time Historic (STH, aka. Comet) component including all its distinctive features and covering from installation to configuration and running.
+Training program for the FIWARE Short Time Historic (STH, aka. Comet) component
+including all its distinctive features and covering from installation to
+configuration and running.
 
-* <a href="https://fiware.github.io/academy/sth-comet/sth-comet1.pdf">![](https://fiware.github.io/academy/img/pdf.png) Lesson 1 - STH Comet Introduction</a>
-
+-   <a href="https://fiware.github.io/academy/sth-comet/sth-comet1.pdf">![](https://fiware.github.io/academy/img/pdf.png)
+    Lesson 1 - STH Comet Introduction</a>
 
 <h3>Step-by-Step Tutorials</h3>
 
-Creating short-term historic data using  STH-Comet  is described in the following step-by-step tutorial:
+Creating short-term historic data using STH-Comet is described in the following
+step-by-step tutorial:
 
-* [FIWARE 302: Querying Time Series Data](https://fiware-tutorials.readthedocs.io/en/latest/short-term-history) (MongoDB)
+-   [FIWARE 302: Querying Time Series Data](https://fiware-tutorials.readthedocs.io/en/latest/short-term-history)
+    (MongoDB)

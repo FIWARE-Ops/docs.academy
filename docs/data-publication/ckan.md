@@ -18,7 +18,8 @@ visualization features.
 
 <h4>Lesson 1. Managing data in CKAN</h4>
 
-This user guide covers using CKAN&rsquo;s web interface to organize, publish and find data.
+This user guide covers using CKAN&rsquo;s web interface to organize, publish and
+find data.
 
 [![](http://img.youtube.com/vi/PFe3Gv_-1wY/0.jpg)](https://www.youtube.com/watch?v=PFe3Gv_-1wY ">Managing Data with CKAN")
 
@@ -27,17 +28,3 @@ This user guide covers using CKAN&rsquo;s web interface to organize, publish and
 [![](http://img.youtube.com/vi/Q_TZKLDu4X0/0.jpg)](https://www.youtube.com/watch?v=Q_TZKLDu4X0 "CKAN")
 
 This video presentation explains how push data to CKAN for monetization.
-
-
-
-
-
-
-
-
-
-
-
-
-
-

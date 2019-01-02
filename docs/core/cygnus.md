@@ -13,31 +13,29 @@ automate the flow of data between systems. While the term 'dataflow' can be used
 in a variety of contexts, we use it here to mean the automated and managed flow
 of information between systems.
 
-
 [![](https://fiware.github.io/academy/img/books.png) Documentation](https://fiware-cygnus.rtfd.io)
-
 
 <h3>Academy Courses</h3>
 
 <h4>Lesson 1. Cygnus Introduction</h4>
 
-By following this course, you will learn about Cygnus, our connector able to create historics from Orion context data. FAQ, architecture, basic and advanced configuration, and detailed sink catalogue.
+By following this course, you will learn about Cygnus, our connector able to
+create historics from Orion context data. FAQ, architecture, basic and advanced
+configuration, and detailed sink catalogue.
 
-* [![](https://fiware.github.io/academy/img/pdf.png) Lesson 1 - introduction to Cygnus](https://fiware.github.io/academy/cygnus/cygnus1.pdf)
-
+-   [![](https://fiware.github.io/academy/img/pdf.png) Lesson 1 - introduction to Cygnus](https://fiware.github.io/academy/cygnus/cygnus1.pdf)
 
 <h4>Lesson 2. Persisting to HDFS using Cygnus</h4>
 
 [![](http://img.youtube.com/vi/Q_TZKLDu4X0/0.jpg)](https://www.youtube.com/watch?v=Q_TZKLDu4X0 "Cygnus HDFS")
 
-This video presentation explains how to use Cygnus to persist data for Big Data Analytics.
+This video presentation explains how to use Cygnus to persist data for Big Data
+Analytics.
 
 <h3>Step-by-Step Tutorials</h3>
 
-Data Persistence using Cygnus is described in the following step-by-step tutorial:
+Data Persistence using Cygnus is described in the following step-by-step
+tutorial:
 
-* [FIWARE 301: Persisting Context Data](https://fiware-tutorials.readthedocs.io/en/latest/historic-context) (MongoDB, MySQL, PostgreSQL)
-
-
-
-
+-   [FIWARE 301: Persisting Context Data](https://fiware-tutorials.readthedocs.io/en/latest/historic-context)
+    (MongoDB, MySQL, PostgreSQL)
