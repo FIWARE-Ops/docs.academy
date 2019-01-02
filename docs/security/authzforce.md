@@ -44,3 +44,9 @@ In this lesson, you will learn about AuthzForce - the Authorization PDP GEri:
 
 -   <a href="https://fiware.github.io/academy/authzforce/authzforce3.pptx">![](https://fiware.github.io/academy/img/doc.svg)
     Lesson 3 - Slides with audio</a>
+
+<h3>Step-by-Step Tutorials</h3>
+
+Use of Authzforce is described in the following step-by-step tutorial:
+
+-   [FIWARE 405: XACML Rules-based Permissions](https://fiware-tutorials.readthedocs.io/en/latest/xacml-access-rules)

@@ -5,7 +5,7 @@
 [![fiware](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](https://stackoverflow.com/questions/tagged/fiware)
 <br/>
 [![Documentation](https://img.shields.io/readthedocs/fiware-academy.svg)](https://fiware-academy.rtfd.io)
-[![Build Status](https://img.shields.io/travis/fiware/academy.svg)](https://travis-ci.org/fiware/academy)
+[![Build Status](https://img.shields.io/travis/Fiware/academy.svg)](https://travis-ci.org/Fiware/academy)
 
 [FIWARE](https://www.fiware.org) is a curated framework of open source platform
 components which can be assembled together and with other third-party platform
