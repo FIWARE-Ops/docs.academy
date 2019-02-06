@@ -25,6 +25,7 @@ pages:
     - 'Wilma': 'security/wilma.md'
   - 'Processing, Analysis and Visualization':
     - 'Cosmos': 'processing/cosmos.md'
+    - 'FogFlow': 'processing/fogflow.md'
     - 'Knowage': 'processing/knowage.md'
     - 'Kurento': 'processing/kurento.md'
     - 'Wirecloud': 'processing/wirecloud.md'
