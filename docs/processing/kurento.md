@@ -3,17 +3,12 @@
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/media-streams.svg)](https://www.fiware.org/developers/catalogue/)
 [![kurento](https://img.shields.io/badge/tag-kurento-orange.svg?logo=stackoverflow)](http://stackoverflow.com/questions/tagged/kurento)
 
-<!-- textlint-disable write-good -->
-
-The Kurento Media Server is a Stream-oriented Generic Enabler which provides a
-framework devoted to simplify the development of complex interactive multimedia
-applications through a rich family of APIs and toolboxes. Thanks to these, the
-Stream Oriented Generic Enabler provides developers with a set of robust
-end-to-end interoperable multimedia communication capabilities to deal with the
-complexity of transport, encoding/decoding, processing and rendering tasks in an
-easy and efficient way. Kurento is an implementation of the FIWARE Stream
-Oriented Generic Enabler. In a nutshell, Kurento makes possible the development
-of complex interactive multimedia communications in a fast, simple and easy way.
+The Kurento Media Server is a Stream-oriented Generic Enabler which provides a framework devoted to simplify the
+development of complex interactive multimedia applications through a rich family of APIs and toolboxes. Thanks to these,
+the Stream Oriented Generic Enabler provides developers with a set of robust end-to-end interoperable multimedia
+communication capabilities to deal with the complexity of transport, encoding/decoding, processing and rendering tasks
+in an easy and efficient way. Kurento is an implementation of the FIWARE Stream Oriented Generic Enabler. In summary,
+Kurento makes possible the development of complex interactive multimedia communications in a fast, simple and easy way.
 
 <!-- textlint-enable write-good -->
 
@@ -58,27 +53,23 @@ This lesson shows how to create cloud instances of Kurento using FIWARE Lab.
 
 [![](http://img.youtube.com/vi/KpmOxTMb8Iw/0.jpg)](https://www.youtube.com/watch?v=KpmOxTMb8Iw "Media Streams")
 
-This video presentation explains real-time media stream processing using the
-Kurento Media Server.
+This video presentation explains real-time media stream processing using the Kurento Media Server.
 
 <h3>Code Examples</h3>
 
-Moreover, other tutorials can be done using the Stream Oriented GE (Kurento),
-for example:&nbsp;
+Moreover, other tutorials can be done using the Stream Oriented GE (Kurento), for example:&nbsp;
 
--   <a href="https://doc-kurento.readthedocs.io/en/stable/user/tutorials.html#hello-world">Hello-world</a>
-    application. This application implements a WebRTC loopback (a WebRTC media
-    stream going from client to Kurento and back to the client).
--   <a href="https://doc-kurento.readthedocs.io/en/stable/user/tutorials.html#webrtc-one-to-many-broadcast">One
-    to many video call</a> application. This web application consists video
-    broadcasting with WebRTC. One peer transmits a video stream and N peers
-    receives it.
--   <a href="https://doc-kurento.readthedocs.io/en/stable/user/tutorials.html#webrtc-one-to-one-video-call">One
-    to one video call</a>. This application is a soft phone based on WebRTC.
+-   <a href="https://doc-kurento.readthedocs.io/en/stable/user/tutorials.html#hello-world">Hello-world</a> application.
+    This application implements a WebRTC loopback (a WebRTC media stream going from client to Kurento and back to the
+    client).
+-   <a href="https://doc-kurento.readthedocs.io/en/stable/user/tutorials.html#webrtc-one-to-many-broadcast">One to many
+    video call</a> application. This web application consists video broadcasting with WebRTC. One peer transmits a video
+    stream and N peers receives it.
+-   <a href="https://doc-kurento.readthedocs.io/en/stable/user/tutorials.html#webrtc-one-to-one-video-call">One to one
+    video call</a>. This application is a soft phone based on WebRTC.
 -   <a href="https://doc-kurento.readthedocs.io/en/stable/user/tutorials.html#webrtc-one-to-one-video-call-with-recording-and-filtering">Advanced
-    one to one video call</a> application. This is an enhanced version of the
-    previous application recording of the video communication, and also
-    integration with an augmented reality filter.
+    one to one video call</a> application. This is an enhanced version of the previous application recording of the
+    video communication, and also integration with an augmented reality filter.
 
 <h3>Step-by-Step Tutorials</h3>
 

@@ -3,12 +3,10 @@
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg)](https://www.fiware.org/developers/catalogue/)
 [![fiware-fogflow](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fogflow.svg)](https://stackoverflow.com/search?q=fogflow)
 
-FogFlow is an IoT edge computing framework to orchestrate dynamic processing
-flows over cloud and edges. It can dynamically and automatically composite
-multiple NGSI-based data processing tasks to form high level IoT services, and
-then orchestrate and optimize the deployment of those services within a shared
-cloud-edge environment, with regards to the availability, locality, and mobility
-of IoT devices.
+FogFlow is an IoT edge computing framework to orchestrate dynamic processing flows over cloud and edges. It can
+dynamically and automatically composite multiple NGSI-based data processing tasks to form high level IoT services, and
+then orchestrate and optimize the deployment of those services within a shared cloud-edge environment, with regards to
+the availability, locality, and mobility of IoT devices.
 
 <span/>
 
@@ -23,7 +21,6 @@ of IoT devices.
 
 <h3>Code Examples</h3>
 
-The Smart Parking repository contains a series examples for getting started with
-FogFlow:
+The Smart Parking repository contains a series examples for getting started with FogFlow:
 
 -   [FogFlow Examples](https://github.com/smartfog/fogflow/tree/master/application/operator/smartparking)

@@ -3,21 +3,17 @@
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://www.fiware.org/developers/catalogue/)
 [![fiware+iot](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](https://stackoverflow.com/search?q=%5Bfiware%5D+keyrock)
 
-Identity Management covers a number of aspects involving users' access to
-networks, services and applications, including secure and private authentication
-from users to devices, networks and services, authorization &amp; trust
-management, user profile management, privacy-preserving disposition of personal
-data, Single Sign-On (SSO) to service domains and Identity Federation towards
-applications.
+Identity Management covers a number of aspects involving users' access to networks, services and applications, including
+secure and private authentication from users to devices, networks and services, authorization &amp; trust management,
+user profile management, privacy-preserving disposition of personal data, Single Sign-On (SSO) to service domains and
+Identity Federation towards applications.
 
-The Identity Manager is the central component that provides a bridge between IdM
-systems at connectivity-level and application-level. Furthermore, Identity
-Management is used for authorising foreign services to access personal data
-stored in a secure environment. Hereby usually the owner of the data must give
-consent to access the data; the consent-giving procedure also implies certain
-user authentication.
+The Identity Manager is the central component that provides a bridge between IdM systems at connectivity-level and
+application-level. Furthermore, Identity Management is used for authorising foreign services to access personal data
+stored in a secure environment. Hereby usually the owner of the data must give consent to access the data; the
+consent-giving procedure also implies certain user authentication.
 
-[![](https://fiware.github.io/academy/img/books.png) Documentation](https://fiware-idm.readthedocs.io/en/latest/)
+![](https://fiware.github.io/academy/img/books.png) [Documentation](https://fiware-idm.readthedocs.io/en/latest/)
 
 <h3>Academy Courses</h3>
 
@@ -63,8 +59,7 @@ In this lesson you will learn how to install the GE in your own infrastructure.
 
 <h4>Lesson 6. How to register your sensors in account portal</h4>
 
-In this lesson you will learn how to register IoT sensors in your FIWARE Lab
-applications
+In this lesson you will learn how to register IoT sensors in your FIWARE Lab applications
 
 [![](http://img.youtube.com/vi/Kbpx5CbQL74/0.jpg)](https://www.youtube.com/watch?v=Kbpx5CbQL74 "Register Sensors")
 
@@ -73,15 +68,13 @@ applications
 
 <h4> Lesson 7. Adding Identity Manager and Access Control</h4>
 
-End-to-end example for IdM and Access Control. Training at Madrid Developers
-Week 2015.
+End-to-end example for IdM and Access Control. Training at Madrid Developers Week 2015.
 
 [![](http://img.youtube.com/vi/DzmtvEztcSY/0.jpg)](https://www.youtube.com/watch?v=DzmtvEztcSY "Access Control")
 
 <h3>Step-by-Step Tutorials</h3>
 
-Use of the Keyrock Identity Manager is described in the following step-by-step
-tutorials:
+Use of the Keyrock Identity Manager is described in the following step-by-step tutorials:
 
 -   [FIWARE 401: Administrating Users and Organizations](https://fiware-tutorials.readthedocs.io/en/latest/identity-management)
 -   [FIWARE 402: Managing Roles and Permissions](https://fiware-tutorials.readthedocs.io/en/latest/roles-permissions)

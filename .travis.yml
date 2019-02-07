@@ -12,8 +12,12 @@ branches:
 install:
   - npm install
 
+before_script:
+  - npm run lint:md
+  - npm run lint:text
+  
 script:
-  - npm test
+  - true
  
 notifications:
    on_success: change

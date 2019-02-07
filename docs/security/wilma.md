@@ -3,20 +3,17 @@
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://www.fiware.org/developers/catalogue/)
 [![fiware-wilma](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/wilma.svg)](http://stackoverflow.com/questions/tagged/fiware-wilma)
 
-The Wilma PEP Proxy in combination with Identity Management and Authorization
-PDP GEs, adds authentication and authorization security to your backend
-applications. Thus, only FIWARE users will be able to access your Generic
-Enablers and other REST services. The PEP Proxy allows you to programmatially
-manage specific permissions and policies to your resources allowing different
-access levels to your users.
+The Wilma PEP Proxy in combination with Identity Management and Authorization PDP GEs, adds authentication and
+authorization security to your backend applications. Thus, only FIWARE users will be able to access your Generic
+Enablers and other REST services. The PEP Proxy allows you to programmatially manage specific permissions and policies
+to your resources allowing different access levels to your users.
 
-[![](https://fiware.github.io/academy/img/books.png) Documentation](https://fiware-pep-proxy.rtfd.io/)
+![](https://fiware.github.io/academy/img/books.png) [Documentation](https://fiware-pep-proxy.rtfd.io/)
 
 <h3>Academy Courses</h3>
 <h4>Lesson 1. Introduction</h4>
 
-This lesson introduces the main concepts needed to understand the architecture
-and the goals of Wilma.
+This lesson introduces the main concepts needed to understand the architecture and the goals of Wilma.
 
 [![](http://img.youtube.com/vi/8tGbUI18udM/0.jpg)](https://www.youtube.com/watch?v=8tGbUI18udM "Introduction")
 

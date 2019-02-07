@@ -1,3 +1,15 @@
+.idea/*
+.DS_Store
+.python_env
+**/*.pyc
+node_modules
+**/*.log*
+**bak
+**/bin/**
+**.Python
+**.env**
+.eslintcache
+
 *~
 .fuse_hidden*
 .directory
@@ -29,11 +41,8 @@ pids
 *.pid
 *.seed
 *.pid.lock
-node_modules/
 jspm_packages/
 .npm
-.eslintcache
 *.tgz
 .env
 .next
-push.sh
