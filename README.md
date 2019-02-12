@@ -13,6 +13,12 @@ The [FIWARE Academy](https://fiware-academy.rtfd.io) lists the video tutorials, 
 available for developers learning about the FIWARE Ecosystem. The training materials within the academy are arranged
 into a series of the chapters as defined within the [FIWARE catalogue](https://www.fiware.org/developers/catalogue/):
 
+| :books: [Documentation](https://fiware-academy.rtfd.io) |
+| ------------------------------------------------------- |
+
+
+## FIWARE Catalogue at a Glance
+
 ![](https://fiware.github.io/catalogue/img/catalogue.png)
 
 -   **Core Context Management** allows you to model, manage and gather context information at large scale enabling
