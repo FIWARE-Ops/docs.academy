@@ -1,3 +1,4 @@
+<hr class="iotagents" style="display:none"/>
 <h2>IoT Agents</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://www.fiware.org/developers/catalogue/)

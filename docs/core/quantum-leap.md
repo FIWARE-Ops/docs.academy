@@ -1,3 +1,4 @@
+<hr class="core" style="display:none"/>
 <h2>QuantumLeap  - Times Series Data</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://www.fiware.org/developers/catalogue/)

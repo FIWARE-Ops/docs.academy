@@ -1,3 +1,4 @@
+<hr class="data-publication" style="display:none"/>
 <h2>Business API Ecosystem</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/data-monetization.svg)](https://www.fiware.org/developers/catalogue/)

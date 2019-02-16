@@ -1,3 +1,4 @@
+<hr class="iotagents" style="display:none"/>
 <h2>Fast-RTPS</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://www.fiware.org/developers/catalogue/)

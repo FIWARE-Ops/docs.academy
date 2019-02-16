@@ -1,3 +1,4 @@
+<hr class="iotagents" style="display:none"/>
 <h2>Domibus - Electronic Data Exchange</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/third-party.svg)](https://www.fiware.org/developers/catalogue/)

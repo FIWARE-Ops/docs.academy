@@ -1,3 +1,4 @@
+<hr class="processing" style="display:none"/>
 <h2>FogFlow</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg)](https://www.fiware.org/developers/catalogue/)

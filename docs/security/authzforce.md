@@ -1,3 +1,4 @@
+<hr class="security" style="display:none"/>
 <h2> AuthzForce - XACML PDP</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://www.fiware.org/developers/catalogue/)

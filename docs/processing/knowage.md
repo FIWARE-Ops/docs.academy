@@ -1,3 +1,4 @@
+<hr class="processing" style="display:none"/>
 <h2>Knowage -  Business Intellegence</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://www.fiware.org/developers/catalogue/)

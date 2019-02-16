@@ -1,3 +1,4 @@
+<hr class="processing" style="display:none"/>
 <h2>Kurento- Media Server</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/media-streams.svg)](https://www.fiware.org/developers/catalogue/)

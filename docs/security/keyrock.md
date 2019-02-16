@@ -1,4 +1,5 @@
-<h3>Keyrock - Identity Management</h3>
+<hr class="security" style="display:none"/>
+<h2>Keyrock - Identity Management</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://www.fiware.org/developers/catalogue/)
 [![fiware+iot](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](https://stackoverflow.com/search?q=%5Bfiware%5D+keyrock)

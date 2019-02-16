@@ -1,3 +1,4 @@
+<hr class="processing" style="display:none"/>
 <h3>WireCloud - Application Mashup</h3>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://www.fiware.org/developers/catalogue/)

@@ -1,3 +1,4 @@
+<hr class="data-publication" style="display:none"/>
 <h2>APInf - API Management Framework</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/api-management.svg)](https://www.fiware.org/developers/catalogue/)

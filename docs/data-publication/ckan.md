@@ -1,3 +1,4 @@
+<hr class="data-publication" style="display:none"/>
 <h2>Extensions to CKAN</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/data-publication.svg)](https://www.fiware.org/developers/catalogue/)
