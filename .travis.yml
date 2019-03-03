@@ -3,7 +3,7 @@ language: node_js
 sudo: required
 
 node_js:
-  - "8"
+  - "10"
 
 branches:
   only:
@@ -12,13 +12,10 @@ branches:
 install:
   - npm install
 
-before_script:
+script:
   - npm run lint:md
   - npm run lint:text
-  
-script:
-  - true
- 
+   
 notifications:
    on_success: change
    on_failure: always
