@@ -1,5 +1,5 @@
 <hr class="processing" style="display:none"/>
-<h3>WireCloud - Application Mashup</h3>
+<h2>WireCloud - Application Mashup</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://www.fiware.org/developers/catalogue/)
 [![fiware-wirecloud](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/wirecloud.svg)](http://stackoverflow.com/questions/tagged/fiware-wirecloud)
