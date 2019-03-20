@@ -1,7 +1,7 @@
 <h2>FIWARE Webinar Recordings</h2>
 
 The FIWARE Foundation offers a series of training workshops in the form of online webinars. These are designed to appeal
-to a variety of audiences and are ranked according to their level of difficulty. Look at the FIWARE Website to check the
+to a variety of audiences and are ranked according to their level of difficulty. Look at the FIWARE site to check the
 list of [upcoming webinars](https://www.fiware.org/fiware-webinars/)
 
 The webinar series will covers all you need to learn about FIWARE: what each of the FIWARE components brings and how
