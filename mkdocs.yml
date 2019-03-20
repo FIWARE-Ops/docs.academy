@@ -10,6 +10,7 @@ google_analytics: ["UA-83719923-1", 'fiware-academy.readthedocs.io']
 extra_css: ["https://fiware.org/style/fiware_readthedocs.css"]
 pages:
   - Home: 'index.md'
+
   - 'Core Context Managment':
     - 'Orion': 'core/orion.md'
     - 'Cygnus': 'core/cygnus.md'
@@ -34,4 +35,5 @@ pages:
     - 'CKAN': 'data-publication/ckan.md'
     - 'APInf': 'data-publication/apinf.md'
   - 'Integrated Courses':
-    - 'FIWARE for Smart Cities': 'smart-cities/index.md'
+    - 'FIWARE Webinars': 'integrated-courses/webinars.md'
+    - 'FIWARE for Smart Cities': 'integrated-courses/smart-cities.md'

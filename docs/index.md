@@ -16,9 +16,8 @@ defined within the [FIWARE catalogue](https://www.fiware.org/developers/catalogu
 -   **Processing, analysis and visualization** of context information, bringing support to usage control and the
     opportunity to publish and monetize part of managed context data.
 
-Additional **System Operations** courses are also available describing how to deploy FIWARE and use the
-[FIWARE Lab](https://account.lab.fiware.org/), as well as cross-functional courses describing how to combine various
-enablers together to create a functioning Smart System.
+In addition to the training materials for each individual enabler, two integrated courses have been recorded -
+[FIWARE Webinars](integrated-courses/webinars.md) and [FIWARE for Smart Cities](integrated-courses/smart-cities.md)
 
 <h4>Lesson 1. Introduction to FIWARE</h4>
 
