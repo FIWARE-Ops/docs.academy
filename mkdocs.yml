@@ -14,6 +14,7 @@ pages:
   - 'Core Context Managment':
     - 'Orion': 'core/orion.md'
     - 'Cygnus': 'core/cygnus.md'
+    - 'Draco': 'core/draco.md'
     - 'QuantumLeap': 'core/quantum-leap.md'
     - 'STH-Comet': 'core/sth-comet.md'
   - 'IoT Agents, Robots & Third Party Systems': 

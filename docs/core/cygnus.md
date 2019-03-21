@@ -1,5 +1,5 @@
 <hr class="core" style="display:none"/>
-<h2>Cygnus - Data Persistence</h2>
+<h2>Cygnus - Data Persistence using Apache Flume</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://www.fiware.org/developers/catalogue/)
 [![fiware-cygnus](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/cygnus.svg)](http://stackoverflow.com/questions/tagged/fiware-cygnus)
@@ -33,5 +33,5 @@ This video presentation explains how to use Cygnus to persist data for Big Data 
 
 Data Persistence using Cygnus is described in the following step-by-step tutorial:
 
--   [FIWARE 301: Persisting Context Data](https://fiware-tutorials.readthedocs.io/en/latest/historic-context) (MongoDB,
-    MySQL, PostgreSQL)
+-   [FIWARE 301: Persisting Context Data using Apache Flume](https://fiware-tutorials.readthedocs.io/en/latest/historic-context-flume)
+    (MongoDB, MySQL, PostgreSQL)
