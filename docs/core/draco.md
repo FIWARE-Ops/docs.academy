@@ -1,5 +1,5 @@
 <hr class="core" style="display:none"/>
-<h2>Draco  - Data Persistence using Apache Flume</h2>
+<h2>Draco  - Data Persistence using Apache NIFI</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://www.fiware.org/developers/catalogue/)
 [![fiware-sth-comet](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/sth-comet.svg)](http://stackoverflow.com/questions/tagged/fiware-sth-comet)
