@@ -13,7 +13,17 @@ Each webinar is recorded, the recordings are listed below.
 
 <h3>Academy Courses</h3>
 
-<h4>Lesson 1. Core Context Management</h4>
+<h4>Lesson 1. Introduction to FIWARE</h4>
+
+[![](http://img.youtube.com/vi/97JsnnpPLrA/0.jpg)](https://www.youtube.com/watch?v=97JsnnpPLrA "Introduction")
+
+This video presentation is a basic introduction describing what FIWARE is, why you need it and how the elements of the
+FIWARE Catalogue can help accelerate the development of your Smart Solution.
+
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 1 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-overview)
+
+<h4>Lesson 2. Core Context Management</h4>
 
 -   What is Context Data?
 -   What is a Context Broker?
@@ -27,4 +37,7 @@ Each webinar is recorded, the recordings are listed below.
 [![](http://img.youtube.com/vi/pK4GgYjlmdY/0.jpg)](https://www.youtube.com/watch?v=pK4GgYjlmdY "Core Context Management")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
-    [Lesson 1 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-core-context-management)
+    [Lesson 2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-core-context-management)
+
+This video presentation is a basic introduction describing what FIWARE is, why you need it and how the elements of the
+FIWARE Catalogue can help accelerate the development of your Smart Solution.

@@ -21,7 +21,7 @@ In addition to the training materials for each individual enabler, two integrate
 
 <h4>Lesson 1. Introduction to FIWARE</h4>
 
-[![](http://img.youtube.com/vi/nXY8DmiAHUw/0.jpg)](https://www.youtube.com/watch?v=nXY8DmiAHUw "Introduction")
+[![](http://img.youtube.com/vi/97JsnnpPLrA/0.jpg)](https://www.youtube.com/watch?v=97JsnnpPLrA "Introduction")
 
-This video presentation explains what context data is and why a context data management system such as FIWARE is
-necessary for the development of Smart Solutions.
+This video presentation is a basic introduction describing what FIWARE is, why you need it and how the elements of the
+FIWARE Catalogue can help accelerate the development of your Smart Solution.
