@@ -60,3 +60,22 @@ FIWARE Catalogue can help accelerate the development of your Smart Solution.
 
 This video presentation shows how to connect IoT Devices to the Context Broker using an IoT Agent and how to ensure your
 device is _FIWARE Ready_.
+
+<h4>Lesson 4. How to Secure FIWARE Architectures</h4>
+
+-   What are Identity Management and Access Control?
+-   Which FIWARE components will you need?
+-   What are Authentication and Authorization? How do they differ?
+-   What is OAuth2? What flows are supported?
+
+-   What is a PEP Proxy? What does it do?
+-   What is a PDP and when will I need one?
+-   What terms such as RBAC, PBAC and XACML mean and how are they used?
+
+[![](http://img.youtube.com/vi/SP0zFdTybA4/0.jpg)](https://www.youtube.com/watch?v=SP0zFdTybA4 "Security")
+
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 4 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-secure-fiware-architectures)
+
+This video presentation shows how to add Identity Management and Access Control elements to your FIWARE Architecture by
+using the Generic Enablers from the Security Chapter.
