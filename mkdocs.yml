@@ -21,6 +21,7 @@ pages:
     - 'STH-Comet': 'core/sth-comet.md'
   - 'IoT Agents, Robots & Third Party Systems': 
     - 'IoT Agents': 'iot-agents/idas.md'
+    - 'Open MTC': 'iot-agents/open-mtc.md'
     - 'Domibus': 'third-party/domibus.md'
     - 'Fast-RTPS': 'robotics/fast-rtps.md'
   - 'Security':

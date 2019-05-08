@@ -53,10 +53,12 @@
 		]
 	},
 	"remarkConfig": {
-		"settings" : { 
+		"settings": {
 			"bullet": "-",
-			"paddedTable": true 
+			"paddedTable": true
 		},
-		"plugins": ["remark-preset-lint-recommended"]
+		"plugins": [
+			"remark-preset-lint-recommended"
+		]
 	}
 }
