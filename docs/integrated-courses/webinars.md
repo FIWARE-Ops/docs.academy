@@ -80,10 +80,10 @@ device is _FIWARE Ready_.
 This video presentation shows how to add Identity Management and Access Control elements to your FIWARE Architecture by
 using the Generic Enablers from the Security Chapter.
 
-<h4>Lesson 5. How to Design Data Models</h4>
+<h4>Lesson 5. Data Modelling with NGSI</h4>
 
 -   Understanding and applying Standard Data Models.
--   **NGSI v2** : Relationships, properties and meta data
+-   **NGSI v2** : Relationships, properties and metadata
 -   **NGSI-LD** : Relationships, properties and `@context`
 -   Practical use cases in Smart City and Smart Agriculture
 
@@ -92,4 +92,4 @@ using the Generic Enablers from the Security Chapter.
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 5 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-design-datamodels)
 
-This video presentation shows how to design and apply Standard FIWARE Data Models.
+This video presentation shows how to design and apply Standard NGSI Data Models.
