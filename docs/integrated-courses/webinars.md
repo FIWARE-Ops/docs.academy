@@ -15,6 +15,10 @@ Each webinar is recorded, the recordings are listed below.
 
 <h4>Lesson 1. Introduction to FIWARE</h4>
 
+**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg)](https://www.fiware.org/developers/catalogue/)<br/>
+**Difficulty:** <span style="color:#000000">&nbsp;★</span>
+
 [![](http://img.youtube.com/vi/97JsnnpPLrA/0.jpg)](https://www.youtube.com/watch?v=97JsnnpPLrA "Introduction")
 
 This video presentation is a basic introduction describing what FIWARE is, why you need it and how the elements of the
@@ -24,6 +28,10 @@ FIWARE Catalogue can help accelerate the development of your Smart Solution.
     [Lesson 1 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-overview)
 
 <h4>Lesson 2. Core Context Management</h4>
+
+**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://www.fiware.org/developers/catalogue/)<br/>
+**Difficulty:** <span style="color:#233c68">&nbsp;★&nbsp;★&nbsp;</span>
 
 -   What is Context Data?
 -   What is a Context Broker?
@@ -44,6 +52,10 @@ FIWARE Catalogue can help accelerate the development of your Smart Solution.
 
 <h4>Lesson 3. What is an IoT Agent?</h4>
 
+**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://www.fiware.org/developers/catalogue/)<br/>
+**Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★&nbsp;</span>
+
 -   What is a transport?
 -   What is a message protocol?
 -   What do the terms northbound/southbound and north/south port mean ?
@@ -63,6 +75,10 @@ device is _FIWARE Ready_.
 
 <h4>Lesson 4. How to Secure FIWARE Architectures</h4>
 
+**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://www.fiware.org/developers/catalogue/)<br/>
+**Difficulty:** <span style="color:#ff7059">&nbsp;★&nbsp;★&nbsp;</span>
+
 -   What are Identity Management and Access Control?
 -   Which FIWARE components will you need?
 -   What are Authentication and Authorization? How do they differ?
@@ -80,7 +96,32 @@ device is _FIWARE Ready_.
 This video presentation shows how to add Identity Management and Access Control elements to your FIWARE Architecture by
 using the Generic Enablers from the Security Chapter.
 
-<h4>Lesson 5. Data Modelling with NGSI</h4>
+<h4>Lesson 5. How to Debug IoT Agents</h4>
+
+**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://www.fiware.org/developers/catalogue/)<br/>
+**Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
+
+-   How to diagnose common problems
+-   How to test services in isolation
+-   How to set-up and interpret debug
+-   Configuring IoT Agents
+-   Adding diagnostic debug
+-   Where to look for help and advice
+
+[![](http://img.youtube.com/vi/FRqJsywi9e8/0.jpg)](https://www.youtube.com/watch?v=FRqJsywi9e8 "Debugging IoT Agents")
+
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 5 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-debug-iot-agents)
+
+This video presentation shows how to connect devices to processing enablers via an IoT Agent and the context broker,
+what can go wrong when trying to wire up the system. How to diagnose problems and how to fix them.
+
+<h4>Lesson 6. Data Modelling with NGSI</h4>
+
+**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://www.fiware.org/developers/catalogue/)<br/>
+**Difficulty:** <span style="color:#233c68">&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
 
 -   Understanding and applying Standard Data Models.
 -   **NGSI v2** : Relationships, properties and metadata
@@ -90,6 +131,6 @@ using the Generic Enablers from the Security Chapter.
 [![](http://img.youtube.com/vi/T_1DpKf6C_c/0.jpg)](https://www.youtube.com/watch?v=T_1DpKf6C_c "Data Models")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
-    [Lesson 5 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-design-datamodels)
+    [Lesson 6 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-design-datamodels)
 
 This video presentation shows how to design and apply Standard NGSI Data Models.
