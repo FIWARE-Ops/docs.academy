@@ -1,7 +1,7 @@
 <hr class="core" style="display:none"/>
 <h2>Orion - Context Broker</h2>
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://www.fiware.org/developers/catalogue/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
 [![fiware-orion](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/orion.svg)](http://stackoverflow.com/questions/tagged/fiware-orion)
 
 The Orion Context Broker is an implementation of the Publish/Subscribe Broker Generic Enabler.

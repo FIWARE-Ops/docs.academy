@@ -1,7 +1,7 @@
 <hr class="data-publication" style="display:none"/>
 <h2>Business API Ecosystem</h2>
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/data-monetization.svg)](https://www.fiware.org/developers/catalogue/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/data-monetization.svg)](https://github.com/FIWARE/catalogue/blob/master/data-publication/README.md)
 
 The **Business API Ecosystem** GE is the result of the collaboration between FIWARE and the TMForum. In this regard, the
 Business API Ecosystem GE is a joint component made up by integrating the FIWARE Business Framework with a set of

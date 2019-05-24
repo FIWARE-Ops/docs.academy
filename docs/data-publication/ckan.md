@@ -1,7 +1,7 @@
 <hr class="data-publication" style="display:none"/>
 <h2>Extensions to CKAN</h2>
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/data-publication.svg)](https://www.fiware.org/developers/catalogue/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/data-publication.svg)](https://github.com/FIWARE/catalogue/blob/master/data-publication/README.md)
 [![ckan](https://img.shields.io/badge/tag-ckan-orange.svg?logo=stackoverflow)](http://stackoverflow.com/questions/tagged/ckan)
 
 A set of CKAN extensions, developed within FIWARE, which integrates this data portal platform with the main FIWARE GEs,

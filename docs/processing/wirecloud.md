@@ -1,7 +1,7 @@
 <hr class="processing" style="display:none"/>
 <h2>WireCloud - Application Mashup</h2>
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://www.fiware.org/developers/catalogue/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
 [![fiware-wirecloud](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/wirecloud.svg)](http://stackoverflow.com/questions/tagged/fiware-wirecloud)
 
 Wirecloud is a web mashup tool designed to ease the development of operational dashboards. This allows end users to

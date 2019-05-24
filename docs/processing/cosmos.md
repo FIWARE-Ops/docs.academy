@@ -1,7 +1,7 @@
 <hr class="processing" style="display:none"/>
 <h2>Cosmos - Big Data Analysis</h2>
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg)](https://www.fiware.org/developers/catalogue/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
 [![fiware-cosmos](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/cosmos.svg)](http://stackoverflow.com/questions/tagged/fiware-cosmos)
 
 The Cosmos Big Data Analysis GE is a set of tools that help achieving the tasks of Streaming and Batch processing over

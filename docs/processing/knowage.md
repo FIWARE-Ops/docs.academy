@@ -1,7 +1,7 @@
 <hr class="processing" style="display:none"/>
 <h2>Knowage -  Business Intellegence</h2>
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://www.fiware.org/developers/catalogue/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
 [![knowage](https://img.shields.io/badge/tag-knowage-orange.svg?logo=stackoverflow)](http://stackoverflow.com/questions/tagged/knowage)
 
 Knowage is the full capabilities open source suite for business analytics that ensures the freedom to access source code

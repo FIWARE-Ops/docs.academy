@@ -1,7 +1,7 @@
 <hr class="security" style="display:none"/>
 <h2>Keyrock - Identity Management</h2>
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://www.fiware.org/developers/catalogue/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://github.com/FIWARE/catalogue/blob/master/security/README.md)
 [![fiware+iot](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](https://stackoverflow.com/search?q=%5Bfiware%5D+keyrock)
 
 Identity Management covers a number of aspects involving users' access to networks, services and applications, including

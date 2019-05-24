@@ -1,7 +1,7 @@
 <hr class="security" style="display:none"/>
 <h2>Wilma - PEP Proxy</h2>
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://www.fiware.org/developers/catalogue/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://github.com/FIWARE/catalogue/blob/master/security/README.md)
 [![fiware-wilma](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/wilma.svg)](http://stackoverflow.com/questions/tagged/fiware-wilma)
 
 The Wilma PEP Proxy in combination with Identity Management and Authorization PDP GEs, adds authentication and

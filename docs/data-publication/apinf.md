@@ -1,7 +1,7 @@
 <hr class="data-publication" style="display:none"/>
 <h2>APInf - API Management Framework</h2>
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/api-management.svg)](https://www.fiware.org/developers/catalogue/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/api-management.svg)](https://github.com/FIWARE/catalogue/blob/master/data-publication/README.md)
 
 The APInf API Management Framework is a Smart City orchestrator to be used together with other FIWARE enablers. APInf
 integrates with FIWARE core technologies, such as Identity Management, NGSI v2 and Business API Ecosystem along with API

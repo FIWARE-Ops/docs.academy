@@ -1,7 +1,7 @@
 <hr class="core" style="display:none"/>
 <h2>Draco  - Data Persistence using Apache NIFI</h2>
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://www.fiware.org/developers/catalogue/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
 [![fiware-sth-comet](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/sth-comet.svg)](http://stackoverflow.com/questions/tagged/fiware-sth-comet)
 
 Draco is a connector in charge of persisting context data sources into other third-party databases and storage systems,

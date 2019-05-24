@@ -1,7 +1,7 @@
 <hr class="iotagents" style="display:none"/>
 <h2>IoT Agents</h2>
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://www.fiware.org/developers/catalogue/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md)
 [![fiware+iot](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/iot-agents.svg)](https://stackoverflow.com/questions/tagged/fiware+iot)
 
 The IoT Agent component is an implementation of the Backend Device Management GE, according to the FIWARE reference

@@ -30,7 +30,7 @@ FIWARE Catalogue can help accelerate the development of your Smart Solution.
 <h4>Lesson 2. Core Context Management</h4>
 
 **Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://www.fiware.org/developers/catalogue/)<br/>
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
 **Difficulty:** <span style="color:#233c68">&nbsp;★&nbsp;★&nbsp;</span>
 
 -   What is Context Data?
@@ -53,7 +53,7 @@ FIWARE Catalogue can help accelerate the development of your Smart Solution.
 <h4>Lesson 3. What is an IoT Agent?</h4>
 
 **Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://www.fiware.org/developers/catalogue/)<br/>
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md)<br/>
 **Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★&nbsp;</span>
 
 -   What is a transport?
@@ -76,7 +76,7 @@ device is _FIWARE Ready_.
 <h4>Lesson 4. How to Secure FIWARE Architectures</h4>
 
 **Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://www.fiware.org/developers/catalogue/)<br/>
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://github.com/FIWARE/catalogue/blob/master/security/README.md)<br/>
 **Difficulty:** <span style="color:#ff7059">&nbsp;★&nbsp;★&nbsp;</span>
 
 -   What are Identity Management and Access Control?
@@ -99,7 +99,7 @@ using the Generic Enablers from the Security Chapter.
 <h4>Lesson 5. How to Debug IoT Agents</h4>
 
 **Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://www.fiware.org/developers/catalogue/)<br/>
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md)<br/>
 **Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
 
 -   How to diagnose common problems
@@ -117,10 +117,28 @@ using the Generic Enablers from the Security Chapter.
 This video presentation shows how to connect devices to processing enablers via an IoT Agent and the context broker,
 what can go wrong when trying to wire up the system. How to diagnose problems and how to fix them.
 
-<h4>Lesson 6. Data Modelling with NGSI</h4>
+<h4>Lesson 6. How to Get Context Data Out of Robots</h4>
 
 **Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://www.fiware.org/developers/catalogue/)<br/>
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
+**Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★</span>
+
+-   How can FIWARE and Standardized Context Data Management create synergies between Robotic Systems and other Smart
+    Solutions?
+-   What is a Robotic System?
+-   How to get/put context data out from/into robotic systems?
+
+[![](http://img.youtube.com/vi/T8XV6Wah9l4/0.jpg)](https://www.youtube.com/watch?v=T8XV6Wah9l4 "Robotics")
+
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 6 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-get-context-data-out-of-robots)
+
+This video presentation shows how to retrieve context data and actuate robots
+
+<h4>Lesson 7. Data Modelling with NGSI</h4>
+
+**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
 **Difficulty:** <span style="color:#233c68">&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
 
 -   Understanding and applying Standard Data Models.
@@ -131,6 +149,6 @@ what can go wrong when trying to wire up the system. How to diagnose problems an
 [![](http://img.youtube.com/vi/T_1DpKf6C_c/0.jpg)](https://www.youtube.com/watch?v=T_1DpKf6C_c "Data Models")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
-    [Lesson 6 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-design-datamodels)
+    [Lesson 7 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-design-datamodels)
 
 This video presentation shows how to design and apply Standard NGSI Data Models.

@@ -1,7 +1,7 @@
 <hr class="processing" style="display:none"/>
 <h2>Kurento- Media Server</h2>
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/media-streams.svg)](https://www.fiware.org/developers/catalogue/)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/media-streams.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
 [![kurento](https://img.shields.io/badge/tag-kurento-orange.svg?logo=stackoverflow)](http://stackoverflow.com/questions/tagged/kurento)
 
 The Kurento Media Server is a Stream-oriented Generic Enabler which provides a framework devoted to simplify the
