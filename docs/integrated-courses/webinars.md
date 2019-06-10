@@ -27,7 +27,7 @@ FIWARE Catalogue can help accelerate the development of your Smart Solution.
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 1 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-overview)
 
--  このビデオ・プレゼンテーションは
+-  :jp: このビデオ・プレゼンテーションは
    [日本語字幕](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。
 
 <h4>Lesson 2. Core Context Management</h4>
