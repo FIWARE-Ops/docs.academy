@@ -25,3 +25,6 @@ In addition to the training materials for each individual enabler, two integrate
 
 This video presentation is a basic introduction describing what FIWARE is, why you need it and how the elements of the
 FIWARE Catalogue can help accelerate the development of your Smart Solution.
+
+🇯🇵 このビデオ・プレゼンテーションは [日本語字幕](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
+🇪🇸 Este webinar está disponible con subtítulos en [español](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=es).
