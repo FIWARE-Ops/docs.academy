@@ -50,6 +50,9 @@ FIWARE Catalogue can help accelerate the development of your Smart Solution.
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-core-context-management)
 
+-  :jp: このビデオ・プレゼンテーションは
+   [日本語字幕](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。
+
 This video presentation is a basic introduction describing what FIWARE is, why you need it and how the elements of the
 FIWARE Catalogue can help accelerate the development of your Smart Solution.
 
