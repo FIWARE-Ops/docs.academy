@@ -52,8 +52,7 @@ FIWARE Catalogue can help accelerate the development of your Smart Solution.
 
 🇯🇵 このビデオ・プレゼンテーションは [日本語字幕](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。
    
-This video presentation is a basic introduction describing what FIWARE is, why you need it and how the elements of the
-FIWARE Catalogue can help accelerate the development of your Smart Solution.
+This video presentation is an introduction to Core Context Management describing about the NGSI DataModel and the NSGI interface, registrations, subscription etc.
 
 <h4>Lesson 3. What is an IoT Agent?</h4>
 

@@ -20,6 +20,7 @@ who would require training on how to exploit the FIWARE Lab, so that they could 
 -   Deployment timeline and upcoming challenges
 
 <span/>
+
 * ![](https://fiware.github.io/academy/img/pdf.png) [Lesson 1 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-dev-1.pdf)
 
 <h4>Lesson 2. FIWARE Lab for Developers</h4>
@@ -33,6 +34,7 @@ who would require training on how to exploit the FIWARE Lab, so that they could 
     -   Working with infrastructure monitoring
 
 <span/>
+
 * ![](https://fiware.github.io/academy/img/pdf.png) [Lesson 2 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-dev-2.pdf)
 
 <h4>Lesson 3. Using S3C: Service Capability, Connectivity and Control</h4>
@@ -47,6 +49,7 @@ who would require training on how to exploit the FIWARE Lab, so that they could 
     -   Seamless Network Connectivity
 
 <span/>
+
 * ![](https://fiware.github.io/academy/img/pdf.png) [Lesson 3 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-dev-3.pdf)
 
 <h4>Lesson 4. A FIWARE Lab Showcase</h4>
@@ -62,6 +65,7 @@ What you will learn:
 -   Some knowledge of how the showcase was built
 
 <span/>
+
 * ![](https://fiware.github.io/academy/img/pdf.png) [Lesson 4 - Slides File](https://fiware.github.io/academy/operations/fiware-lab-dev-4.pdf)
 
 <h4>Lesson 5. FIWARE Ops for Developers</h4>
