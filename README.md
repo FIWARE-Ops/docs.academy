@@ -3,7 +3,8 @@
 [![Documentation](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/documentation.svg)](https://fiware-academy.rtfd.io)
 [![License: CC-BY-4.0](https://img.shields.io/github/license/fiware/academy.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![fiware](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](https://stackoverflow.com/questions/tagged/fiware)
-<br/> [![Documentation](https://img.shields.io/readthedocs/fiware-academy.svg)](https://fiware-academy.rtfd.io)
+[<img src="img/logo.png" align="right" width="162">](https://www.fiware.org/)<br/>
+[![Documentation](https://img.shields.io/readthedocs/fiware-academy.svg)](https://fiware-academy.rtfd.io)
 [![Build Status](https://img.shields.io/travis/FIWARE/academy.svg)](https://travis-ci.org/FIWARE/academy)
 
 [FIWARE](https://www.fiware.org) is a curated framework of open source platform components which can be assembled
