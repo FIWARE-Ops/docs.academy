@@ -116,3 +116,9 @@ In this section you will learn how to use WireCloud from the point of view of an
 
 -   <a href="https://wirecloud.readthedocs.io/en/latest/slides/4.4_Administrator%20exercises.html">![](https://fiware.github.io/academy/img/doc.svg)
     Lesson 4.4 - Administrator exercises</a>
+
+<h3>Step-by-Step Tutorials</h3>
+
+Wirecloud is described in the following step-by-step tutorial:
+
+-   [FIWARE 501: Creating Application Mashups](https://fiware-tutorials.readthedocs.io/en/latest/application-mashups)
