@@ -23,7 +23,7 @@ Smart City demo prototype application "Thunderstorm warning", as well as the con
 navigation. With it, we want to make it as easy as possible for you to find your individual path through this FIWARE
 quickstart course.
 
--   [Course introduction](http://81.14.203.245/00/)
+-   [Course introduction](http://130.206.120.84/00/)
 
 <h4>Lesson 2. The FIWARE Ecosystem</h4>
 
@@ -32,7 +32,7 @@ receive a high level overview about the FIWARE mission, the various FIWARE techn
 standardization. We will highlight the benefits for Smart Cities when using Open Source software and engaging in a vivid
 community with relevant strategic partnerships.
 
--   [FIWARE ecosystem](http://81.14.203.245/01/)
+-   [FIWARE ecosystem](http://130.206.120.84/01/)
 
 <h4>Lesson 3. FIWARE Lab Cloud</h4>
 
@@ -45,7 +45,7 @@ main concepts quickly even for non back-end savvy learners.
 
 Area covered: _Self Service Interfaces - Cloud Portal_
 
--   [FIWARE Lab Cloud](http://81.14.203.245/02/)
+-   [FIWARE Lab Cloud](http://130.206.120.84/02/)
 
 <h4>Lesson 4. Introduction to APIs</h4>
 
@@ -53,7 +53,7 @@ This lesson presents a general overview of the concepts of current state-of-the 
 levels of knowledge about this topic. Therefore, we want to make sure that all parties involved speak the same language
 and do really know what APIs are and what they can provide.
 
--   [APIs](http://81.14.203.245/03/)
+-   [APIs](http://130.206.120.84/03/)
 
 <h4>Lesson 5. Introduction to Docker</h4>
 
@@ -64,7 +64,7 @@ Learners shall gain a general understanding about what Docker is, what it can pr
 look at the Smart City individual point of view, i.e. speeding up their development process and the management of a
 scalable virtual infrastructure.
 
--   [Docker](http://81.14.203.245/04/)
+-   [Docker](http://130.206.120.84/04/)
 
 <h4>Lesson 6. Identity Management, Authorization and Securing Resources</h4>
 
@@ -76,7 +76,7 @@ applications in the FIWARE cloud.
 
 Generic Enablers covered: _KeyRock, AuthZForce, Wilma_
 
--   [Security](http://81.14.203.245/05/)
+-   [Security](http://130.206.120.84/05/)
 
 <h4>Lesson 7. Connecting IoT devices</h4>
 
@@ -89,7 +89,7 @@ across a large number of devices and platforms.
 
 Generic Enablers covered: _IoT Agents_
 
--   [Connecting IoT devices](http://81.14.203.245/06/)
+-   [Connecting IoT devices](http://130.206.120.84/06/)
 
 <h4>Lesson 8. Context data platform</h4>
 
@@ -101,7 +101,7 @@ will experience how to interact with the Orion Context Broker.
 
 Generic Enabler covered: _Orion_
 
--   [Context data platform](http://81.14.203.245/07/)
+-   [Context data platform](http://130.206.120.84/07/)
 
 <h4>Lesson 9. Open Data portal and business</h4>
 
@@ -114,7 +114,7 @@ interface.
 
 Generic Enablers covered: _CKAN Extensions_, _Biz Ecosystem_, _Wirecloud_
 
--   [Open Data portal and businesss](http://81.14.203.245/08/)
+-   [Open Data portal and businesss](http://130.206.120.84/08/)
 
 <h4>Lesson 10. Complex event processing</h4>
 
@@ -125,7 +125,7 @@ to urgent situations with both speed and precision.
 
 Generic Enablers covered: _CEP_
 
--   [Complex event processing](http://81.14.203.245/09/)
+-   [Complex event processing](http://130.206.120.84/09/)
 
 <h4>Lesson 11. Big data and BI analytics</h4>
 
@@ -136,7 +136,7 @@ possibilities such data analyzing applications provide.
 
 Generic Enablers covered: _Cosmos, Knowage_
 
--   [Big data and BI analytics](http://81.14.203.245/10/)
+-   [Big data and BI analytics](http://130.206.120.84/10/)
 
 <h4>Lesson 12. Demo Application</h4>
 
@@ -146,4 +146,4 @@ simple but working prototype of the Smart City demo application "Thunderstorm wa
 Throughout all course modules we have been working on the development of our Smart City demo application "Thunderstorm
 warning". Now we will put the final results together.
 
--   [Demo app](http://81.14.203.245/11/)
+-   [Demo app](http://130.206.120.84/11/)
