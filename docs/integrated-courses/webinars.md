@@ -28,7 +28,8 @@ FIWARE Catalogue can help accelerate the development of your Smart Solution.
     [Lesson 1 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-overview)
 
 🇯🇵 このビデオ・プレゼンテーションは [日本語字幕](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
-🇪🇸 Este webinar está disponible con subtítulos en [español](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=es).
+🇪🇸 Este webinar está disponible con subtítulos en [español](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=es).<br/>
+🇮🇹 Questo webinar è disponibile con sottotitoli in [italiano](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=it).
 
 <h4>Lesson 2. Core Context Management</h4>
 
@@ -50,7 +51,9 @@ FIWARE Catalogue can help accelerate the development of your Smart Solution.
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-core-context-management)
 
-🇯🇵 このビデオ・プレゼンテーションは [日本語字幕](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。
+🇯🇵 このビデオ・プレゼンテーションは [日本語字幕](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
+🇮🇹 Questo webinar è disponibile con sottotitoli in [italiano](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=it).
+
    
 This video presentation is an introduction to Core Context Management describing about the NGSI DataModel and the NSGI interface, registrations, subscription etc.
 
