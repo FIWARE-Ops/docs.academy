@@ -29,7 +29,8 @@ FIWARE Catalogue can help accelerate the development of your Smart Solution.
 
 🇯🇵 このビデオ・プレゼンテーションは [日本語字幕](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
 🇪🇸 Este webinar está disponible con subtítulos en [español](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=es).<br/>
-🇮🇹 Questo webinar è disponibile con sottotitoli in [italiano](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=it).
+🇮🇹 Questo webinar è disponibile con sottotitoli in [italiano](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=it).<br/>
+🇫🇷 Ce webinaire est disponible avec sous-titres en [français](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=fr).
 
 <h4>Lesson 2. Core Context Management</h4>
 
