@@ -27,10 +27,16 @@ FIWARE Catalogue can help accelerate the development of your Smart Solution.
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 1 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-overview)
 
-🇯🇵 このビデオ・プレゼンテーションは [日本語字幕](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
-🇪🇸 Este webinar está disponible con subtítulos en [español](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=es).<br/>
-🇮🇹 Questo webinar è disponibile con sottotitoli in [italiano](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=it).<br/>
-🇫🇷 Ce webinaire est disponible avec sous-titres en [français](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=fr).
+🇯🇵 このビデオ・プレゼンテーションは
+[日本語字幕](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/> 🇪🇸
+Este webinar está disponible con subtítulos en
+[español](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=es).<br/> 🇮🇹 Questo webinar è
+disponibile con sottotitoli in
+[italiano](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=it).<br/> 🇫🇷 Ce webinaire est
+disponible avec sous-titres en
+[français](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=fr).<br/> 🇸🇦
+<span style="direction: rtl">يتوفر هذا الندوة عبر الإنترنت مع ترجمة باللغة
+<a  href="https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ar">فرنسي</a></span>
 
 <h4>Lesson 2. Core Context Management</h4>
 
@@ -52,11 +58,13 @@ FIWARE Catalogue can help accelerate the development of your Smart Solution.
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-core-context-management)
 
-🇯🇵 このビデオ・プレゼンテーションは [日本語字幕](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
-🇮🇹 Questo webinar è disponibile con sottotitoli in [italiano](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=it).
+🇯🇵 このビデオ・プレゼンテーションは
+[日本語字幕](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/> 🇮🇹
+Questo webinar è disponibile con sottotitoli in
+[italiano](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=it).
 
-   
-This video presentation is an introduction to Core Context Management describing about the NGSI DataModel and the NSGI interface, registrations, subscription etc.
+This video presentation is an introduction to Core Context Management describing about the NGSI DataModel and the NSGI
+interface, registrations, subscription etc.
 
 <h4>Lesson 3. What is an IoT Agent?</h4>
 
@@ -81,7 +89,8 @@ This video presentation is an introduction to Core Context Management describing
 This video presentation shows how to connect IoT Devices to the Context Broker using an IoT Agent and how to ensure your
 device is _FIWARE Ready_.
 
-🇯🇵 このビデオ・プレゼンテーションは [日本語字幕](https://www.youtube.com/embed/my6Kgiqx-OM?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。
+🇯🇵 このビデオ・プレゼンテーションは
+[日本語字幕](https://www.youtube.com/embed/my6Kgiqx-OM?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。
 
 <h4>Lesson 4. How to Secure FIWARE Architectures</h4>
 
@@ -105,6 +114,9 @@ device is _FIWARE Ready_.
 
 This video presentation shows how to add Identity Management and Access Control elements to your FIWARE Architecture by
 using the Generic Enablers from the Security Chapter.
+
+🇯🇵 このビデオ・プレゼンテーションは
+[日本語字幕](https://www.youtube.com/embed/SP0zFdTybA4?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
 
 <h4>Lesson 5. How to Debug IoT Agents</h4>
 
@@ -144,6 +156,9 @@ what can go wrong when trying to wire up the system. How to diagnose problems an
     [Lesson 6 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-get-context-data-out-of-robots)
 
 This video presentation shows how to retrieve context data and actuate robots
+
+🇯🇵 このビデオ・プレゼンテーションは
+[日本語字幕](https://www.youtube.com/embed/T8XV6Wah9l4?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
 
 <h4>Lesson 7. Data Modelling with NGSI</h4>
 
