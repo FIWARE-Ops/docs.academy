@@ -35,8 +35,8 @@ disponibile con sottotitoli in
 [italiano](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=it).<br/> 🇫🇷 Ce webinaire est
 disponible avec sous-titres en
 [français](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=fr).<br/> 🇸🇦
-<span style="direction: rtl">يتوفر هذا الندوة عبر الإنترنت مع ترجمة باللغة
-<a  href="https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ar">فرنسي</a></span>
+<span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت  باللغة 
+<a  href="https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
 
 <h4>Lesson 2. Core Context Management</h4>
 
