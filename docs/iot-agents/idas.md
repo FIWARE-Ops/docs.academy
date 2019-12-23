@@ -61,7 +61,7 @@ This video presentation explains how to connect to the internet of Things using 
 Use of IoT Agents are described in the following step-by-step tutorials:
 
 -   [FIWARE 201: Introduction to IoT Sensors](https://fiware-tutorials.readthedocs.io/en/latest/iot-sensors)
--   [FIWARE 202: Provisioning an IoT Agent](https://fiware-tutorials.readthedocs.io/en/latest/iot-agent)
--   [FIWARE 203: IoT over MQTT](https://fiware-tutorials.readthedocs.io/en/latest/iot-over-mqtt)
--   [FIWARE 204: Using the JSON IoT Agent](https://github.com/FIWARE/tutorials.IoT-Agent-JSON)
+-   [FIWARE 202: Provisioning the Ultralight IoT Agent](https://fiware-tutorials.readthedocs.io/en/latest/iot-agent)
+-   [FIWARE 203: Provisioning Ultralight with an alternative transport: IoT over MQTT](https://fiware-tutorials.readthedocs.io/en/latest/iot-over-mqtt)
+-   [FIWARE 204: Provisioning the JSON IoT Agent](https://github.com/FIWARE/tutorials.IoT-Agent-JSON)
 -   [FIWARE 205: Creating a Custom IoT Agent](https://github.com/FIWARE/tutorials.Custom-IoT-Agent)
