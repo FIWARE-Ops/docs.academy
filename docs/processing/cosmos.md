@@ -40,6 +40,12 @@ Web HDFS API and submitting and managing MapReduce jobs with Tidopp API.
 
 This video presentation explains context information processing and advanced Big Data Analysis.
 
+<h3>Step-by-Step Tutorials</h3>
+
+Use of the Cosmos Flink Connector is described in the following step-by-step tutorial:
+
+-   [FIWARE 505: Real-time Processing and Big Data Analysis](https://fiware-tutorials.readthedocs.io/en/latest/big-data-analysis)
+
 <h3>Code Examples</h3>
 
 This GitHub repository exists containing a few examples for getting started with the cosmos flink connector is described
