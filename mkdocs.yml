@@ -14,16 +14,18 @@ pages:
     - 'FIWARE Webinars': 'integrated-courses/webinars.md'
     - 'FIWARE for Smart Cities': 'integrated-courses/smart-cities.md'
   - 'Core Context Managment':
-    - 'Orion': 'core/orion.md'
     - 'Cygnus': 'core/cygnus.md'
     - 'Draco': 'core/draco.md'
+    - 'Orion': 'core/orion.md'
+    - 'Orion-LD': 'core/orion-ld.md'
     - 'QuantumLeap': 'core/quantum-leap.md'
+    - 'Scorpio': 'core/scorpio.md'
     - 'STH-Comet': 'core/sth-comet.md'
   - 'IoT Agents, Robots & Third Party Systems': 
-    - 'IoT Agents': 'iot-agents/idas.md'
-    - 'Open MTC': 'iot-agents/open-mtc.md'
     - 'Domibus': 'third-party/domibus.md'
     - 'Fast-RTPS': 'robotics/fast-rtps.md'
+    - 'IoT Agents': 'iot-agents/idas.md'
+    - 'Open MTC': 'iot-agents/open-mtc.md'
   - 'Security':
     - 'Authzforce': 'security/authzforce.md'
     - 'Keyrock': 'security/keyrock.md'

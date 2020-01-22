@@ -14,7 +14,8 @@ context data. These tools are:
 
 <span/>
 
--   [Documentation](https://fiware-cosmos-flink.readthedocs.io)
+-   [Documentation - Flink](https://fiware-cosmos-flink.readthedocs.io)
+-   [Documentation - Spark](https://fiware-cosmos-spark.readthedocs.io)
 
 <h3>Academy Courses</h3>
 
@@ -52,3 +53,4 @@ This GitHub repository exists containing a few examples for getting started with
 in the following documentation:
 
 -   [Cosmos Flink Examples](https://fiware-cosmos-flink-examples.readthedocs.io)
+-   [Cosmos Spark Examples](https://fiware-cosmos-spark-examples.readthedocs.io)
