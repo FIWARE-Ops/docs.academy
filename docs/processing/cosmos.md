@@ -53,4 +53,4 @@ This GitHub repository exists containing a few examples for getting started with
 in the following documentation:
 
 -   [Cosmos Flink Examples](https://fiware-cosmos-flink-examples.readthedocs.io)
--   [Cosmos Spark Examples](https://fiware-cosmos-spark-examples.readthedocs.io)
+-   [Cosmos Spark Examples](https://github.com/ging/fiware-cosmos-orion-spark-connector-examples/)
