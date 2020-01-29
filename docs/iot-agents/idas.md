@@ -56,6 +56,11 @@ This video presentation explains how to connect to the internet of Things using 
 -   <a href="https://github.com/Atos-Research-and-Innovation/IoTagent-LoRaWAN/blob/master/docs/tutorialStm32TTN.md">![](https://fiware.github.io/academy/img/doc.svg)How
     to connect the IoT Agent for LoRaWAN</a>
 
+<h4>Lesson 7. OPC-UA</h4>
+
+-   <a href="https://iotagent-opcua.readthedocs.io/en/latest/opc_ua_agent_tutorial/index.html">![](https://fiware.github.io/academy/img/doc.svg)How
+    to connect the OPC-UA IoT Agent</a>
+
 <h3>Step-by-Step Tutorials</h3>
 
 Use of IoT Agents are described in the following step-by-step tutorials:
