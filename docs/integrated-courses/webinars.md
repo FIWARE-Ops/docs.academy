@@ -61,7 +61,12 @@ disponible avec sous-titres en
 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/> 🇮🇹
 Questo webinar è disponibile con sottotitoli in
-[italiano](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=it).
+[italiano](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=it).<br/> 🇪🇸
+Este webinar está disponible con subtítulos en
+[español](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=es)
+<br/> 🇸🇦
+<span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت  باللغة 
+<a  href="https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
 
 This video presentation is an introduction to Core Context Management describing about the NGSI DataModel and the NSGI
 interface, registrations, subscription etc.
@@ -90,7 +95,9 @@ This video presentation shows how to connect IoT Devices to the Context Broker u
 device is _FIWARE Ready_.
 
 🇯🇵 このビデオ・プレゼンテーションは
-[日本語字幕](https://www.youtube.com/embed/my6Kgiqx-OM?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。
+[日本語字幕](https://www.youtube.com/embed/my6Kgiqx-OM?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/> 🇸🇦
+<span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت  باللغة 
+<a  href="https://www.youtube.com/embed/my6Kgiqx-OM?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
 
 <h4>Lesson 4. How to Secure FIWARE Architectures</h4>
 
