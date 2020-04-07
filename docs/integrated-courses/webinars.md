@@ -191,11 +191,11 @@ This video presentation shows how to design and apply Standard NGSI Data Models.
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
 **Difficulty:** <span style="color:#233c68">★ ★ ★</span>
 
--  What is data persistence and why do you need it? 
--  Which data persistence options do you have?
--  What is Big Data?
--  Which FIWARE components are available to deal with the persistence of context data? 
--  Why do context brokers not offer a data persistence function of their own?
+-   What is data persistence and why do you need it? 
+-   Which data persistence options do you have?
+-   What is Big Data?
+-   Which FIWARE components are available to deal with the persistence of context data? 
+-   Why do context brokers not offer a data persistence function of their own?
 
 
 [![](http://img.youtube.com/vi/_uLZDGFPlRA/0.jpg)](https://www.youtube.com/watch?v=_uLZDGFPlRA "Data Persistence")
@@ -212,10 +212,10 @@ of context when a context broker has no memory.
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
 **Difficulty:** <span style="color:#233c68">★ ★ ★</span>  
 
-- How is Short Term History relevant within my Smart application?
-- Which FIWARE components are available to deal with Short Term History?
-- What options exist to create a trend graph?
-- Introduction to the NGSI-LD temporal interface
+-   How is Short Term History relevant within my Smart application?
+-   Which FIWARE components are available to deal with Short Term History?
+-   What options exist to create a trend graph?
+-   Introduction to the NGSI-LD temporal interface
 
 
 [![](http://img.youtube.com/vi/fX_YAc7G4Dk/0.jpg)](https://www.youtube.com/watch?v=fX_YAc7G4Dk "Short-Term History")
