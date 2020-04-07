@@ -71,7 +71,7 @@ Este webinar está disponible con subtítulos en
 This video presentation is an introduction to Core Context Management describing about the NGSI DataModel and the NSGI
 interface, registrations, subscription etc.
 
-<h4>Lesson 3. What is an IoT Agent?</h4>
+<h4>Lesson . What is an IoT Agent?</h4>
 
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md)<br/>
@@ -184,3 +184,44 @@ This video presentation shows how to retrieve context data and actuate robots
     [Lesson 7 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-design-datamodels)
 
 This video presentation shows how to design and apply Standard NGSI Data Models.
+
+
+<h4>Lesson 8. Strategies for Context Data Persistence</h4>
+**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+**Difficulty:** <span style="color:#233c68">★ ★ ★</span>
+
+-  What is data persistence and why do you need it? 
+-  Which data persistence options do you have?
+-  What is Big Data?
+-  Which FIWARE components are available to deal with the persistence of context data? 
+-  Why do context brokers not offer a data persistence function of their own?
+
+
+[![](http://img.youtube.com/vi/_uLZDGFPlRA/0.jpg)](https://www.youtube.com/watch?v=_uLZDGFPlRA "Data Persistence")
+
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 8 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-strategies-for-context-data-persistence)
+
+Introduction to the data persistence components found within the FIWARE Catalogue and various options on how to maintain a historical record 
+of context when a context broker has no memory.
+
+<h4>Lesson 9. Short Term History within FIWARE Systems</h4>
+
+**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+**Difficulty:** <span style="color:#233c68">★ ★ ★</span>  
+
+- How is Short Term History relevant within my Smart application?
+- Which FIWARE components are available to deal with Short Term History?
+- What options exist to create a trend graph?
+- Introduction to the NGSI-LD temporal interface
+
+
+[![](http://img.youtube.com/vi/fX_YAc7G4Dk/0.jpg)](https://www.youtube.com/watch?v=fX_YAc7G4Dk "Short-Term History")
+
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 9 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-short-term-history-within-smart-systems)
+
+This webinar shows how to utilise times series components and monitor and display trends within FIWARE applications
+
