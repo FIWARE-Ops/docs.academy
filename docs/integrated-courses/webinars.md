@@ -35,7 +35,7 @@ disponibile con sottotitoli in
 [italiano](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=it).<br/> 🇫🇷 Ce webinaire est
 disponible avec sous-titres en
 [français](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=fr).<br/> 🇸🇦
-<span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت  باللغة 
+<span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
 <a  href="https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
 
 <h4>Lesson 2. Core Context Management</h4>
@@ -61,11 +61,9 @@ disponible avec sous-titres en
 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/> 🇮🇹
 Questo webinar è disponibile con sottotitoli in
-[italiano](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=it).<br/> 🇪🇸
-Este webinar está disponible con subtítulos en
-[español](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=es)
-<br/> 🇸🇦
-<span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت  باللغة 
+[italiano](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=it).<br/> 🇪🇸 Este webinar está
+disponible con subtítulos en [español](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=es) <br/>
+🇸🇦 <span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
 <a  href="https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
 
 This video presentation is an introduction to Core Context Management describing about the NGSI DataModel and the NSGI
@@ -96,7 +94,7 @@ device is _FIWARE Ready_.
 
 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/my6Kgiqx-OM?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/> 🇸🇦
-<span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت  باللغة 
+<span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
 <a  href="https://www.youtube.com/embed/my6Kgiqx-OM?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
 
 <h4>Lesson 4. How to Secure FIWARE Architectures</h4>
@@ -185,38 +183,35 @@ This video presentation shows how to retrieve context data and actuate robots
 
 This video presentation shows how to design and apply Standard NGSI Data Models.
 
-
 <h4>Lesson 8. Strategies for Context Data Persistence</h4>
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
 **Difficulty:** <span style="color:#233c68">★ ★ ★</span>
 
--   What is data persistence and why do you need it? 
+-   What is data persistence and why do you need it?
 -   Which data persistence options do you have?
 -   What is Big Data?
--   Which FIWARE components are available to deal with the persistence of context data? 
+-   Which FIWARE components are available to deal with the persistence of context data?
 -   Why do context brokers not offer a data persistence function of their own?
-
 
 [![](http://img.youtube.com/vi/_uLZDGFPlRA/0.jpg)](https://www.youtube.com/watch?v=_uLZDGFPlRA "Data Persistence")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 8 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-strategies-for-context-data-persistence)
 
-Introduction to the data persistence components found within the FIWARE Catalogue and various options on how to maintain a historical record 
-of context when a context broker has no memory.
+Introduction to the data persistence components found within the FIWARE Catalogue and various options on how to maintain
+a historical record of context when a context broker has no memory.
 
 <h4>Lesson 9. Short Term History within FIWARE Systems</h4>
 
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
-**Difficulty:** <span style="color:#233c68">★ ★ ★</span>  
+**Difficulty:** <span style="color:#233c68">★ ★ ★</span>
 
 -   How is Short Term History relevant within my Smart application?
 -   Which FIWARE components are available to deal with Short Term History?
 -   What options exist to create a trend graph?
 -   Introduction to the NGSI-LD temporal interface
-
 
 [![](http://img.youtube.com/vi/fX_YAc7G4Dk/0.jpg)](https://www.youtube.com/watch?v=fX_YAc7G4Dk "Short-Term History")
 
@@ -224,4 +219,3 @@ of context when a context broker has no memory.
     [Lesson 9 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-short-term-history-within-smart-systems)
 
 This webinar shows how to utilise times series components and monitor and display trends within FIWARE applications
-

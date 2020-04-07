@@ -12,6 +12,7 @@ pages:
   - Home: 'index.md'
   - 'Integrated Courses':
     - 'FIWARE Webinars': 'integrated-courses/webinars.md'
+    - 'CEF Smart Cities': 'integrated-courses/cef-smart-cities.md'
     - 'FIWARE for Smart Cities': 'integrated-courses/smart-cities.md'
   - 'Core Context Managment':
     - 'Cygnus': 'core/cygnus.md'

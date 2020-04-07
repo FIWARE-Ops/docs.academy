@@ -26,3 +26,27 @@ sample implementations.
 
 -   <a href="https://fiware.github.io/academy/domibus/domibus1.pdf">![](https://fiware.github.io/academy/img/pdf.png)
     Lesson 1- Introdution to eDelivery</a>
+
+<h4>Lesson 2. Domibus Installation Tutorial PART I (Tomcat, Mysql, Linux)</h4>
+
+[![](http://img.youtube.com/vi/fEPp8X1CgzI/0.jpg)](https://www.youtube.com/watch?v=fEPp8X1CgzI)
+
+<h4>Lesson 3. Domibus Installation Tutorial PART II (Tomcat, Mysql, Linux)</h4>
+
+[![](http://img.youtube.com/vi/UDVtOIRb1TM/0.jpg)](https://www.youtube.com/watch?v=UDVtOIRb1TM)
+
+<h4>Lesson 4. Domibus Message Lifecycle PART I</h4>
+
+[![](http://img.youtube.com/vi/cwUMzNYEFaw/0.jpg)](https://www.youtube.com/watch?v=cwUMzNYEFaw)
+
+<h4>Lesson 5. Domibus Message Lifecycle PART II</h4>
+
+[![](http://img.youtube.com/vi/tsCQ1XbypaI/0.jpg)](https://www.youtube.com/watch?v=tsCQ1XbypaI)
+
+<h4>Lesson 6. Domibus Message Lifecycle PART III</h4>
+
+[![](http://img.youtube.com/vi/ZgOmohMHCHE/0.jpg)](https://www.youtube.com/watch?v=ZgOmohMHCHE)
+
+<h4>Lesson 7. Domibus Message Lifecycle PART IV</h4>
+
+[![](http://img.youtube.com/vi/EQx5Hjk4FZk/0.jpg)](https://www.youtube.com/watch?v=EQx5Hjk4FZk)
