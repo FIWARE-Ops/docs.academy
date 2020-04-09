@@ -189,6 +189,7 @@
        "ignoreRedirects": true,
        "ignore": [
           "mailto:*",
+          "https://www.youtube.com",
           "https://www.fi-xifi.eu/about-xifi/what-is-xifi.html",
 		  "http://www.fp7-ofelia.eu/",
           "http://docs.ckan.org/en/latest/user-guide.html"         

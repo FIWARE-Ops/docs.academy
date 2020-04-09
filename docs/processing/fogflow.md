@@ -20,6 +20,12 @@ the availability, locality, and mobility of IoT devices.
 -   <a href="https://www.slideshare.net/FI-WARE/fiware-global-summit-fogflow-a-new-ge-for-iot-edge-computing-97031456">![](https://fiware.github.io/academy/img/doc.svg)
     Introduction to FogFlow</a>
 
+<h3>Step-by-Step Tutorials</h3>
+
+Use of FogFlow is described in the following step-by-step tutorial:
+
+-   [FIWARE 507: Cloud-Edge Computing](https://fiware-tutorials.readthedocs.io/en/latest/edge-computing)
+
 <h3>Code Examples</h3>
 
 The Smart Parking repository contains a series examples for getting started with FogFlow:
