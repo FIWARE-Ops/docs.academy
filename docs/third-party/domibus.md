@@ -2,7 +2,7 @@
 <h2>Domibus - Electronic Data Exchange</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/third-party.svg)](https://github.com/FIWARE/catalogue/blob/master/third-party/README.md)
-[![fiware](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](http://stackoverflow.com/questions/tagged/fiware)
+[![fiware](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](https://stackoverflow.com/questions/tagged/fiware)
 
 Domibus is a sample implementation of a
 [CEF eDelivery Access Point](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Access+Point+software). CEF
@@ -29,24 +29,24 @@ sample implementations.
 
 <h4>Lesson 2. Domibus Installation Tutorial PART I (Tomcat, Mysql, Linux)</h4>
 
-[![](http://img.youtube.com/vi/fEPp8X1CgzI/0.jpg)](https://www.youtube.com/watch?v=fEPp8X1CgzI)
+[![](https://img.youtube.com/vi/fEPp8X1CgzI/0.jpg)](https://www.youtube.com/watch?v=fEPp8X1CgzI)
 
 <h4>Lesson 3. Domibus Installation Tutorial PART II (Tomcat, Mysql, Linux)</h4>
 
-[![](http://img.youtube.com/vi/UDVtOIRb1TM/0.jpg)](https://www.youtube.com/watch?v=UDVtOIRb1TM)
+[![](https://img.youtube.com/vi/UDVtOIRb1TM/0.jpg)](https://www.youtube.com/watch?v=UDVtOIRb1TM)
 
 <h4>Lesson 4. Domibus Message Lifecycle PART I</h4>
 
-[![](http://img.youtube.com/vi/cwUMzNYEFaw/0.jpg)](https://www.youtube.com/watch?v=cwUMzNYEFaw)
+[![](https://img.youtube.com/vi/cwUMzNYEFaw/0.jpg)](https://www.youtube.com/watch?v=cwUMzNYEFaw)
 
 <h4>Lesson 5. Domibus Message Lifecycle PART II</h4>
 
-[![](http://img.youtube.com/vi/tsCQ1XbypaI/0.jpg)](https://www.youtube.com/watch?v=tsCQ1XbypaI)
+[![](https://img.youtube.com/vi/tsCQ1XbypaI/0.jpg)](https://www.youtube.com/watch?v=tsCQ1XbypaI)
 
 <h4>Lesson 6. Domibus Message Lifecycle PART III</h4>
 
-[![](http://img.youtube.com/vi/ZgOmohMHCHE/0.jpg)](https://www.youtube.com/watch?v=ZgOmohMHCHE)
+[![](https://img.youtube.com/vi/ZgOmohMHCHE/0.jpg)](https://www.youtube.com/watch?v=ZgOmohMHCHE)
 
 <h4>Lesson 7. Domibus Message Lifecycle PART IV</h4>
 
-[![](http://img.youtube.com/vi/EQx5Hjk4FZk/0.jpg)](https://www.youtube.com/watch?v=EQx5Hjk4FZk)
+[![](https://img.youtube.com/vi/EQx5Hjk4FZk/0.jpg)](https://www.youtube.com/watch?v=EQx5Hjk4FZk)

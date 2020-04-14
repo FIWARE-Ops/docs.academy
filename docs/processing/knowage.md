@@ -2,7 +2,7 @@
 <h2>Knowage -  Business Intellegence</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
-[![knowage](https://img.shields.io/badge/tag-knowage-orange.svg?logo=stackoverflow)](http://stackoverflow.com/questions/tagged/fiware-knowage)
+[![knowage](https://img.shields.io/badge/tag-knowage-orange.svg?logo=stackoverflow)](https://stackoverflow.com/questions/tagged/fiware-knowage)
 
 Knowage is the full capabilities open source suite for business analytics that ensures the freedom to access source code
 and collaborate in an international community, while letting you build your own business solution that ensure strategic
@@ -11,7 +11,7 @@ mutually combinable to ensure comprehensive support to rich and multi-source dat
 as data federation, mash-up, data/text mining and advanced data visualization, give special focus on big data analytics
 and comprehensive support to rich and multi-source data analysis.
 
--   [Documentation](http://knowage.rtfd.io/)
+-   [Documentation](https://knowage.rtfd.io/)
 -   [Site](https://www.knowage-suite.com/site/home/)
 
 <h3>Academy Courses</h3>
@@ -52,11 +52,11 @@ tools comunicate with each other.
 
 <h4>Lesson 4. Installing Knowage</h4>
 
-[![](http://img.youtube.com/vi/gqBBLOTi07Y/0.jpg)](https://www.youtube.com/watch?v=gqBBLOTi07Y "Installion on Windows")
+[![](https://img.youtube.com/vi/gqBBLOTi07Y/0.jpg)](https://www.youtube.com/watch?v=gqBBLOTi07Y "Installion on Windows")
 
 This video presentation explains how to install Knowage on Windows
 
-[![](http://img.youtube.com/vi/uK_C_bQSAaU/0.jpg)](https://www.youtube.com/watch?v=uK_C_bQSAaU "Installion on Linux")
+[![](https://img.youtube.com/vi/uK_C_bQSAaU/0.jpg)](https://www.youtube.com/watch?v=uK_C_bQSAaU "Installion on Linux")
 
 This video presentation explains how to install Knowage on Linux
 
@@ -64,31 +64,31 @@ This video presentation explains how to install Knowage on Linux
 
 The following videos are without sound:
 
-[![](http://img.youtube.com/vi/tgnVUAWs1kI/0.jpg)](https://www.youtube.com/watch?v=tgnVUAWs1kI "Overview")
+[![](https://img.youtube.com/vi/tgnVUAWs1kI/0.jpg)](https://www.youtube.com/watch?v=tgnVUAWs1kI "Overview")
 
 This video presentation gives an overview of the main analytical documents provided by the suite: traditional and
 advanced charts, reports, maps, OLAP, KPIs and interactive cockpits
 
-[![](http://img.youtube.com/vi/8FOiT7fhyf8/0.jpg)](https://www.youtube.com/watch?v=8FOiT7fhyf8 "Data federation")
+[![](https://img.youtube.com/vi/8FOiT7fhyf8/0.jpg)](https://www.youtube.com/watch?v=8FOiT7fhyf8 "Data federation")
 
 This video presentation shows how to upload private files, use external open data sets (ckan), relate both with
 enterprise data using a federated model.
 
-[![](http://img.youtube.com/vi/Rk9slySowO0/0.jpg)](https://www.youtube.com/watch?v=Rk9slySowO0 "Free Inquiry")
+[![](https://img.youtube.com/vi/Rk9slySowO0/0.jpg)](https://www.youtube.com/watch?v=Rk9slySowO0 "Free Inquiry")
 
 This video presentation demonstrates the drag & drop query builder, to freely inquire traditional data source and big
 data systems, producing custom data sets
 
-[![](http://img.youtube.com/vi/ueUfgYHT_CA/0.jpg)](https://www.youtube.com/watch?v=ueUfgYHT_CA "Meta Model")
+[![](https://img.youtube.com/vi/ueUfgYHT_CA/0.jpg)](https://www.youtube.com/watch?v=ueUfgYHT_CA "Meta Model")
 
 This video presentation describes how to create a business metamodel over a traditional data source or big data
 systems/NoSQL databases that provide a metadata catalogue.
 
-[![](http://img.youtube.com/vi/VZHBkfifW2c/0.jpg)](https://www.youtube.com/watch?v=VZHBkfifW2c "Function catalogue")
+[![](https://img.youtube.com/vi/VZHBkfifW2c/0.jpg)](https://www.youtube.com/watch?v=VZHBkfifW2c "Function catalogue")
 
 This video presentation describes how to use advanced analytics over private data in an easy way (prevision using R
 script)
 
-[![](http://img.youtube.com/vi/f9dp8A74F7w/0.jpg)](https://www.youtube.com/watch?v=f9dp8A74F7w "Cockpit Creation")
+[![](https://img.youtube.com/vi/f9dp8A74F7w/0.jpg)](https://www.youtube.com/watch?v=f9dp8A74F7w "Cockpit Creation")
 
 This video presentation describes how to create an interactive cockpit in a few clicks without technical skills.

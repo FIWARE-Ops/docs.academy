@@ -2,7 +2,7 @@
 <h2>Cosmos - Big Data Analysis</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
-[![fiware-cosmos](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/cosmos.svg)](http://stackoverflow.com/questions/tagged/fiware-cosmos)
+[![fiware-cosmos](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/cosmos.svg)](https://stackoverflow.com/questions/tagged/fiware-cosmos)
 
 The Cosmos Big Data Analysis GE is a set of tools that help achieving the tasks of Streaming and Batch processing over
 context data. These tools are:
@@ -37,7 +37,7 @@ Web HDFS API and submitting and managing MapReduce jobs with Tidopp API.
 
 <h4>Lesson 3. Big Data Analysis</h4>
 
-[![](http://img.youtube.com/vi/mdmeeuL4bTM/0.jpg)](https://www.youtube.com/watch?v=mdmeeuL4bTM "Introduction")
+[![](https://img.youtube.com/vi/mdmeeuL4bTM/0.jpg)](https://www.youtube.com/watch?v=mdmeeuL4bTM "Introduction")
 
 This video presentation explains context information processing and advanced Big Data Analysis.
 

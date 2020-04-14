@@ -2,7 +2,7 @@
 <h2>Orion - Context Broker</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
-[![fiware-orion](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/orion.svg)](http://stackoverflow.com/questions/tagged/fiware-orion)
+[![fiware-orion](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/orion.svg)](https://stackoverflow.com/questions/tagged/fiware-orion)
 
 The Orion Context Broker is an implementation of the Publish/Subscribe Broker Generic Enabler.
 
@@ -21,7 +21,7 @@ elements have changed) you receive a notification.
 Provides an introduction to Orion Context Broker and its basic API to manage context information. It also explains how
 to set Orion instances to start working with it.
 
-[![](http://img.youtube.com/vi/dn9PW43-rVg/0.jpg)](https://www.youtube.com/watch?v=dn9PW43-rVg "Context Broker Basic")
+[![](https://img.youtube.com/vi/dn9PW43-rVg/0.jpg)](https://www.youtube.com/watch?v=dn9PW43-rVg "Context Broker Basic")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 1 - Slides File](https://fiware.github.io/academy/orion/orion1.pdf)
@@ -29,7 +29,7 @@ to set Orion instances to start working with it.
 <h4>Lesson 2. Orion Context Broker Advanced</h4>
 Describes advances Orion Context Broker topics, such as pagination, filtering, geo-location and much more.
 
-[![](http://img.youtube.com/vi/3qOXUcK0nCo/0.jpg)](https://www.youtube.com/watch?v=3qOXUcK0nCo "Context Broker Advanced")
+[![](https://img.youtube.com/vi/3qOXUcK0nCo/0.jpg)](https://www.youtube.com/watch?v=3qOXUcK0nCo "Context Broker Advanced")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 2 - Slides File](https://fiware.github.io/academy/orion/orion2.pdf)

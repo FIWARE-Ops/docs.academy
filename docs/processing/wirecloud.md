@@ -2,7 +2,7 @@
 <h2>WireCloud - Application Mashup</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
-[![fiware-wirecloud](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/wirecloud.svg)](http://stackoverflow.com/questions/tagged/fiware-wirecloud)
+[![fiware-wirecloud](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/wirecloud.svg)](https://stackoverflow.com/questions/tagged/fiware-wirecloud)
 
 Wirecloud is a web mashup tool designed to ease the development of operational dashboards. This allows end users to
 easily create web applications and dashboards without programming skills and to visualize data of interest and control
@@ -18,14 +18,14 @@ Recording of the Workshop about WireCloud delivered in the Developers' week at M
 introduction on WireCloud and also presents some practical examples of how to use it for Data/Application Visualization
 and for building custom dashboards.
 
-[![](http://img.youtube.com/vi/35npcYlnJpM/0.jpg)](https://www.youtube.com/watch?v=35npcYlnJpM "Wirecloud Training")
+[![](https://img.youtube.com/vi/35npcYlnJpM/0.jpg)](https://www.youtube.com/watch?v=35npcYlnJpM "Wirecloud Training")
 
 <h4> Video 2. FI-PPP Liaison Workshop about WireCloud</h4>
 
 Recording of the IMDEA FI-PPP Liaison Workshop about WireCloud. This video presents an introduction on WireCloud and
 also presents some practical examples of developing a simple chat widget using the WireCloud APIs.
 
-[![](http://img.youtube.com/vi/q9smyuI-Yug/0.jpg)](https://www.youtube.com/watch?v=q9smyuI-Yug "IMDEA FI-PPP Liaison")
+[![](https://img.youtube.com/vi/q9smyuI-Yug/0.jpg)](https://www.youtube.com/watch?v=q9smyuI-Yug "IMDEA FI-PPP Liaison")
 
 <h4>Lesson 1. Introduction</h4>
 This presentation introduces the WireCloud framework, its architecture and APIs.
@@ -55,7 +55,7 @@ In this section you will learn how to use WireCloud from the point of view of a 
 -   <a href="https://wirecloud.readthedocs.io/en/latest/widgetapi/widgetapi/">![](https://fiware.github.io/academy/img/doc.svg)JavaScript
     API</a> Reference documentation of the Application Mashup JavaScript API (Widget API).
 
--   <a href="http://conwetlab.github.io/ngsijs/stable/NGSI.html">![](https://fiware.github.io/academy/img/doc.svg)NGSI
+-   <a href="https://conwetlab.github.io/ngsijs/stable/NGSI.html">![](https://fiware.github.io/academy/img/doc.svg)NGSI
     API</a> Reference documentation of the NGSI JavaScript API provided by WireCloud
 
 -   <a href="https://wirecloud.readthedocs.io/en/latest/development/object_storage_api/">![](https://fiware.github.io/academy/img/doc.svg)ObjectStorage</a>

@@ -15,7 +15,7 @@ is one of the essential GUI tools to help API Owners to reach their customer wit
 
 <h4>Lesson 1. Quick Start</h4>
 
-[![](http://img.youtube.com/vi/yCR6pCnTm5w/0.jpg)](https://www.youtube.com/watch?v=yCR6pCnTm5w "Quick Start")
+[![](https://img.youtube.com/vi/yCR6pCnTm5w/0.jpg)](https://www.youtube.com/watch?v=yCR6pCnTm5w "Quick Start")
 
 This video presentation shows how to get started with APInf API platform. It covers basic usage, and simple processes
 such as creating an account, adding a proxy and adding an API

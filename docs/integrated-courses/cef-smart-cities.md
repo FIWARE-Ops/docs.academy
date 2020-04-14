@@ -14,7 +14,7 @@ new functionality. This allows the European Data Model and EU Member States to c
 
 <h4>Meet Context Broker, the new CEF Building Block</h4>
 
-[![](http://img.youtube.com/vi/1Cqcrnj9id4/0.jpg)](https://www.youtube.com/watch?v=1Cqcrnj9id4)
+[![](https://img.youtube.com/vi/1Cqcrnj9id4/0.jpg)](https://www.youtube.com/watch?v=1Cqcrnj9id4)
 
 The FIWARE Context Broker, which is able to handle context information on a large scale by implementing standard REST
 APIs, has been added to the European Data Portal and its core service platform as a new functionality, allowing the
@@ -28,30 +28,30 @@ referred as “context information”.
 
 <h4>Lesson 1. Introduction: Smart Cities and the EC</h4>
 
-[![](http://img.youtube.com/vi/GoqLmkwHwbI/0.jpg)](https://www.youtube.com/watch?v=GoqLmkwHwbI)
+[![](https://img.youtube.com/vi/GoqLmkwHwbI/0.jpg)](https://www.youtube.com/watch?v=GoqLmkwHwbI)
 
 Cristina Martinez - Deputy Head of Unit, Smart Mobility and Living (CNECT - European Commission)
 
 <h4>Lesson 2. Smart Cities and the CEF Building Blocks</h4>
 
-[![](http://img.youtube.com/vi/5wWPFTAKwH8/0.jpg)](https://www.youtube.com/watch?v=5wWPFTAKwH8)
+[![](https://img.youtube.com/vi/5wWPFTAKwH8/0.jpg)](https://www.youtube.com/watch?v=5wWPFTAKwH8)
 
 Joao Rodrigues Frade - Head of Sector, Building Blocks (DIGIT - European Commission)
 
 <h4>Lesson 3. City as Platform Manifesto</h4>
 
-[![](http://img.youtube.com/vi/2mpowkOa3zw/0.jpg)](https://www.youtube.com/watch?v=2mpowkOa3zw)
+[![](https://img.youtube.com/vi/2mpowkOa3zw/0.jpg)](https://www.youtube.com/watch?v=2mpowkOa3zw)
 
 Carl Piva - Senior Advisor to governments, cities and ICT companies
 
 <h4>Lesson 4. CEF Building Blocks in the context of Smart Cities</h4>
 
-[![](http://img.youtube.com/vi/TbA5tYxTJpk/0.jpg)](https://www.youtube.com/watch?v=TbA5tYxTJpk)
+[![](https://img.youtube.com/vi/TbA5tYxTJpk/0.jpg)](https://www.youtube.com/watch?v=TbA5tYxTJpk)
 
 Ulrich Ahle - CEO, FIWARE Foundation
 
 <h4>Lesson 5. Closing Words and final Q&A</h4>
 
-[![](http://img.youtube.com/vi/KzEGOlG_mVg/0.jpg)](https://www.youtube.com/watch?v=KzEGOlG_mVg)
+[![](https://img.youtube.com/vi/KzEGOlG_mVg/0.jpg)](https://www.youtube.com/watch?v=KzEGOlG_mVg)
 
 Kelly Liljemo - Project Officer, Building Blocks (DIGIT - European Commission)
