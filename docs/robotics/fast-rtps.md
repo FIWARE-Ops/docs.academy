@@ -2,7 +2,7 @@
 <h2>Fast-RTPS</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)
-[![fiware](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](http://stackoverflow.com/questions/tagged/fiware)
+[![fiware](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](https://stackoverflow.com/questions/tagged/fiware)
 
 eProsima Fast RTPS is a C++ implementation of the RTPS (Real Time Publish Subscribe) protocol, which provides
 publisher-subscriber communications over unreliable transports such as UDP, as defined and maintained by the Object

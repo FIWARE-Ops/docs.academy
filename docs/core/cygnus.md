@@ -2,7 +2,7 @@
 <h2>Cygnus - Data Persistence using Apache Flume</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
-[![fiware-cygnus](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/cygnus.svg)](http://stackoverflow.com/questions/tagged/fiware-cygnus)
+[![fiware-cygnus](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/cygnus.svg)](https://stackoverflow.com/questions/tagged/fiware-cygnus)
 
 Cygnus is a connector in charge of persisting context data sources into other third-party databases and storage systems,
 creating a historical view of the context. Internally, Cygnus is based on Apache Flume,
@@ -25,7 +25,7 @@ FAQ, architecture, basic and advanced configuration, and detailed sink catalogue
 
 <h4>Lesson 2. Persisting to HDFS using Cygnus</h4>
 
-[![](http://img.youtube.com/vi/Q_TZKLDu4X0/0.jpg)](https://www.youtube.com/watch?v=Q_TZKLDu4X0 "Cygnus HDFS")
+[![](https://img.youtube.com/vi/Q_TZKLDu4X0/0.jpg)](https://www.youtube.com/watch?v=Q_TZKLDu4X0 "Cygnus HDFS")
 
 This video presentation explains how to use Cygnus to persist data for Big Data Analytics.
 

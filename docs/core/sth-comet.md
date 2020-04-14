@@ -2,7 +2,7 @@
 <h2>STH Comet - Short Term History</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
-[![fiware-sth-comet](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/sth-comet.svg)](http://stackoverflow.com/questions/tagged/fiware-sth-comet)
+[![fiware-sth-comet](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/sth-comet.svg)](https://stackoverflow.com/questions/tagged/fiware-sth-comet)
 
 Short Time Historic (STH) - Comet is a component of the FIWARE ecosystem in charge of managing (storing and retrieving)
 historical raw and aggregated time series context information about the evolution in time of context data (i.e., entity

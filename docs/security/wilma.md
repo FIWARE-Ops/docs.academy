@@ -2,7 +2,7 @@
 <h2>Wilma - PEP Proxy</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://github.com/FIWARE/catalogue/blob/master/security/README.md)
-[![fiware-wilma](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/wilma.svg)](http://stackoverflow.com/questions/tagged/fiware-wilma)
+[![fiware-wilma](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/wilma.svg)](https://stackoverflow.com/questions/tagged/fiware-wilma)
 
 The Wilma PEP Proxy in combination with Identity Management and Authorization PDP GEs, adds authentication and
 authorization security to your backend applications. Thus, only FIWARE users will be able to access your Generic
@@ -16,7 +16,7 @@ to your resources allowing different access levels to your users.
 
 This lesson introduces the main concepts needed to understand the architecture and the goals of Wilma.
 
-[![](http://img.youtube.com/vi/8tGbUI18udM/0.jpg)](https://www.youtube.com/watch?v=8tGbUI18udM "Introduction")
+[![](https://img.youtube.com/vi/8tGbUI18udM/0.jpg)](https://www.youtube.com/watch?v=8tGbUI18udM "Introduction")
 
 -   <a href="https://www.slideshare.net/alvaroalonsogonzalez/pep-proxy-wilma-ge-lesson-1-introduction">![](https://fiware.github.io/academy/img/doc.svg)
     Lesson 1 - Slides</a>
@@ -24,7 +24,7 @@ This lesson introduces the main concepts needed to understand the architecture a
 <h4>Lesson 2. Installing, registering and configuring Wilma</h4>
 This lesson explains how to install and configure Wilma to start working with it.
 
-[![](http://img.youtube.com/vi/b4sYU78skrw/0.jpg)](https://www.youtube.com/watch?v=b4sYU78skrw "Install and Register")
+[![](https://img.youtube.com/vi/b4sYU78skrw/0.jpg)](https://www.youtube.com/watch?v=b4sYU78skrw "Install and Register")
 
 -   <a href="https://www.slideshare.net/alvaroalonsogonzalez/pep-proxy-wilma-ge-lesson-2-installing-registering-and-configuring-wilma">![](https://fiware.github.io/academy/img/doc.svg)
     Lesson 2 - Slides</a>
@@ -32,7 +32,7 @@ This lesson explains how to install and configure Wilma to start working with it
 <h4>Lesson 3. Securing a REST API</h4>
 This lesson presents the way in which you can secure your REST APIs and shows practical examples with a real backend.
 
-[![](http://img.youtube.com/vi/coxFQEY0_So/0.jpg)](https://www.youtube.com/watch?v=coxFQEY0_So "Securing a REST API")
+[![](https://img.youtube.com/vi/coxFQEY0_So/0.jpg)](https://www.youtube.com/watch?v=coxFQEY0_So "Securing a REST API")
 
 -   <a href="https://www.slideshare.net/alvaroalonsogonzalez/pep-proxy-wilma-ge-lesson-3-securing-a-rest-api" alt=" " />Lesson
     3 - Slides</a>

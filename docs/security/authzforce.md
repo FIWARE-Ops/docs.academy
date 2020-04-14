@@ -2,7 +2,7 @@
 <h2> AuthzForce - XACML PDP</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://github.com/FIWARE/catalogue/blob/master/security/README.md)
-[![authzforce](https://img.shields.io/badge/tag-authzforce-orange.svg?logo=stackoverflow)](http://stackoverflow.com/questions/tagged/authzforce)
+[![authzforce](https://img.shields.io/badge/tag-authzforce-orange.svg?logo=stackoverflow)](https://stackoverflow.com/questions/tagged/authzforce)
 
 **AuthzForce** is the reference implementation of the Authorization PDP Generic Enabler (formerly called Access Control
 GE). Indeed, as mandated by the GE specification, this implementation provides an API to get authorization decisions

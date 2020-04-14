@@ -28,7 +28,7 @@ do not need this component if your devices or gateways natively support the NGSI
 
 Introduction to IoT and IoT Agents. Training at Madrid Developers Week 2015.
 
-[![](http://img.youtube.com/vi/DzmtvEztcSY/0.jpg)](https://www.youtube.com/watch?v=DzmtvEztcSY "IDAS Training")
+[![](https://img.youtube.com/vi/DzmtvEztcSY/0.jpg)](https://www.youtube.com/watch?v=DzmtvEztcSY "IDAS Training")
 
 <h4>Lesson 2. Connecting IoT Devices</h4>
 
@@ -42,7 +42,7 @@ Introduction to IoT and IoT Agents. Training at Madrid Developers Week 2015.
 
 <h4>Lesson 4. OMA Lightweight M2M</h4>
 
-[![](http://img.youtube.com/vi/G-3PGEibDuY/0.jpg)](https://www.youtube.com/watch?v=G-3PGEibDuY "OMA Lightweight M2M")
+[![](https://img.youtube.com/vi/G-3PGEibDuY/0.jpg)](https://www.youtube.com/watch?v=G-3PGEibDuY "OMA Lightweight M2M")
 
 This video presentation explains how to connect to the internet of Things using the OMA Lightweight M2M protocol.
 

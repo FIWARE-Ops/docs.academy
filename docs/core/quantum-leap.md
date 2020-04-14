@@ -7,7 +7,7 @@
 The QuantumLeap Generic Enabler focuses on persisting historical context data into
 [time-series databases](https://en.wikipedia.org/wiki/Time_series_database) such as [CrateDB](https://crate.io/) with
 reference to maintaining a scalable architecture and compatibility with visualization tools such as
-[Grafana](http://www.grafana.com/)
+[Grafana](https://www.grafana.com/)
 
 ![](https://fiware.github.io/academy/img/books.png) [Documentation](https://quantumleap.rtfd.io/)
 
