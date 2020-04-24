@@ -219,3 +219,23 @@ a historical record of context when a context broker has no memory.
     [Lesson 9 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-short-term-history-within-smart-systems)
 
 This webinar shows how to utilise times series components and monitor and display trends within FIWARE applications
+
+<h4>Lesson 10. Securing FIWARE IoT Devices</h4>
+
+**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://github.com/FIWARE/catalogue/blob/master/security/README.md)<br/>
+**Difficulty:** <span style="color:#ff7059">★ ★ ★</span>
+
+-   How can insecure systems be attacked?
+-   What common actions should be taken to help to secure systems?
+    -   What options do I have to secure HTTP traffic?
+    -   What options do I have to secure MQTT traffic?
+    -   What options do I have with other protocols?
+-   What is a PEP Proxy and how can I use one to protect services and device?s
+
+[![](https://img.youtube.com/vi/_87IZhrYo3U/0.jpg)](https://www.youtube.com/watch?v=_87IZhrYo3U "Securing FIWARE IoT Devices")
+
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 10 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-secure-iot-devices/FI-WARE/fiware-wednesday-webinars-how-to-secure-iot-devices)
+
+Live coding session and commentary, demonstrating various techniques and methods for securing the interactions between Devices, IoT Agents, and the Context Broker.
