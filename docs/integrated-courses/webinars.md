@@ -184,6 +184,7 @@ This video presentation shows how to retrieve context data and actuate robots
 This video presentation shows how to design and apply Standard NGSI Data Models.
 
 <h4>Lesson 8. Strategies for Context Data Persistence</h4>
+
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
 **Difficulty:** <span style="color:#233c68">★ ★ ★</span>
