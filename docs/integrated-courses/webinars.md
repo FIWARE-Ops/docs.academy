@@ -239,3 +239,6 @@ This webinar shows how to utilise times series components and monitor and displa
     [Lesson 10 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-secure-iot-devices/FI-WARE/fiware-wednesday-webinars-how-to-secure-iot-devices)
 
 Live coding session and commentary, demonstrating various techniques and methods for securing the interactions between Devices, IoT Agents, and the Context Broker.
+
+🇸🇦 <span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
+<a  href="https://www.youtube.com/embed/_87IZhrYo3U?cc_load_policy=1&cc_lang_pref=arr">العربية</a></span>
