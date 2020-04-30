@@ -16,7 +16,7 @@ processes and technology stacks.
 
 <h3>Academy Courses</h3>
 
-<h4>Lesson 1. Course Introduction</h4>
+#### 1. Course Introduction
 
 This high level overview lesson, will present you the course objectives we are following, the plot of our exemplary
 Smart City demo prototype application "Thunderstorm warning", as well as the content structure and the course
@@ -25,7 +25,7 @@ quickstart course.
 
 -   [Course introduction](http://46.17.108.49/00/)
 
-<h4>Lesson 2. The FIWARE Ecosystem</h4>
+#### 2. The FIWARE Ecosystem
 
 As an integrated quickstart course and a guided roundtrip through FIWARE we have to cover some of the generals. You will
 receive a high level overview about the FIWARE mission, the various FIWARE technologies and the efforts around
@@ -34,7 +34,7 @@ community with relevant strategic partnerships.
 
 -   [FIWARE ecosystem](http://46.17.108.49/01/)
 
-<h4>Lesson 3. FIWARE Lab Cloud</h4>
+#### 3. FIWARE Lab Cloud
 
 This lesson presents the general functionality of the FIWARE Lab cloud, based on the market leading Open Source cloud
 platform OpenStack. It will be the learner's starting point for the technical instructions.
@@ -47,7 +47,7 @@ Area covered: _Self Service Interfaces - Cloud Portal_
 
 -   [FIWARE Lab Cloud](http://46.17.108.49/02/)
 
-<h4>Lesson 4. Introduction to APIs</h4>
+#### 4. Introduction to APIs
 
 This lesson presents a general overview of the concepts of current state-of-the art APIs. We have noticed very different
 levels of knowledge about this topic. Therefore, we want to make sure that all parties involved speak the same language
@@ -55,7 +55,7 @@ and do really know what APIs are and what they can provide.
 
 -   [APIs](http://46.17.108.49/03/)
 
-<h4>Lesson 5. Introduction to Docker</h4>
+#### 5. Introduction to Docker
 
 This lesson presents a general overview of Docker that has been adopted by FIWARE to be one of the core tools for
 development and experimentation.
@@ -66,7 +66,7 @@ scalable virtual infrastructure.
 
 -   [Docker](http://46.17.108.49/04/)
 
-<h4>Lesson 6. Identity Management, Authorization and Securing Resources</h4>
+#### 6. Identity Management, Authorization and Securing Resources
 
 This lesson presents the interconnected concept of the 3 integrated security Generic Enablers for Identity Management,
 Authorization via a PDP (Policy Decision Point and execution via a PEP (Policy Execution Point) Proxy.
@@ -78,7 +78,7 @@ Generic Enablers covered: _KeyRock, AuthZForce, Wilma_
 
 -   [Security](http://46.17.108.49/05/)
 
-<h4>Lesson 7. Connecting IoT devices</h4>
+#### 7. Connecting IoT devices
 
 This lesson presents the integration of sensor data into our Smart City demo application "Thunderstorm warning".
 
@@ -91,7 +91,7 @@ Generic Enablers covered: _IoT Agents_
 
 -   [Connecting IoT devices](http://46.17.108.49/06/)
 
-<h4>Lesson 8. Context data platform</h4>
+#### 8. Context data platform
 
 This lesson show thse usage of the Orion Context Broker. One of the core FIWARE Generic Enabler that often acts as a
 core communications bus in most of the interactions among Generic Enabler in Smart City applications.
@@ -103,7 +103,7 @@ Generic Enabler covered: _Orion_
 
 -   [Context data platform](http://46.17.108.49/07/)
 
-<h4>Lesson 9. Open Data portal and business</h4>
+#### 9. Open Data portal and business
 
 This lesson show thse core FIWARE solutions to provide Open Data to the public. The CKAN Open Data framework and the
 marketplace solution for Open Data.
@@ -116,7 +116,7 @@ Generic Enablers covered: _CKAN Extensions_, _Biz Ecosystem_, _Wirecloud_
 
 -   [Open Data portal and businesss](http://46.17.108.49/08/)
 
-<h4>Lesson 10. Complex event processing</h4>
+#### 10. Complex event processing
 
 This lesson demonstsrate the benefits of developing rule-based complex event processing applications.
 
@@ -127,7 +127,7 @@ Generic Enablers covered: _CEP_
 
 -   [Complex event processing](http://46.17.108.49/09/)
 
-<h4>Lesson 11. Big data and BI analytics</h4>
+#### 11. Big data and BI analytics
 
 This lesson demonstsrate the usage of the 2 FIWARE Generic Enabler to offer data analysis functionality.
 
@@ -138,7 +138,7 @@ Generic Enablers covered: _Cosmos, Knowage_
 
 -   [Big data and BI analytics](http://46.17.108.49/10/)
 
-<h4>Lesson 12. Demo Application</h4>
+#### 12. Demo Application
 
 This lesson round usp the practice-orientated nature of the entire course. We will finalize the course with finishing a
 simple but working prototype of the Smart City demo application "Thunderstorm warning".

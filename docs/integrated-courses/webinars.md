@@ -13,7 +13,7 @@ Each webinar is recorded, the recordings are listed below.
 
 <h3>Academy Courses</h3>
 
-<h4>Lesson 1. Introduction to FIWARE</h4>
+#### 1. Introduction to FIWARE
 
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg)](https://www.fiware.org/developers/catalogue/)<br/>
@@ -38,7 +38,7 @@ disponible avec sous-titres en
 <span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
 <a  href="https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
 
-<h4>Lesson 2. Core Context Management</h4>
+#### 2. Core Context Management
 
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
@@ -69,7 +69,7 @@ disponible con subtítulos en [español](https://www.youtube.com/embed/pK4GgYjlm
 This video presentation is an introduction to Core Context Management describing about the NGSI DataModel and the NSGI
 interface, registrations, subscription etc.
 
-<h4>Lesson . What is an IoT Agent?</h4>
+#### 3. What is an IoT Agent?
 
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md)<br/>
@@ -97,7 +97,7 @@ device is _FIWARE Ready_.
 <span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
 <a  href="https://www.youtube.com/embed/my6Kgiqx-OM?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
 
-<h4>Lesson 4. How to Secure FIWARE Architectures</h4>
+#### 4. How to Secure FIWARE Architectures
 
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://github.com/FIWARE/catalogue/blob/master/security/README.md)<br/>
@@ -123,7 +123,7 @@ using the Generic Enablers from the Security Chapter.
 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/SP0zFdTybA4?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
 
-<h4>Lesson 5. How to Debug IoT Agents</h4>
+#### 5. How to Debug IoT Agents
 
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md)<br/>
@@ -144,7 +144,7 @@ using the Generic Enablers from the Security Chapter.
 This video presentation shows how to connect devices to processing enablers via an IoT Agent and the context broker,
 what can go wrong when trying to wire up the system. How to diagnose problems and how to fix them.
 
-<h4>Lesson 6. How to Get Context Data Out of Robots</h4>
+#### 6. How to Get Context Data Out of Robots
 
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
@@ -165,7 +165,7 @@ This video presentation shows how to retrieve context data and actuate robots
 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/T8XV6Wah9l4?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
 
-<h4>Lesson 7. Data Modelling with NGSI</h4>
+#### 7. Data Modelling with NGSI
 
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
@@ -183,7 +183,7 @@ This video presentation shows how to retrieve context data and actuate robots
 
 This video presentation shows how to design and apply Standard NGSI Data Models.
 
-<h4>Lesson 8. Strategies for Context Data Persistence</h4>
+#### 8. Strategies for Context Data Persistence
 
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
@@ -206,7 +206,7 @@ a historical record of context when a context broker has no memory.
 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/_uLZDGFPlRA?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
 
-<h4>Lesson 9. Short Term History within FIWARE Systems</h4>
+#### 9. Short Term History within FIWARE Systems
 
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
@@ -227,7 +227,7 @@ This webinar shows how to utilise times series components and monitor and displa
 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/fX_YAc7G4Dk?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
 
-<h4>Lesson 10. Securing FIWARE IoT Devices</h4>
+#### 10. Securing FIWARE IoT Devices
 
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://github.com/FIWARE/catalogue/blob/master/security/README.md)<br/>
@@ -245,9 +245,10 @@ This webinar shows how to utilise times series components and monitor and displa
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 10 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-secure-iot-devices/FI-WARE/fiware-wednesday-webinars-how-to-secure-iot-devices)
 
-Live coding session and commentary, demonstrating various techniques and methods for securing the interactions between Devices, IoT Agents, and the Context Broker.
+Live coding session and commentary, demonstrating various techniques and methods for securing the interactions between
+Devices, IoT Agents, and the Context Broker.
 
 🇯🇵 このビデオ・プレゼンテーションは
-[日本語字幕](https://www.youtube.com/embed/_87IZhrYo3U?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
-🇸🇦 <span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
+[日本語字幕](https://www.youtube.com/embed/_87IZhrYo3U?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/> 🇸🇦
+<span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
 <a  href="https://www.youtube.com/embed/_87IZhrYo3U?cc_load_policy=1&cc_lang_pref=arr">العربية</a></span>
