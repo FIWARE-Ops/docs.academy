@@ -203,6 +203,9 @@ This video presentation shows how to design and apply Standard NGSI Data Models.
 Introduction to the data persistence components found within the FIWARE Catalogue and various options on how to maintain
 a historical record of context when a context broker has no memory.
 
+🇯🇵 このビデオ・プレゼンテーションは
+[日本語字幕](https://www.youtube.com/embed/_uLZDGFPlRA?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
+
 <h4>Lesson 9. Short Term History within FIWARE Systems</h4>
 
 **Chapter:**
