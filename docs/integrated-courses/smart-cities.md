@@ -93,8 +93,8 @@ Generic Enablers covered: _IoT Agents_
 
 #### 8. Context data platform
 
-This lesson show thse usage of the Orion Context Broker. One of the core FIWARE Generic Enabler that often acts as a
-core communications bus in most of the interactions among Generic Enabler in Smart City applications.
+This lesson show the usage of the Orion Context Broker. One of the core FIWARE Generic Enabler that often acts as a core
+communications bus in most of the interactions among Generic Enabler in Smart City applications.
 
 The learner will gain insights about the advantages and flexibility of smart cloud-based context-data management. He
 will experience how to interact with the Orion Context Broker.
@@ -103,9 +103,9 @@ Generic Enabler covered: _Orion_
 
 -   [Context data platform](http://46.17.108.49/07/)
 
-#### 9. Open Data portal and business
+#### 9. Open Data portal and Business
 
-This lesson show thse core FIWARE solutions to provide Open Data to the public. The CKAN Open Data framework and the
+This lesson show the core FIWARE solutions to provide Open Data to the public. The CKAN Open Data framework and the
 marketplace solution for Open Data.
 
 Focussing on Smart Cities, CKAN offers a complete software package, ready to install. The data can then be marketed via

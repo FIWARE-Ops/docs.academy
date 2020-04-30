@@ -194,7 +194,7 @@
 		  "http://www.fp7-ofelia.eu/",
           "http://docs.ckan.org/en/latest/user-guide.html"         
       ],
-      "retry": 5
+      "retry": 6
     }
   }
 }
