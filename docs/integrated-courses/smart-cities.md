@@ -103,7 +103,7 @@ Generic Enabler covered: _Orion_
 
 -   [Context data platform](http://46.17.108.49/07/)
 
-#### 9. Open Data portal and Business
+#### 9. Open Data portal and Businesss
 
 This lesson show the core FIWARE solutions to provide Open Data to the public. The CKAN Open Data framework and the
 marketplace solution for Open Data.
