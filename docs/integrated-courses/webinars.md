@@ -224,6 +224,9 @@ a historical record of context when a context broker has no memory.
 
 This webinar shows how to utilise times series components and monitor and display trends within FIWARE applications
 
+🇯🇵 このビデオ・プレゼンテーションは
+[日本語字幕](https://www.youtube.com/embed/fX_YAc7G4Dk?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
+
 <h4>Lesson 10. Securing FIWARE IoT Devices</h4>
 
 **Chapter:**
@@ -244,5 +247,7 @@ This webinar shows how to utilise times series components and monitor and displa
 
 Live coding session and commentary, demonstrating various techniques and methods for securing the interactions between Devices, IoT Agents, and the Context Broker.
 
+🇯🇵 このビデオ・プレゼンテーションは
+[日本語字幕](https://www.youtube.com/embed/_87IZhrYo3U?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
 🇸🇦 <span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
 <a  href="https://www.youtube.com/embed/_87IZhrYo3U?cc_load_policy=1&cc_lang_pref=arr">العربية</a></span>
