@@ -251,4 +251,23 @@ Devices, IoT Agents, and the Context Broker.
 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/_87IZhrYo3U?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/> 🇸🇦
 <span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
-<a  href="https://www.youtube.com/embed/_87IZhrYo3U?cc_load_policy=1&cc_lang_pref=arr">العربية</a></span>
+<a  href="https://www.youtube.com/embed/_87IZhrYo3U?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
+
+
+
+#### 11.  How to Develop FIWARE NGSI Interfaces for Robots
+
+**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
+**Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★</span>
+
+-  Robot Types
+-  Digital Twins
+-  FIWARE NGSI Robotics Interfaces
+    -  ROS, ROS2, OPC-UA and DDS
+-  Use Cases in Smart Industry
+
+This webinar presents different alternatives for developing FIWARE-Ready robots and the main FIWARE components that can facilitate/empower these developments.
+
+🇯🇵 このビデオ・プレゼンテーションは
+[日本語字幕](https://www.youtube.com/embed/m5JWxlMMuqk?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。
