@@ -267,6 +267,11 @@ Devices, IoT Agents, and the Context Broker.
     -  ROS, ROS2, OPC-UA and DDS
 -  Use Cases in Smart Industry
 
+[![](https://img.youtube.com/vi/m5JWxlMMuqk/0.jpg)](https://www.youtube.com/watch?v=m5JWxlMMuqk "FIWARE NGSI Interfaces for Robots")
+
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 11 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-develop-fiware-ngsi-interfaces-for-robots/FI-WARE/fiware-wednesday-webinars-how-to-develop-fiware-ngsi-interfaces-for-robots)
+
 This webinar presents different alternatives for developing FIWARE-Ready robots and the main FIWARE components that can facilitate/empower these developments.
 
 🇯🇵 このビデオ・プレゼンテーションは
