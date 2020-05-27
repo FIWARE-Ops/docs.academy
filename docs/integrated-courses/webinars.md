@@ -275,3 +275,24 @@ facilitate/empower these developments.
 
 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/m5JWxlMMuqk?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。
+
+#### 12. Introduction to NGSI-LD
+
+**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+**Difficulty:** <span style="color:#233c68">★ ★ ★</span>
+
+-   What is JSON-LD?
+-   What is  NGSI-LD?
+-   What is the relationship between
+    -   JSON-LD and NGSI-LD?
+    -   NGSI v2 and NGSI-LD
+-   What is core `@context` ?
+    -   Why are data models so important
+-   Defining NGSI-LD properties, relationships and enumerations
+-   Using Compaction/Expansion operations on NGSI-LD data
+-   Navigating the `@graph`
+
+[![](https://img.youtube.com/vi/rZ13IyLpAtA/0.jpg)](https://www.youtube.com/watch?v=rZ13IyLpAtA "Introduction to NGSI-LD")
+
+A data-model driven and linked data first introduction for developers to NGSI-LD and JSON-LD.
