@@ -1,4 +1,4 @@
-<hr class="processing" style="display:none"/>
+<hr class="core" style="display:none"/>
 <h2>Cosmos - Big Data Analysis</h2>
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
