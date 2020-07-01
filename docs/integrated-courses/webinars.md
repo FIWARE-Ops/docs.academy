@@ -298,7 +298,7 @@ facilitate/empower these developments.
 A data-model driven and linked data first introduction for developers to NGSI-LD and JSON-LD.
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
-    [Lesson 12 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-introduction-to-ngsild-234714774)
+    [Lesson 12 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-introduction-to-ngsild-236464309)
 
 
 #### 13. FIWARE Building the Future
