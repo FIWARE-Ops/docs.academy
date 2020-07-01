@@ -296,3 +296,47 @@ facilitate/empower these developments.
 [![](https://img.youtube.com/vi/rZ13IyLpAtA/0.jpg)](https://www.youtube.com/watch?v=rZ13IyLpAtA "Introduction to NGSI-LD")
 
 A data-model driven and linked data first introduction for developers to NGSI-LD and JSON-LD.
+
+
+
+
+#### 13. FIWARE Building the Future
+
+**Chapter:** Fundamentals<br/>
+**Difficulty:** <span style="color:#000000">★</span>
+
+[![](https://img.youtube.com/vi/REoJA7yxJ_0/0.jpg)](https://www.youtube.com/watch?v=REoJA7yxJ_0 "FIWARE Building the Future")
+
+An in-depth look at where FIWARE is going next and integrates with blockchain and distributed ledger technologies, Artificial Intelligence or Robotics.
+
+
+#### 14. Architecting Your Smart Solution Using FIWARE
+
+**Chapter:** Fundamentals<br/>
+**Difficulty:** <span style="color:#000000">★ ★</span>
+
+[![](https://img.youtube.com/vi/pTkZk4VF0gY/0.jpg)](https://www.youtube.com/watch?v=pTkZk4VF0gY "Architecting Your Smart Solution")
+
+Learn how Smart Solutions solving a particular challenge are architected with FIWARE. This webinar is supported by use cases.
+
+
+
+#### 15. FIWARE Vision and Value Proposition for a Smart Future
+
+**Chapter:** Fundamentals<br/>
+**Difficulty:** <span style="color:#000000">★</span>
+
+[![](https://img.youtube.com/vi/7ZMUYEWD1gw/0.jpg)](https://www.youtube.com/watch?v=7ZMUYEWD1gw "FIWARE Vision")
+
+A broad overview of the value proposition of FIWARE and its position in a Smart Digital Future.
+
+
+
+#### 16. How to Successfully Create and Run a FIWARE iHub
+
+**Chapter:** Fundamentals<br/>
+**Difficulty:** <span style="color:#000000">★</span>
+
+[![](https://img.youtube.com/vi/IXjQwcuf9Xw/0.jpg)](https://www.youtube.com/watch?v=IXjQwcuf9Xw "FIWARE iHubs")
+
+This webinar describes the functions of a FIWARE iHub. What the benefits are and how and why organizations should apply to become one.
