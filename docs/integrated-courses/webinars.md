@@ -297,7 +297,8 @@ facilitate/empower these developments.
 
 A data-model driven and linked data first introduction for developers to NGSI-LD and JSON-LD.
 
-
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 12 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-introduction-to-ngsild-234714774)
 
 
 #### 13. FIWARE Building the Future
@@ -309,6 +310,8 @@ A data-model driven and linked data first introduction for developers to NGSI-LD
 
 An in-depth look at where FIWARE is going next and integrates with blockchain and distributed ledger technologies, Artificial Intelligence or Robotics.
 
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 13 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-building-the-future-236139127)
 
 #### 14. Architecting Your Smart Solution Using FIWARE
 
@@ -319,7 +322,8 @@ An in-depth look at where FIWARE is going next and integrates with blockchain an
 
 Learn how Smart Solutions solving a particular challenge are architected with FIWARE. This webinar is supported by use cases.
 
-
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 14 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-architecting-your-smart-solution-powered-by-fiware)
 
 #### 15. FIWARE Vision and Value Proposition for a Smart Future
 
@@ -331,7 +335,9 @@ Learn how Smart Solutions solving a particular challenge are architected with FI
 A broad overview of the value proposition of FIWARE and its position in a Smart Digital Future.
 
 
-
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 15 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-vision-and-value-proposition)
+    
 #### 16. How to Successfully Create and Run a FIWARE iHub
 
 **Chapter:** Fundamentals<br/>
@@ -340,3 +346,17 @@ A broad overview of the value proposition of FIWARE and its position in a Smart 
 [![](https://img.youtube.com/vi/IXjQwcuf9Xw/0.jpg)](https://www.youtube.com/watch?v=IXjQwcuf9Xw "FIWARE iHubs")
 
 This webinar describes the functions of a FIWARE iHub. What the benefits are and how and why organizations should apply to become one.
+
+#### 17. The Use of DDS Middleware in Robotics
+
+**Chapter:**: [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
+**Difficulty**:  **Difficulty:** <span style="color:#5dc0cf">★&nbsp;★&nbsp;★</span>
+
+[![](https://img.youtube.com/vi/OQYBJJ5ydto/0.jpg)](https://www.youtube.com/watch?v=OQYBJJ5ydto "DDS Middleware in Robotics")
+
+An introduction to core real-time technologies: FAST DDS, the most complete Open Source DDS for ROS 2, and Micro XRCE-DDS, 
+the middleware for microcontrollers, and micro-ROS.
+
+-   ![](https://fiware.github.io/academy/img/pdf.png) [Lesson 17.1 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-the-use-of-dds-middleware-in-robotics-part-1)
+-   ![](https://fiware.github.io/academy/img/pdf.png) [Lesson 17.2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-the-use-of-dds-middleware-in-robotics-part-2)
+
