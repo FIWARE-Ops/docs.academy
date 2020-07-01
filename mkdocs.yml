@@ -15,7 +15,7 @@ pages:
     - 'CEF Smart Cities': 'integrated-courses/cef-smart-cities.md'
     - 'FIWARE for Smart Cities': 'integrated-courses/smart-cities.md'
   - 'Core Context Managment':
-    - 'Cosmos': 'processing/cosmos.md'
+    - 'Cosmos': 'core/cosmos.md'
     - 'Cygnus': 'core/cygnus.md'
     - 'Draco': 'core/draco.md'
     - 'Orion': 'core/orion.md'
