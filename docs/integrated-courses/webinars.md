@@ -283,7 +283,7 @@ facilitate/empower these developments.
 **Difficulty:** <span style="color:#233c68">★ ★ ★</span>
 
 -   What is JSON-LD?
--   What is  NGSI-LD?
+-   What is NGSI-LD?
 -   What is the relationship between
     -   JSON-LD and NGSI-LD?
     -   NGSI v2 and NGSI-LD
@@ -300,63 +300,62 @@ A data-model driven and linked data first introduction for developers to NGSI-LD
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 12 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-introduction-to-ngsild-236464309)
 
-
 #### 13. FIWARE Building the Future
 
-**Chapter:** Fundamentals<br/>
-**Difficulty:** <span style="color:#000000">★</span>
+**Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★</span>
 
 [![](https://img.youtube.com/vi/REoJA7yxJ_0/0.jpg)](https://www.youtube.com/watch?v=REoJA7yxJ_0 "FIWARE Building the Future")
 
-An in-depth look at where FIWARE is going next and integrates with blockchain and distributed ledger technologies, Artificial Intelligence or Robotics.
+An in-depth look at where FIWARE is going next and integrates with blockchain and distributed ledger technologies,
+Artificial Intelligence or Robotics.
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 13 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-building-the-future-236139127)
 
 #### 14. Architecting Your Smart Solution Using FIWARE
 
-**Chapter:** Fundamentals<br/>
-**Difficulty:** <span style="color:#000000">★ ★</span>
+**Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★ ★</span>
 
 [![](https://img.youtube.com/vi/pTkZk4VF0gY/0.jpg)](https://www.youtube.com/watch?v=pTkZk4VF0gY "Architecting Your Smart Solution")
 
-Learn how Smart Solutions solving a particular challenge are architected with FIWARE. This webinar is supported by use cases.
+Learn how Smart Solutions solving a particular challenge are architected with FIWARE. This webinar is supported by use
+cases.
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 14 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-architecting-your-smart-solution-powered-by-fiware)
 
 #### 15. FIWARE Vision and Value Proposition for a Smart Future
 
-**Chapter:** Fundamentals<br/>
-**Difficulty:** <span style="color:#000000">★</span>
+**Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★</span>
 
 [![](https://img.youtube.com/vi/7ZMUYEWD1gw/0.jpg)](https://www.youtube.com/watch?v=7ZMUYEWD1gw "FIWARE Vision")
 
 A broad overview of the value proposition of FIWARE and its position in a Smart Digital Future.
 
-
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 15 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-vision-and-value-proposition)
-    
+
 #### 16. How to Successfully Create and Run a FIWARE iHub
 
-**Chapter:** Fundamentals<br/>
-**Difficulty:** <span style="color:#000000">★</span>
+**Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★</span>
 
 [![](https://img.youtube.com/vi/IXjQwcuf9Xw/0.jpg)](https://www.youtube.com/watch?v=IXjQwcuf9Xw "FIWARE iHubs")
 
-This webinar describes the functions of a FIWARE iHub. What the benefits are and how and why organizations should apply to become one.
+This webinar describes the functions of a FIWARE iHub. What the benefits are and how and why organizations should apply
+to become one.
 
 #### 17. The Use of DDS Middleware in Robotics
 
-**Chapter:**: [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
-**Difficulty**:  **Difficulty:** <span style="color:#5dc0cf">★&nbsp;★&nbsp;★</span>
+**Chapter:**:
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
+**Difficulty**: **Difficulty:** <span style="color:#5dc0cf">★&nbsp;★&nbsp;★</span>
 
 [![](https://img.youtube.com/vi/OQYBJJ5ydto/0.jpg)](https://www.youtube.com/watch?v=OQYBJJ5ydto "DDS Middleware in Robotics")
 
-An introduction to core real-time technologies: FAST DDS, the most complete Open Source DDS for ROS 2, and Micro XRCE-DDS, 
-the middleware for microcontrollers, and micro-ROS.
+An introduction to core real-time technologies: FAST DDS, the most complete Open Source DDS for ROS 2, and Micro
+XRCE-DDS, the middleware for microcontrollers, and micro-ROS.
 
--   ![](https://fiware.github.io/academy/img/pdf.png) [Lesson 17.1 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-the-use-of-dds-middleware-in-robotics-part-1)
--   ![](https://fiware.github.io/academy/img/pdf.png) [Lesson 17.2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-the-use-of-dds-middleware-in-robotics-part-2)
-
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 17.1 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-the-use-of-dds-middleware-in-robotics-part-1)
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 17.2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-the-use-of-dds-middleware-in-robotics-part-2)
