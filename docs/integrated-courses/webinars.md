@@ -335,16 +335,8 @@ A broad overview of the value proposition of FIWARE and its position in a Smart 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 15 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-vision-and-value-proposition)
 
-#### 16. How to Successfully Create and Run a FIWARE iHub
 
-**Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★</span>
-
-[![](https://img.youtube.com/vi/IXjQwcuf9Xw/0.jpg)](https://www.youtube.com/watch?v=IXjQwcuf9Xw "FIWARE iHubs")
-
-This webinar describes the functions of a FIWARE iHub. What the benefits are and how and why organizations should apply
-to become one.
-
-#### 17. The Use of DDS Middleware in Robotics
+#### 16. The Use of DDS Middleware in Robotics
 
 **Chapter:**:
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
@@ -356,6 +348,105 @@ An introduction to core real-time technologies: FAST DDS, the most complete Open
 XRCE-DDS, the middleware for microcontrollers, and micro-ROS.
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
-    [Lesson 17.1 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-the-use-of-dds-middleware-in-robotics-part-1)
+    [Lesson 16.1 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-the-use-of-dds-middleware-in-robotics-part-1)
 -   ![](https://fiware.github.io/academy/img/pdf.png)
-    [Lesson 17.2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-the-use-of-dds-middleware-in-robotics-part-2)
+    [Lesson 16.2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-the-use-of-dds-middleware-in-robotics-part-2)
+    
+
+#### 17. Blockchain/DLT Integration with FIWARE
+
+**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+**Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
+
+[![](https://img.youtube.com/vi/ITSxtlCmNhQ/0.jpg)](https://www.youtube.com/watch?v=ITSxtlCmNhQ "Blockchain")
+
+This webinar will be an introduction to Blockchain and how FIWARE can be integrated with Blockchain/DLTs with a demo. In addition, 
+it will also explain upcoming DLT components in the FIWARE ecosystem and an idea/state of art to leverage DLTs in 'Powered by FIWARE' systems.
+
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 17 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-integrating-fiware-with-blockchaindlts)
+    
+#### 18. Big Data Analysis using Cosmos with Spark or Flink
+
+**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+**Difficulty:** <span style="color:#233c68">★</span>
+
+[![](https://img.youtube.com/vi/n6XN89VSZNg/0.jpg)](https://www.youtube.com/watch?v=n6XN89VSZNg "Big Data")
+
+Performing Big Data Analysis Using Cosmos With Spark or Flink - 8 
+
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 18 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-performing-big-data-analysis-using-cosmos-with-spark-or-flink)
+    
+#### 19. NGSI-LD and Smart Data Models - Standardizing Access to Digital Twins
+
+**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+**Difficulty:** <span style="color:#233c68">★★&nbsp;★</span>
+
+[![](https://img.youtube.com/vi/MBx23ypORLk/0.jpg)](https://www.youtube.com/watch?v=MBx23ypORLk "Digital Twin")
+
+Understanding the basis of context information management, NGSI-LD and smart Data Models
+
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 19 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-ngsild-and-smart-data-models-standard-access-to-digital-twin-data)
+    
+#### 20. Robots and Machine Interfaces: Building Interfaces to ROS Systems
+
+
+**Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★&nbsp;★&nbsp;★</span>
+
+[![](https://img.youtube.com/vi/a0NxSS96YzY/0.jpg)](https://www.youtube.com/watch?v=a0NxSS96YzY "FIWARE ROS Systems")
+
+This webinar will present how to develop FIWARE NGSI Interfaces for ROS-based robots.
+
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 20 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-interface-with-machines-and-robots-building-interfaces-to-ros-systems)
+    
+#### 21. Turning Organizations Into Smart Organizations
+
+**Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★</span>
+
+[![](https://img.youtube.com/vi/XsoXchKiKB4/0.jpg)](https://www.youtube.com/watch?v=XsoXchKiKB4 "FIWARE Smart Organization")
+
+This webinar will cover the “system of systems” approach and FIWARE transformation journey, also with the help of success stories.
+
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 21 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-vision-and-value-proposition)
+    
+    
+#### 22. Smart Water Management - Using FIWARE Smart Data Models for Water
+
+**Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★★&nbsp;★</span>
+
+[![](https://img.youtube.com/vi/QbAiLMFEQrY/0.jpg)](https://www.youtube.com/watch?v=QbAiLMFEQrY "FIWARE Smart Water")
+
+Using FIWARE Smart Data Models for Water.   
+    
+#### 23. FIWARE and micro-ROS: Enabling Robotics Systems on Micro-controllers
+
+**Chapter:**:
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
+**Difficulty**: **Difficulty:** <span style="color:#5dc0cf">★★&nbsp;★&nbsp;★</span>
+
+[![](https://img.youtube.com/vi/XJL2_FHcils/0.jpg)](https://www.youtube.com/watch?v=XJL2_FHcils "micro-ROS and FIWARE")
+
+The aim of this webinar is to give an introduction about the existing synergies between FIWARE, ROS, and micro-ROS - the Robot Operating System for microcontrollers - frameworks. 
+
+Special emphasis will be put on how to build interfaces between Powered by FIWARE architectures and ROS2/micro-ROS based robotic systems. The SOSS-FIWARE, based on the eProsima Integration Service, is a key enabler that accelerates the development of these interfaces between micro-ROS and FIWARE ecosystems. Through a basic application, the main features of this component as well as the key concepts associated with the synergies between FIWARE and micro-ROS will be overviewed.
+
+#### 24. Integrating Robotic Systems for Agile Manufacturing Using FIWARE
+
+**Chapter:**:
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
+**Difficulty**: **Difficulty:** <span style="color:#5dc0cf">★&nbsp;★</span>
+
+[![](https://img.youtube.com/vi/ftxNOdwqjiQ/0.jpg)](https://www.youtube.com/watch?v=ftxNOdwqjiQ "Agile Manufacturing")
+
+Robotics systems play a major role in the automation roadmap of factories that aim to beat competitors by offering small lot sizes of highly customized products. As standalone manufacturing assets, the contribution of robotics systems to the factory is clear, robots are intended to contribute powerful automation features based on reconfigurable hardware with integrated perception, planning, and control abilities. However, the agility of the factory can grow dramatically by making these standalone robots first-class citizens of the digital factory infrastructure.
+
+This webinar introduces the current vision and ongoing developments that FIWARE is undertaking to accelerate the integration of robots in smart factory environments. 
+    
+   
