@@ -11,12 +11,10 @@ the FIWARE Community are carrying out beyond the development of the technology.
 
 Each webinar is recorded, a summary of the contents and links to the recordings are listed below.
 
-<h3>Academy Courses</h3>
+### 1. Introduction to FIWARE
 
-#### 1. Introduction to FIWARE
-
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg)](https://www.fiware.org/developers/catalogue/)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg)](https://www.fiware.org/developers/catalogue/) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#000000">&nbsp;★</span>
 
 -    What is context data?
@@ -47,10 +45,10 @@ disponible avec sous-titres en
 <span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
 <a  href="https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
 </small>
-#### 2. Core Context Management
+### 2. Core Context Management
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#233c68">&nbsp;★&nbsp;★&nbsp;</span>
 
 -   What is Context Data?
@@ -80,10 +78,10 @@ disponible con subtítulos en [español](https://www.youtube.com/embed/pK4GgYjlm
 This video presentation is an introduction to Core Context Management describing about the NGSI DataModel and the NSGI
 interface, registrations, subscription etc.
 
-#### 3. What is an IoT Agent?
+### 3. What is an IoT Agent?
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★&nbsp;</span>
 
 -   What is a transport?
@@ -109,10 +107,10 @@ device is _FIWARE Ready_.
 <span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
 <a  href="https://www.youtube.com/embed/my6Kgiqx-OM?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
 </small>
-#### 4. How to Secure FIWARE Architectures
+### 4. How to Secure FIWARE Architectures
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://github.com/FIWARE/catalogue/blob/master/security/README.md)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://github.com/FIWARE/catalogue/blob/master/security/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#ff7059">&nbsp;★&nbsp;★&nbsp;</span>
 
 -   What are Identity Management and Access Control?
@@ -136,10 +134,10 @@ using the Generic Enablers from the Security Chapter.
 > 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/SP0zFdTybA4?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/></small>
 
-#### 5. How to Debug IoT Agents
+### 5. How to Debug IoT Agents
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
 
 -   How to diagnose common problems
@@ -157,10 +155,10 @@ using the Generic Enablers from the Security Chapter.
 This video presentation shows how to connect devices to processing enablers via an IoT Agent and the context broker,
 what can go wrong when trying to wire up the system. How to diagnose problems and how to fix them.
 
-#### 6. How to Get Context Data Out of Robots
+### 6. How to Get Context Data Out of Robots
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★</span>
 
 -   How can FIWARE and Standardized Context Data Management create synergies between Robotic Systems and other Smart
@@ -180,10 +178,10 @@ This video presentation shows how to retrieve context data and actuate robots
 [日本語字幕](https://www.youtube.com/embed/T8XV6Wah9l4?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
 </small>
 
-#### 7. Data Modelling with NGSI
+### 7. Data Modelling with NGSI
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#233c68">&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
 
 -   Understanding and applying Standard Data Models.
@@ -198,10 +196,10 @@ This video presentation shows how to retrieve context data and actuate robots
 
 This video presentation shows how to design and apply Standard NGSI Data Models.
 
-#### 8. Strategies for Context Data Persistence
+### 8. Strategies for Context Data Persistence
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#233c68">★ ★ ★</span>
 
 -   What is data persistence and why do you need it?
@@ -223,10 +221,10 @@ a historical record of context when a context broker has no memory.
 [日本語字幕](https://www.youtube.com/embed/_uLZDGFPlRA?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
 </small>
 
-#### 9. Short Term History within FIWARE Systems
+### 9. Short Term History within FIWARE Systems
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#233c68">★ ★ ★</span>
 
 -   How is Short Term History relevant within my Smart application?
@@ -246,10 +244,10 @@ This webinar shows how to utilise times series components and monitor and displa
 [日本語字幕](https://www.youtube.com/embed/fX_YAc7G4Dk?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
 </small>
 
-#### 10. Securing FIWARE IoT Devices
+### 10. Securing FIWARE IoT Devices
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://github.com/FIWARE/catalogue/blob/master/security/README.md)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://github.com/FIWARE/catalogue/blob/master/security/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#ff7059">★ ★ ★</span>
 
 -   How can insecure systems be attacked?
@@ -274,10 +272,10 @@ Devices, IoT Agents, and the Context Broker.
 <a  href="https://www.youtube.com/embed/_87IZhrYo3U?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
 </small>
 
-#### 11. How to Develop FIWARE NGSI Interfaces for Robots
+### 11. How to Develop FIWARE NGSI Interfaces for Robots
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★</span>
 
 -   Robot Types
@@ -299,10 +297,10 @@ facilitate/empower these developments.
 [日本語字幕](https://www.youtube.com/embed/m5JWxlMMuqk?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
 </small>
 
-#### 12. Introduction to NGSI-LD
+### 12. Introduction to NGSI-LD
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#233c68">★ ★ ★</span>
 
 -   What is JSON-LD?
@@ -323,9 +321,9 @@ A data-model driven and linked data first introduction for developers to NGSI-LD
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 12 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-introduction-to-ngsild-236464309)
 
-#### 13. FIWARE Building the Future
+### 13. FIWARE Building the Future
 
-**Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★</span>
+&nbsp;&nbsp;**Chapter:** [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg)](https://www.fiware.org/developers/catalogue/) &nbsp;&nbsp; **Difficulty:** <span style="color:#000000">★</span>
 
 -   A Reminder of some core concepts
 -   Roadmap Topics
@@ -344,9 +342,9 @@ Artificial Intelligence or Robotics.
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 13 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-building-the-future-236139127)
 
-#### 14. Architecting Your Smart Solution Using FIWARE
+### 14. Architecting Your Smart Solution Using FIWARE
 
-**Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★ ★</span>
+&nbsp;&nbsp;**Chapter:** [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg)](https://www.fiware.org/developers/catalogue/) &nbsp;&nbsp; **Difficulty:** <span style="color:#000000">★ ★</span>
 
 [![](https://fiware.github.io/academy/img/architecting.png)](https://www.youtube.com/watch?v=pTkZk4VF0gY "Architecting Your Smart Solution")
 
@@ -356,9 +354,9 @@ cases.
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 14 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-architecting-your-smart-solution-powered-by-fiware)
 
-#### 15. FIWARE Vision and Value Proposition for a Smart Future
+### 15. FIWARE Vision and Value Proposition for a Smart Future
 
-**Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★</span>
+&nbsp;&nbsp;**Chapter:** [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg)](https://www.fiware.org/developers/catalogue/) &nbsp;&nbsp; **Difficulty:** <span style="color:#000000">★</span>
 
 -   Understanding FIWARE
 -   Building _"Powered by FIWARE"_ Solutions
@@ -371,11 +369,10 @@ A broad overview of the value proposition of FIWARE and its position in a Smart 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 15 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-vision-and-value-proposition)
 
-#### 16. The Use of DDS Middleware in Robotics
+### 16. The Use of DDS Middleware in Robotics
 
-**Chapter:**:
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
-**Difficulty**: **Difficulty:** <span style="color:#5dc0cf">★&nbsp;★&nbsp;★</span>
+&nbsp;&nbsp;**Chapter:**:
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md) &nbsp;&nbsp; **Difficulty**: <span style="color:#5dc0cf">★&nbsp;★&nbsp;★</span>
 
 -   About eProsima & FIWARE
 -   Fast DDS & ROS2
@@ -394,10 +391,10 @@ XRCE-DDS, the middleware for microcontrollers, and micro-ROS.
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 16.2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-the-use-of-dds-middleware-in-robotics-part-2)
 
-#### 17. Blockchain/DLT Integration with FIWARE
+### 17. Blockchain/DLT Integration with FIWARE
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
 
 -   Introduction to Blockchain / Distributed Ledger Technologies
@@ -414,10 +411,10 @@ in 'Powered by FIWARE' systems.
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 17 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-integrating-fiware-with-blockchaindlts)
 
-#### 18. Big Data Analysis using Cosmos with Spark or Flink
+### 18. Big Data Analysis using Cosmos with Spark or Flink
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#233c68">★&nbsp;★</span>
 
 [![](https://fiware.github.io/academy/img/big-data-1.png)](https://www.youtube.com/watch?v=n6XN89VSZNg "Big Data")
@@ -427,11 +424,10 @@ Performing Big Data Analysis Using Cosmos With Spark or Flink - 8
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 18 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-performing-big-data-analysis-using-cosmos-with-spark-or-flink)
 
-#### 19. NGSI-LD and Smart Data Models - Standardizing Access to Digital Twins
+### 19. NGSI-LD and Smart Data Models - Standardizing Access to Digital Twins
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
-**Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)  &nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
 
 [![](https://fiware.github.io/academy/img/data-models-2.png)](https://www.youtube.com/watch?v=MBx23ypORLk "Digital Twin")
 
@@ -440,11 +436,10 @@ Understanding the basis of context information management, NGSI-LD and smart Dat
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 19 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-ngsild-and-smart-data-models-standard-access-to-digital-twin-data)
 
-#### 20. Robots and Machine Interfaces: Building Interfaces to ROS Systems
+### 20. Robots and Machine Interfaces: Building Interfaces to ROS Systems
 
-**Chapter:**:
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
-**Difficulty**: **Difficulty:** <span style="color:#5dc0cf">★&nbsp;★</span>
+&nbsp;&nbsp;**Chapter:**:
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md) &nbsp;&nbsp; **Difficulty**: <span style="color:#5dc0cf">★&nbsp;★</span>
 
 -   ROS-Side Perspective (Introduction to FIROS 0.2.0)
     -   Basic ROS Concepts
@@ -461,30 +456,29 @@ This webinar will present how to develop FIWARE NGSI Interfaces for ROS-based ro
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 20 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-interface-with-machines-and-robots-building-interfaces-to-ros-systems)
 
-#### 21. Turning Organizations Into Smart Organizations
+### 21. Turning Organizations Into Smart Organizations
 
-**Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★</span>
+&nbsp;&nbsp;**Chapter:** [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg)](https://www.fiware.org/developers/catalogue/) &nbsp;&nbsp; **Difficulty:** <span style="color:#000000">★</span>
 
 [![](https://fiware.github.io/academy/img/smart-organizations.png)](https://www.youtube.com/watch?v=XsoXchKiKB4 "FIWARE Smart Organization")
 
 This webinar will cover the “system of systems” approach and FIWARE transformation journey, also with the help of
 success stories.
 
-#### 22. Smart Water Management - Using FIWARE Smart Data Models for Water
+### 22. Smart Water Management - Using FIWARE Smart Data Models for Water
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#233c68">★ ★</span>
 
 [![](https://fiware.github.io/academy/img/smart-water.png)](https://www.youtube.com/watch?v=QbAiLMFEQrY "FIWARE Smart Water")
 
 Using FIWARE Smart Data Models for Water.
 
-#### 23. FIWARE and micro-ROS: Enabling Robotics Systems on Micro-controllers
+### 23. FIWARE and micro-ROS: Enabling Robotics Systems on Micro-controllers
 
-**Chapter:**:
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
-**Difficulty**: **Difficulty:** <span style="color:#5dc0cf">★★&nbsp;★&nbsp;★</span>
+&nbsp;&nbsp;**Chapter:**:
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md) **Difficulty**: **Difficulty:** <span style="color:#5dc0cf">★★&nbsp;★&nbsp;★</span>
 
 -   The micro-ROS Framework
 -   Synergies between Context Information Management and Robotics
@@ -503,11 +497,10 @@ development of these interfaces between micro-ROS and FIWARE ecosystems. Through
 of this component as well as the key concepts associated with the synergies between FIWARE and micro-ROS will be
 overviewed.
 
-#### 24. Integrating Robotic Systems for Agile Manufacturing Using FIWARE
+### 24. Integrating Robotic Systems for Agile Manufacturing Using FIWARE
 
-**Chapter:**:
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
-**Difficulty**: **Difficulty:** <span style="color:#5dc0cf">★&nbsp;★</span>
+&nbsp;&nbsp;**Chapter:**:
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)  &nbsp;&nbsp; **Difficulty:** <span style="color:#5dc0cf">★&nbsp;★</span>
 
 -   Robotics-based Applications for Agile Manufacturing using FIWARE
 -   Robotics centered use cases
@@ -525,10 +518,10 @@ making these standalone robots first-class citizens of the digital factory infra
 This webinar introduces the current vision and ongoing developments that FIWARE is undertaking to accelerate the
 integration of robots in smart factory environments.
 
-#### 25. Cities as Enablers of the Data Economy - Smart Data Models for Cities
+### 25. Cities as Enablers of the Data Economy - Smart Data Models for Cities
 
-**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#233c68">★ ★</span>
 
 -   City as a data ecosystem
@@ -541,9 +534,9 @@ integration of robots in smart factory environments.
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 25 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-cities-as-enablers-of-the-data-economy-smart-data-models-for-cities)
 
-#### 26. Machine Learning with Cosmos and Spark
+### 26. Machine Learning with Cosmos and Spark
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+&nbsp;&nbsp;**Chapter:** [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
 
 [![](https://fiware.github.io/academy/img/big-data-2.png)](https://www.youtube.com/watch?v=isugbtZWU4I "Machine Learning")
@@ -554,11 +547,9 @@ You will learn how to perform real-time predictions step-by-step through a real 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 26 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-machine-learning-with-cosmos-and-spark)
 
-#### 27. Monetizing your Organization's Data
+### 27. Monetizing your Organization's Data
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/data-monetization.svg)](https://github.com/FIWARE/catalogue/blob/master/data-publication/README.md)<br/>
-
-**Difficulty:** <span style="color:#51b6a3">★&nbsp;★&nbsp;★</span>
+&nbsp;&nbsp;**Chapter:** [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/data-monetization.svg)](https://github.com/FIWARE/catalogue/blob/master/data-publication/README.md) &nbsp;&nbsp; **Difficulty:** <span style="color:#51b6a3">★&nbsp;★&nbsp;★</span>
 
 -   What is the Business API Ecosystem?
 -   How does the Business API Ecosystem relate to the FIWARE Security Framework?
