@@ -304,6 +304,15 @@ A data-model driven and linked data first introduction for developers to NGSI-LD
 
 **Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★</span>
 
+-   A Reminder of some core concepts
+-   Roadmap Topics
+    -   NGSI-LD
+    -   Smart Data Models
+    -   Blockchain
+    -   Robotics
+    -   Data Marketplace
+    -   Marketplace of Plug & Play AI / Big Data Services
+
 [![](https://img.youtube.com/vi/REoJA7yxJ_0/0.jpg)](https://www.youtube.com/watch?v=REoJA7yxJ_0 "FIWARE Building the Future")
 
 An in-depth look at where FIWARE is going next and integrates with blockchain and distributed ledger technologies,
@@ -328,6 +337,10 @@ cases.
 
 **Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★</span>
 
+-   Understanding FIWARE
+-   Building _"Powered by FIWARE"_ Solutions
+-   FIWARE: Going beyond the technology
+
 [![](https://img.youtube.com/vi/7ZMUYEWD1gw/0.jpg)](https://www.youtube.com/watch?v=7ZMUYEWD1gw "FIWARE Vision")
 
 A broad overview of the value proposition of FIWARE and its position in a Smart Digital Future.
@@ -335,12 +348,18 @@ A broad overview of the value proposition of FIWARE and its position in a Smart 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 15 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-vision-and-value-proposition)
 
-
 #### 16. The Use of DDS Middleware in Robotics
 
 **Chapter:**:
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
 **Difficulty**: **Difficulty:** <span style="color:#5dc0cf">★&nbsp;★&nbsp;★</span>
+
+-   About eProsima & FIWARE
+-   Fast DDS & ROS2
+    -   Introduction
+    -   Architecture & Demo
+    -   What is new?
+-   XRCE-DDS & Micro-ROS
 
 [![](https://img.youtube.com/vi/OQYBJJ5ydto/0.jpg)](https://www.youtube.com/watch?v=OQYBJJ5ydto "DDS Middleware in Robotics")
 
@@ -352,17 +371,22 @@ XRCE-DDS, the middleware for microcontrollers, and micro-ROS.
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 16.2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-the-use-of-dds-middleware-in-robotics-part-2)
 
-
 #### 17. Blockchain/DLT Integration with FIWARE
 
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
 **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
 
+-   Introduction to Blockchain / Distributed Ledger Technologies
+-   FIWARE and DLTs
+    -   Agri-Food Supply Chain Demo
+-   Upcoming DLT Components and Research
+
 [![](https://img.youtube.com/vi/ITSxtlCmNhQ/0.jpg)](https://www.youtube.com/watch?v=ITSxtlCmNhQ "Blockchain")
 
-This webinar will be an introduction to Blockchain and how FIWARE can be integrated with Blockchain/DLTs with a demo. In addition,
-it will also explain upcoming DLT components in the FIWARE ecosystem and an idea/state of art to leverage DLTs in 'Powered by FIWARE' systems.
+This webinar will be an introduction to Blockchain and how FIWARE can be integrated with Blockchain/DLTs with a demo. In
+addition, it will also explain upcoming DLT components in the FIWARE ecosystem and an idea/state of art to leverage DLTs
+in 'Powered by FIWARE' systems.
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 17 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-integrating-fiware-with-blockchaindlts)
@@ -399,6 +423,14 @@ Understanding the basis of context information management, NGSI-LD and smart Dat
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
 **Difficulty**: **Difficulty:** <span style="color:#5dc0cf">★&nbsp;★</span>
 
+-   ROS-Side Perspective (Introduction to FIROS 0.2.0)
+    -   Basic ROS Concepts
+    -   FIROS Configuration
+    -   ROS-NGSI mapping
+    -   How to build the Interface
+-   FIWARE-Side Perspective (Context Data Managementin Robotics)
+    -   Simple Example: AMR in a Warehouse
+
 [![](https://img.youtube.com/vi/a0NxSS96YzY/0.jpg)](https://www.youtube.com/watch?v=a0NxSS96YzY "FIWARE ROS Systems")
 
 This webinar will present how to develop FIWARE NGSI Interfaces for ROS-based robots.
@@ -412,11 +444,8 @@ This webinar will present how to develop FIWARE NGSI Interfaces for ROS-based ro
 
 [![](https://img.youtube.com/vi/XsoXchKiKB4/0.jpg)](https://www.youtube.com/watch?v=XsoXchKiKB4 "FIWARE Smart Organization")
 
-This webinar will cover the “system of systems” approach and FIWARE transformation journey, also with the help of success stories.
-
--   ![](https://fiware.github.io/academy/img/pdf.png)
-    [Lesson 21 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-vision-and-value-proposition)
-
+This webinar will cover the “system of systems” approach and FIWARE transformation journey, also with the help of
+success stories.
 
 #### 22. Smart Water Management - Using FIWARE Smart Data Models for Water
 
@@ -434,11 +463,22 @@ Using FIWARE Smart Data Models for Water.
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
 **Difficulty**: **Difficulty:** <span style="color:#5dc0cf">★★&nbsp;★&nbsp;★</span>
 
+-   The micro-ROS Framework
+-   Synergies between Context Information Management and Robotics
+-   Structure of _FIWARE-Ready_ and _"Powered by FIWARE"_ micro-ROS Architectures
+-   SOSS-FIWARE
+-   Demo
+
 [![](https://img.youtube.com/vi/XJL2_FHcils/0.jpg)](https://www.youtube.com/watch?v=XJL2_FHcils "micro-ROS and FIWARE")
 
-The aim of this webinar is to give an introduction about the existing synergies between FIWARE, ROS, and micro-ROS - the Robot Operating System for microcontrollers - frameworks.
+The aim of this webinar is to give an introduction about the existing synergies between FIWARE, ROS, and micro-ROS - the
+Robot Operating System for microcontrollers - frameworks.
 
-Special emphasis will be put on how to build interfaces between Powered by FIWARE architectures and ROS2/micro-ROS based robotic systems. The SOSS-FIWARE, based on the eProsima Integration Service, is a key enabler that accelerates the development of these interfaces between micro-ROS and FIWARE ecosystems. Through a basic application, the main features of this component as well as the key concepts associated with the synergies between FIWARE and micro-ROS will be overviewed.
+Special emphasis will be put on how to build interfaces between Powered by FIWARE architectures and ROS2/micro-ROS based
+robotic systems. The SOSS-FIWARE, based on the eProsima Integration Service, is a key enabler that accelerates the
+development of these interfaces between micro-ROS and FIWARE ecosystems. Through a basic application, the main features
+of this component as well as the key concepts associated with the synergies between FIWARE and micro-ROS will be
+overviewed.
 
 #### 24. Integrating Robotic Systems for Agile Manufacturing Using FIWARE
 
@@ -446,12 +486,21 @@ Special emphasis will be put on how to build interfaces between Powered by FIWAR
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)<br/>
 **Difficulty**: **Difficulty:** <span style="color:#5dc0cf">★&nbsp;★</span>
 
+-   Robotics-based Applications for Agile Manufacturing using FIWARE
+-   Robotics centered use cases
+-   Digital Factory centered use cases.
+-   Deployment of a _"Powered by FIWARE"_ Robotics Architecture
+
 [![](https://img.youtube.com/vi/ftxNOdwqjiQ/0.jpg)](https://www.youtube.com/watch?v=ftxNOdwqjiQ "Agile Manufacturing")
 
-Robotics systems play a major role in the automation roadmap of factories that aim to beat competitors by offering small lot sizes of highly customized products. As standalone manufacturing assets, the contribution of robotics systems to the factory is clear, robots are intended to contribute powerful automation features based on reconfigurable hardware with integrated perception, planning, and control abilities. However, the agility of the factory can grow dramatically by making these standalone robots first-class citizens of the digital factory infrastructure.
+Robotics systems play a major role in the automation roadmap of factories that aim to beat competitors by offering small
+lot sizes of highly customized products. As standalone manufacturing assets, the contribution of robotics systems to the
+factory is clear, robots are intended to contribute powerful automation features based on reconfigurable hardware with
+integrated perception, planning, and control abilities. However, the agility of the factory can grow dramatically by
+making these standalone robots first-class citizens of the digital factory infrastructure.
 
-This webinar introduces the current vision and ongoing developments that FIWARE is undertaking to accelerate the integration of robots in smart factory environments.
-
+This webinar introduces the current vision and ongoing developments that FIWARE is undertaking to accelerate the
+integration of robots in smart factory environments.
 
 #### 25. Cities as Enablers of the Data Economy - Smart Data Models for Cities
 
@@ -459,17 +508,15 @@ This webinar introduces the current vision and ongoing developments that FIWARE 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
 **Difficulty:** <span style="color:#233c68">★ ★</span>
 
--    City as a data ecosystem
--    Context/Digital Twin Data Management
--    Relevance of Standardization
--    Smart Data Models - Structure, Examples, Users and Contributors
-
+-   City as a data ecosystem
+-   Context/Digital Twin Data Management
+-   Relevance of Standardization
+-   Smart Data Models - Structure, Examples, Users and Contributors
 
 [![](https://img.youtube.com/vi/b0EWq5E5jAc/0.jpg)](https://www.youtube.com/watch?v=b0EWq5E5jAc "FIWARE Smart Cities")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 25 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-cities-as-enablers-of-the-data-economy-smart-data-models-for-cities)
-
 
 #### 26. Machine Learning with Cosmos and Spark
 
@@ -478,7 +525,8 @@ This webinar introduces the current vision and ongoing developments that FIWARE 
 
 [![](https://img.youtube.com/vi/isugbtZWU4I/0.jpg)](https://www.youtube.com/watch?v=isugbtZWU4I "Machine Learning")
 
-This webinar presents an introduction to data engineering with FIWARE using Apache Spark ready for big data deployments. You will learn how to perform real-time predictions step-by-step through a real use case.
+This webinar presents an introduction to data engineering with FIWARE using Apache Spark ready for big data deployments.
+You will learn how to perform real-time predictions step-by-step through a real use case.
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 26 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-machine-learning-with-cosmos-and-spark)
@@ -489,10 +537,17 @@ This webinar presents an introduction to data engineering with FIWARE using Apac
 
 **Difficulty:** <span style="color:#51b6a3">★&nbsp;★&nbsp;★</span>
 
+-   What is the Business API Ecosystem?
+-   How does the Business API Ecosystem relate to the FIWARE Security Framework?
+-   How can Context Data be monetized?
+    -   Demo
+-   How can the Business API Ecosystem be extended to fit custom environments?
+
 [![](https://img.youtube.com/vi/jsG7SYtP4FU/0.jpg)](https://www.youtube.com/watch?v=jsG7SYtP4FU "FIWARE Smart Water")
 
-In the digital economy, your context data has value and could be used as a potential revenue stream. Learn more about the FIWARE catalogue components that can be used to monetize your data easily and still maintain ownership
+In the digital economy, your context data has value and could be used as a potential revenue stream. Learn more about
+the FIWARE catalogue components that can be used to monetize your data easily and still maintain ownership
 
-This webinar introduces the Business API Ecosystem and its role in FIWARE as well as demonstrating a simple context broker monetization use case. The various microservices the use case relies upon (Business API , Keyrock, API Umbrella) are highlighted and other options are also considered.
-
-
+This webinar introduces the Business API Ecosystem and its role in FIWARE as well as demonstrating a simple context
+broker monetization use case. The various microservices the use case relies upon (Business API , Keyrock, API Umbrella)
+are highlighted and other options are also considered.
