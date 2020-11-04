@@ -459,26 +459,40 @@ This webinar introduces the current vision and ongoing developments that FIWARE 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
 **Difficulty:** <span style="color:#233c68">★ ★</span>
 
+-    City as a data ecosystem
+-    Context/Digital Twin Data Management
+-    Relevance of Standardization
+-    Smart Data Models - Structure, Examples, Users and Contributors
+
+
 [![](https://img.youtube.com/vi/b0EWq5E5jAc/0.jpg)](https://www.youtube.com/watch?v=b0EWq5E5jAc "FIWARE Smart Cities")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 25 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-cities-as-enablers-of-the-data-economy-smart-data-models-for-cities)
 
 
-#### 26. Smart Water Management - Using FIWARE Smart Data Models for Water
+#### 26. Machine Learning with Cosmos and Spark
 
-**Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★★&nbsp;★</span>
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
+**Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
 
-[![](https://img.youtube.com/vi/QbAiLMFEQrY/0.jpg)](https://www.youtube.com/watch?v=QbAiLMFEQrY "FIWARE Smart Water")
+[![](https://img.youtube.com/vi/isugbtZWU4I/0.jpg)](https://www.youtube.com/watch?v=isugbtZWU4I "Machine Learning")
 
-Using FIWARE Smart Data Models for Water.
+This webinar presents an introduction to data engineering with FIWARE using Apache Spark ready for big data deployments. You will learn how to perform real-time predictions step-by-step through a real use case.
 
-#### 27. Smart Water Management - Using FIWARE Smart Data Models for Water
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 26 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-machine-learning-with-cosmos-and-spark)
 
-**Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★★&nbsp;★</span>
+#### 27. Monetizing your Organization's Data
 
-[![](https://img.youtube.com/vi/QbAiLMFEQrY/0.jpg)](https://www.youtube.com/watch?v=QbAiLMFEQrY "FIWARE Smart Water")
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/data-monetization.svg)](https://github.com/FIWARE/catalogue/blob/master/data-publication/README.md)<br/>
 
-Using FIWARE Smart Data Models for Water.
+**Difficulty:** <span style="color:#51b6a3">★&nbsp;★&nbsp;★</span>
+
+[![](https://img.youtube.com/vi/jsG7SYtP4FU/0.jpg)](https://www.youtube.com/watch?v=jsG7SYtP4FU "FIWARE Smart Water")
+
+In the digital economy, your context data has value and could be used as a potential revenue stream. Learn more about the FIWARE catalogue components that can be used to monetize your data easily and still maintain ownership
+
+This webinar introduces the Business API Ecosystem and its role in FIWARE as well as demonstrating a simple context broker monetization use case. The various microservices the use case relies upon (Business API , Keyrock, API Umbrella) are highlighted and other options are also considered.
 
 
