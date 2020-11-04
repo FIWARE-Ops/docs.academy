@@ -27,7 +27,7 @@ Each webinar is recorded, the recordings are listed below.
 -    What is the FIWARE Marketplace?
 -    What is the role of the FIWARE Foundation?
 
-[![](https://img.youtube.com/vi/97JsnnpPLrA/0.jpg)](https://www.youtube.com/watch?v=97JsnnpPLrA "Introduction")
+[![](https://fiware.github.io/academy/img/intro.png)](https://www.youtube.com/watch?v=97JsnnpPLrA "Introduction")
 
 This video presentation is a basic introduction describing what FIWARE is, why you need it and how the elements of the
 FIWARE Catalogue can help accelerate the development of your Smart Solution.
@@ -61,7 +61,7 @@ disponible avec sous-titres en
 -   How to register other sources as context data
 -   How to subscribe to changes in context
 
-[![](https://img.youtube.com/vi/pK4GgYjlmdY/0.jpg)](https://www.youtube.com/watch?v=pK4GgYjlmdY "Core Context Management")
+[![](https://fiware.github.io/academy/img/core-context.png)](https://www.youtube.com/watch?v=pK4GgYjlmdY "Core Context Management")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-core-context-management)
@@ -92,7 +92,7 @@ interface, registrations, subscription etc.
 -   How can I configure an IoT Agent over HTTP?
 -   How can I configure an IoT Agent over MQTT?
 
-[![](https://img.youtube.com/vi/my6Kgiqx-OM/0.jpg)](https://www.youtube.com/watch?v=my6Kgiqx-OM "IoT Agents")
+[![](https://fiware.github.io/academy/img/iot-agents.png)](https://www.youtube.com/watch?v=my6Kgiqx-OM "IoT Agents")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 3 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-iot-agends)
@@ -120,7 +120,7 @@ device is _FIWARE Ready_.
 -   What is a PDP and when will I need one?
 -   What terms such as RBAC, PBAC and XACML mean and how are they used?
 
-[![](https://img.youtube.com/vi/SP0zFdTybA4/0.jpg)](https://www.youtube.com/watch?v=SP0zFdTybA4 "Security")
+[![](https://fiware.github.io/academy/img/security.png)](https://www.youtube.com/watch?v=SP0zFdTybA4 "Security")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 4 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-secure-fiware-architectures)
@@ -144,7 +144,7 @@ using the Generic Enablers from the Security Chapter.
 -   Adding diagnostic debug
 -   Where to look for help and advice
 
-[![](https://img.youtube.com/vi/FRqJsywi9e8/0.jpg)](https://www.youtube.com/watch?v=FRqJsywi9e8 "Debugging IoT Agents")
+[![](https://fiware.github.io/academy/img/iotagent-debug.png)](https://www.youtube.com/watch?v=FRqJsywi9e8 "Debugging IoT Agents")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 5 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-debug-iot-agents)
@@ -163,7 +163,7 @@ what can go wrong when trying to wire up the system. How to diagnose problems an
 -   What is a Robotic System?
 -   How to get/put context data out from/into robotic systems?
 
-[![](https://img.youtube.com/vi/T8XV6Wah9l4/0.jpg)](https://www.youtube.com/watch?v=T8XV6Wah9l4 "Robotics")
+[![](https://fiware.github.io/academy/img/robots-1.png)](https://www.youtube.com/watch?v=T8XV6Wah9l4 "Robotics")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 6 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-get-context-data-out-of-robots)
@@ -184,7 +184,7 @@ This video presentation shows how to retrieve context data and actuate robots
 -   **NGSI-LD** : Relationships, properties and `@context`
 -   Practical use cases in Smart City and Smart Agriculture
 
-[![](https://img.youtube.com/vi/T_1DpKf6C_c/0.jpg)](https://www.youtube.com/watch?v=T_1DpKf6C_c "Data Models")
+[![](https://fiware.github.io/academy/img/data-models-1.png)](https://www.youtube.com/watch?v=T_1DpKf6C_c "Data Models")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 7 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-design-datamodels)
@@ -203,7 +203,7 @@ This video presentation shows how to design and apply Standard NGSI Data Models.
 -   Which FIWARE components are available to deal with the persistence of context data?
 -   Why do context brokers not offer a data persistence function of their own?
 
-[![](https://img.youtube.com/vi/_uLZDGFPlRA/0.jpg)](https://www.youtube.com/watch?v=_uLZDGFPlRA "Data Persistence")
+[![](https://fiware.github.io/academy/img/data-persistence.png)](https://www.youtube.com/watch?v=_uLZDGFPlRA "Data Persistence")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 8 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-strategies-for-context-data-persistence)
@@ -225,7 +225,7 @@ a historical record of context when a context broker has no memory.
 -   What options exist to create a trend graph?
 -   Introduction to the NGSI-LD temporal interface
 
-[![](https://img.youtube.com/vi/fX_YAc7G4Dk/0.jpg)](https://www.youtube.com/watch?v=fX_YAc7G4Dk "Short-Term History")
+[![](https://fiware.github.io/academy/img/short-term-history.png)](https://www.youtube.com/watch?v=fX_YAc7G4Dk "Short-Term History")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 9 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-short-term-history-within-smart-systems)
@@ -248,7 +248,7 @@ This webinar shows how to utilise times series components and monitor and displa
     -   What options do I have with other protocols?
 -   What is a PEP Proxy and how can I use one to protect services and device?s
 
-[![](https://img.youtube.com/vi/_87IZhrYo3U/0.jpg)](https://www.youtube.com/watch?v=_87IZhrYo3U "Securing FIWARE IoT Devices")
+[![](https://fiware.github.io/academy/img/secure-devices.png)](https://www.youtube.com/watch?v=_87IZhrYo3U "Securing FIWARE IoT Devices")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 10 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-secure-iot-devices/FI-WARE/fiware-wednesday-webinars-how-to-secure-iot-devices)
@@ -273,7 +273,7 @@ Devices, IoT Agents, and the Context Broker.
     -   ROS, ROS2, OPC-UA and DDS
 -   Use Cases in Smart Industry
 
-[![](https://img.youtube.com/vi/m5JWxlMMuqk/0.jpg)](https://www.youtube.com/watch?v=m5JWxlMMuqk "FIWARE NGSI Interfaces for Robots")
+[![](https://fiware.github.io/academy/img/robots-2.png)](https://www.youtube.com/watch?v=m5JWxlMMuqk "FIWARE NGSI Interfaces for Robots")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 11 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-develop-fiware-ngsi-interfaces-for-robots/FI-WARE/fiware-wednesday-webinars-how-to-develop-fiware-ngsi-interfaces-for-robots)
@@ -301,7 +301,7 @@ facilitate/empower these developments.
 -   Using Compaction/Expansion operations on NGSI-LD data
 -   Navigating the `@graph`
 
-[![](https://img.youtube.com/vi/rZ13IyLpAtA/0.jpg)](https://www.youtube.com/watch?v=rZ13IyLpAtA "Introduction to NGSI-LD")
+[![](https://fiware.github.io/academy/img/ngsi-ld-1.png)](https://www.youtube.com/watch?v=rZ13IyLpAtA "Introduction to NGSI-LD")
 
 A data-model driven and linked data first introduction for developers to NGSI-LD and JSON-LD.
 
