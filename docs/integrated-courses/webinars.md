@@ -371,7 +371,7 @@ A broad overview of the value proposition of FIWARE and its position in a Smart 
 
 ### 16. The Use of DDS Middleware in Robotics
 
-&nbsp;&nbsp;**Chapter:**:
+&nbsp;&nbsp;**Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md) &nbsp;&nbsp; **Difficulty**: <span style="color:#5dc0cf">★&nbsp;★&nbsp;★</span>
 
 -   About eProsima & FIWARE
@@ -438,7 +438,7 @@ Understanding the basis of context information management, NGSI-LD and smart Dat
 
 ### 20. Robots and Machine Interfaces: Building Interfaces to ROS Systems
 
-&nbsp;&nbsp;**Chapter:**:
+&nbsp;&nbsp;**Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md) &nbsp;&nbsp; **Difficulty**: <span style="color:#5dc0cf">★&nbsp;★</span>
 
 -   ROS-Side Perspective (Introduction to FIROS 0.2.0)
@@ -477,8 +477,8 @@ Using FIWARE Smart Data Models for Water.
 
 ### 23. FIWARE and micro-ROS: Enabling Robotics Systems on Micro-controllers
 
-&nbsp;&nbsp;**Chapter:**:
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md) **Difficulty**: <span style="color:#5dc0cf">★&nbsp;★&nbsp;★&nbsp;★</span>
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md) &nbsp;&nbsp; **Difficulty**: <span style="color:#5dc0cf">★&nbsp;★&nbsp;★&nbsp;★</span>
 
 -   The micro-ROS Framework
 -   Synergies between Context Information Management and Robotics
@@ -499,7 +499,7 @@ overviewed.
 
 ### 24. Integrating Robotic Systems for Agile Manufacturing Using FIWARE
 
-&nbsp;&nbsp;**Chapter:**:
+&nbsp;&nbsp;**Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)  &nbsp;&nbsp; **Difficulty:** <span style="color:#5dc0cf">★&nbsp;★</span>
 
 -   Robotics-based Applications for Agile Manufacturing using FIWARE
