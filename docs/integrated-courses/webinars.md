@@ -4,12 +4,12 @@ The FIWARE Foundation offers a series of training workshops in the form of onlin
 to a variety of audiences and are ranked according to their level of difficulty. Look at the FIWARE site to check the
 list of [upcoming webinars](https://www.fiware.org/fiware-webinars/)
 
-The webinar series will covers all you need to learn about FIWARE: what each of the FIWARE components brings and how
+The **Wednesday Webinar** series will covers all you need to learn about FIWARE: what each of the FIWARE components brings and how
 apps can be developed using them. We will explain what the vision and value proposition of FIWARE is in specific domains
 such as Smart Cities, Smart Agrifood, Smart Energy, and Smart Industry and showcase the kind of initiatives members of
 the FIWARE Community are carrying out beyond the development of the technology.
 
-Each webinar is recorded, the recordings are listed below.
+Each webinar is recorded, a summary of the contents and links to the recordings are listed below.
 
 <h3>Academy Courses</h3>
 
@@ -35,7 +35,8 @@ FIWARE Catalogue can help accelerate the development of your Smart Solution.
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 1 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-overview)
 
-🇯🇵 このビデオ・プレゼンテーションは
+<small>
+> 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/> 🇪🇸
 Este webinar está disponible con subtítulos en
 [español](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=es).<br/> 🇮🇹 Questo webinar è
@@ -45,7 +46,7 @@ disponible avec sous-titres en
 [français](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=fr).<br/> 🇸🇦
 <span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
 <a  href="https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
-
+</small>
 #### 2. Core Context Management
 
 **Chapter:**
@@ -66,13 +67,15 @@ disponible avec sous-titres en
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-core-context-management)
 
-🇯🇵 このビデオ・プレゼンテーションは
+<small>
+> 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/> 🇮🇹
 Questo webinar è disponibile con sottotitoli in
 [italiano](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=it).<br/> 🇪🇸 Este webinar está
 disponible con subtítulos en [español](https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=es) <br/>
 🇸🇦 <span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
 <a  href="https://www.youtube.com/embed/pK4GgYjlmdY?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
+</small>
 
 This video presentation is an introduction to Core Context Management describing about the NGSI DataModel and the NSGI
 interface, registrations, subscription etc.
@@ -100,11 +103,12 @@ interface, registrations, subscription etc.
 This video presentation shows how to connect IoT Devices to the Context Broker using an IoT Agent and how to ensure your
 device is _FIWARE Ready_.
 
-🇯🇵 このビデオ・プレゼンテーションは
+<small>
+> 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/my6Kgiqx-OM?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/> 🇸🇦
 <span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
 <a  href="https://www.youtube.com/embed/my6Kgiqx-OM?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
-
+</small>
 #### 4. How to Secure FIWARE Architectures
 
 **Chapter:**
@@ -128,8 +132,9 @@ device is _FIWARE Ready_.
 This video presentation shows how to add Identity Management and Access Control elements to your FIWARE Architecture by
 using the Generic Enablers from the Security Chapter.
 
-🇯🇵 このビデオ・プレゼンテーションは
-[日本語字幕](https://www.youtube.com/embed/SP0zFdTybA4?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
+<small>
+> 🇯🇵 このビデオ・プレゼンテーションは
+[日本語字幕](https://www.youtube.com/embed/SP0zFdTybA4?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/></small>
 
 #### 5. How to Debug IoT Agents
 
@@ -170,8 +175,10 @@ what can go wrong when trying to wire up the system. How to diagnose problems an
 
 This video presentation shows how to retrieve context data and actuate robots
 
-🇯🇵 このビデオ・プレゼンテーションは
+<small>
+> 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/T8XV6Wah9l4?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
+</small>
 
 #### 7. Data Modelling with NGSI
 
@@ -211,8 +218,10 @@ This video presentation shows how to design and apply Standard NGSI Data Models.
 Introduction to the data persistence components found within the FIWARE Catalogue and various options on how to maintain
 a historical record of context when a context broker has no memory.
 
-🇯🇵 このビデオ・プレゼンテーションは
+<small>
+> 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/_uLZDGFPlRA?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
+</small>
 
 #### 9. Short Term History within FIWARE Systems
 
@@ -232,8 +241,10 @@ a historical record of context when a context broker has no memory.
 
 This webinar shows how to utilise times series components and monitor and display trends within FIWARE applications
 
-🇯🇵 このビデオ・プレゼンテーションは
+<small>
+> 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/fX_YAc7G4Dk?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
+</small>
 
 #### 10. Securing FIWARE IoT Devices
 
@@ -256,10 +267,12 @@ This webinar shows how to utilise times series components and monitor and displa
 Live coding session and commentary, demonstrating various techniques and methods for securing the interactions between
 Devices, IoT Agents, and the Context Broker.
 
-🇯🇵 このビデオ・プレゼンテーションは
+<small>
+> 🇯🇵 このビデオ・プレゼンテーションは
 [日本語字幕](https://www.youtube.com/embed/_87IZhrYo3U?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/> 🇸🇦
 <span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
 <a  href="https://www.youtube.com/embed/_87IZhrYo3U?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
+</small>
 
 #### 11. How to Develop FIWARE NGSI Interfaces for Robots
 
@@ -281,8 +294,10 @@ Devices, IoT Agents, and the Context Broker.
 This webinar presents different alternatives for developing FIWARE-Ready robots and the main FIWARE components that can
 facilitate/empower these developments.
 
-🇯🇵 このビデオ・プレゼンテーションは
-[日本語字幕](https://www.youtube.com/embed/m5JWxlMMuqk?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。
+<small>
+> 🇯🇵 このビデオ・プレゼンテーションは
+[日本語字幕](https://www.youtube.com/embed/m5JWxlMMuqk?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/>
+</small>
 
 #### 12. Introduction to NGSI-LD
 
@@ -321,7 +336,7 @@ A data-model driven and linked data first introduction for developers to NGSI-LD
     -   Data Marketplace
     -   Marketplace of Plug & Play AI / Big Data Services
 
-[![](https://img.youtube.com/vi/REoJA7yxJ_0/0.jpg)](https://www.youtube.com/watch?v=REoJA7yxJ_0 "FIWARE Building the Future")
+[![](https://fiware.github.io/academy/img/future.png)](https://www.youtube.com/watch?v=REoJA7yxJ_0 "FIWARE Building the Future")
 
 An in-depth look at where FIWARE is going next and integrates with blockchain and distributed ledger technologies,
 Artificial Intelligence or Robotics.
@@ -333,7 +348,7 @@ Artificial Intelligence or Robotics.
 
 **Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★ ★</span>
 
-[![](https://img.youtube.com/vi/pTkZk4VF0gY/0.jpg)](https://www.youtube.com/watch?v=pTkZk4VF0gY "Architecting Your Smart Solution")
+[![](https://fiware.github.io/academy/img/architecting.png)](https://www.youtube.com/watch?v=pTkZk4VF0gY "Architecting Your Smart Solution")
 
 Learn how Smart Solutions solving a particular challenge are architected with FIWARE. This webinar is supported by use
 cases.
@@ -349,7 +364,7 @@ cases.
 -   Building _"Powered by FIWARE"_ Solutions
 -   FIWARE: Going beyond the technology
 
-[![](https://img.youtube.com/vi/7ZMUYEWD1gw/0.jpg)](https://www.youtube.com/watch?v=7ZMUYEWD1gw "FIWARE Vision")
+[![](https://fiware.github.io/academy/img/fiware-vision.png)](https://www.youtube.com/watch?v=7ZMUYEWD1gw "FIWARE Vision")
 
 A broad overview of the value proposition of FIWARE and its position in a Smart Digital Future.
 
@@ -369,7 +384,7 @@ A broad overview of the value proposition of FIWARE and its position in a Smart 
     -   What is new?
 -   XRCE-DDS & Micro-ROS
 
-[![](https://img.youtube.com/vi/OQYBJJ5ydto/0.jpg)](https://www.youtube.com/watch?v=OQYBJJ5ydto "DDS Middleware in Robotics")
+[![](https://fiware.github.io/academy/img/robots-3.png)](https://www.youtube.com/watch?v=OQYBJJ5ydto "DDS Middleware in Robotics")
 
 An introduction to core real-time technologies: FAST DDS, the most complete Open Source DDS for ROS 2, and Micro
 XRCE-DDS, the middleware for microcontrollers, and micro-ROS.
@@ -390,7 +405,7 @@ XRCE-DDS, the middleware for microcontrollers, and micro-ROS.
     -   Agri-Food Supply Chain Demo
 -   Upcoming DLT Components and Research
 
-[![](https://img.youtube.com/vi/ITSxtlCmNhQ/0.jpg)](https://www.youtube.com/watch?v=ITSxtlCmNhQ "Blockchain")
+[![](https://fiware.github.io/academy/img/blockchain.png)](https://www.youtube.com/watch?v=ITSxtlCmNhQ "Blockchain")
 
 This webinar will be an introduction to Blockchain and how FIWARE can be integrated with Blockchain/DLTs with a demo. In
 addition, it will also explain upcoming DLT components in the FIWARE ecosystem and an idea/state of art to leverage DLTs
@@ -403,9 +418,9 @@ in 'Powered by FIWARE' systems.
 
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
-**Difficulty:** <span style="color:#233c68">★</span>
+**Difficulty:** <span style="color:#233c68">★&nbsp;★</span>
 
-[![](https://img.youtube.com/vi/n6XN89VSZNg/0.jpg)](https://www.youtube.com/watch?v=n6XN89VSZNg "Big Data")
+[![](https://fiware.github.io/academy/img/big-data-1.png)](https://www.youtube.com/watch?v=n6XN89VSZNg "Big Data")
 
 Performing Big Data Analysis Using Cosmos With Spark or Flink - 8
 
@@ -416,9 +431,9 @@ Performing Big Data Analysis Using Cosmos With Spark or Flink - 8
 
 **Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
-**Difficulty:** <span style="color:#233c68">★★&nbsp;★</span>
+**Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
 
-[![](https://img.youtube.com/vi/MBx23ypORLk/0.jpg)](https://www.youtube.com/watch?v=MBx23ypORLk "Digital Twin")
+[![](https://fiware.github.io/academy/img/data-models-2.png)](https://www.youtube.com/watch?v=MBx23ypORLk "Digital Twin")
 
 Understanding the basis of context information management, NGSI-LD and smart Data Models
 
@@ -439,7 +454,7 @@ Understanding the basis of context information management, NGSI-LD and smart Dat
 -   FIWARE-Side Perspective (Context Data Managementin Robotics)
     -   Simple Example: AMR in a Warehouse
 
-[![](https://img.youtube.com/vi/a0NxSS96YzY/0.jpg)](https://www.youtube.com/watch?v=a0NxSS96YzY "FIWARE ROS Systems")
+[![](https://fiware.github.io/academy/img/robots-4.png)](https://www.youtube.com/watch?v=a0NxSS96YzY "FIWARE ROS Systems")
 
 This webinar will present how to develop FIWARE NGSI Interfaces for ROS-based robots.
 
@@ -450,7 +465,7 @@ This webinar will present how to develop FIWARE NGSI Interfaces for ROS-based ro
 
 **Chapter:** Fundamentals<br/> **Difficulty:** <span style="color:#000000">★</span>
 
-[![](https://img.youtube.com/vi/XsoXchKiKB4/0.jpg)](https://www.youtube.com/watch?v=XsoXchKiKB4 "FIWARE Smart Organization")
+[![](https://fiware.github.io/academy/img/smart-organizations.png)](https://www.youtube.com/watch?v=XsoXchKiKB4 "FIWARE Smart Organization")
 
 This webinar will cover the “system of systems” approach and FIWARE transformation journey, also with the help of
 success stories.
@@ -461,7 +476,7 @@ success stories.
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
 **Difficulty:** <span style="color:#233c68">★ ★</span>
 
-[![](https://img.youtube.com/vi/QbAiLMFEQrY/0.jpg)](https://www.youtube.com/watch?v=QbAiLMFEQrY "FIWARE Smart Water")
+[![](https://fiware.github.io/academy/img/smart-water.png)](https://www.youtube.com/watch?v=QbAiLMFEQrY "FIWARE Smart Water")
 
 Using FIWARE Smart Data Models for Water.
 
@@ -477,7 +492,7 @@ Using FIWARE Smart Data Models for Water.
 -   SOSS-FIWARE
 -   Demo
 
-[![](https://img.youtube.com/vi/XJL2_FHcils/0.jpg)](https://www.youtube.com/watch?v=XJL2_FHcils "micro-ROS and FIWARE")
+[![](https://fiware.github.io/academy/img/robots-5.png)](https://www.youtube.com/watch?v=XJL2_FHcils "micro-ROS and FIWARE")
 
 The aim of this webinar is to give an introduction about the existing synergies between FIWARE, ROS, and micro-ROS - the
 Robot Operating System for microcontrollers - frameworks.
@@ -499,7 +514,7 @@ overviewed.
 -   Digital Factory centered use cases.
 -   Deployment of a _"Powered by FIWARE"_ Robotics Architecture
 
-[![](https://img.youtube.com/vi/ftxNOdwqjiQ/0.jpg)](https://www.youtube.com/watch?v=ftxNOdwqjiQ "Agile Manufacturing")
+[![](https://fiware.github.io/academy/img/robots-6.png)](https://www.youtube.com/watch?v=ftxNOdwqjiQ "Agile Manufacturing")
 
 Robotics systems play a major role in the automation roadmap of factories that aim to beat competitors by offering small
 lot sizes of highly customized products. As standalone manufacturing assets, the contribution of robotics systems to the
@@ -521,7 +536,7 @@ integration of robots in smart factory environments.
 -   Relevance of Standardization
 -   Smart Data Models - Structure, Examples, Users and Contributors
 
-[![](https://img.youtube.com/vi/b0EWq5E5jAc/0.jpg)](https://www.youtube.com/watch?v=b0EWq5E5jAc "FIWARE Smart Cities")
+[![](https://fiware.github.io/academy/img/smart-cities.png)](https://www.youtube.com/watch?v=b0EWq5E5jAc "FIWARE Smart Cities")
 
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 25 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-cities-as-enablers-of-the-data-economy-smart-data-models-for-cities)
@@ -531,7 +546,7 @@ integration of robots in smart factory environments.
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)<br/>
 **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
 
-[![](https://img.youtube.com/vi/isugbtZWU4I/0.jpg)](https://www.youtube.com/watch?v=isugbtZWU4I "Machine Learning")
+[![](https://fiware.github.io/academy/img/big-data-2.png)](https://www.youtube.com/watch?v=isugbtZWU4I "Machine Learning")
 
 This webinar presents an introduction to data engineering with FIWARE using Apache Spark ready for big data deployments.
 You will learn how to perform real-time predictions step-by-step through a real use case.
@@ -551,7 +566,7 @@ You will learn how to perform real-time predictions step-by-step through a real 
     -   Demo
 -   How can the Business API Ecosystem be extended to fit custom environments?
 
-[![](https://img.youtube.com/vi/jsG7SYtP4FU/0.jpg)](https://www.youtube.com/watch?v=jsG7SYtP4FU "FIWARE Smart Water")
+[![](https://fiware.github.io/academy/img/monetization.png)](https://www.youtube.com/watch?v=jsG7SYtP4FU "Monetization")
 
 In the digital economy, your context data has value and could be used as a potential revenue stream. Learn more about
 the FIWARE catalogue components that can be used to monetize your data easily and still maintain ownership
