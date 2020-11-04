@@ -478,7 +478,7 @@ Using FIWARE Smart Data Models for Water.
 ### 23. FIWARE and micro-ROS: Enabling Robotics Systems on Micro-controllers
 
 &nbsp;&nbsp;**Chapter:**:
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md) **Difficulty**: **Difficulty:** <span style="color:#5dc0cf">★&nbsp;★&nbsp;★&nbsp;★</span>
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md) **Difficulty**: <span style="color:#5dc0cf">★&nbsp;★&nbsp;★&nbsp;★</span>
 
 -   The micro-ROS Framework
 -   Synergies between Context Information Management and Robotics
