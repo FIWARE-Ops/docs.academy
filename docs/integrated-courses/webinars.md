@@ -17,13 +17,13 @@ Each webinar is recorded, a summary of the contents and links to the recordings 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg)](https://www.fiware.org/developers/catalogue/) &nbsp;&nbsp;
 **Difficulty:** <span style="color:#000000">&nbsp;★</span>
 
--    What is context data?
--    How is context data used within a Smart Solution?
--    What is FIWARE? How does it help
--    What is NGSI v2?
--    What is the FIWARE Catalogue?
--    What is the FIWARE Marketplace?
--    What is the role of the FIWARE Foundation?
+-   What is context data?
+-   How is context data used within a Smart Solution?
+-   What is FIWARE? How does it help
+-   What is NGSI v2?
+-   What is the FIWARE Catalogue?
+-   What is the FIWARE Marketplace?
+-   What is the role of the FIWARE Foundation?
 
 [![](https://fiware.github.io/academy/img/intro.png)](https://www.youtube.com/watch?v=97JsnnpPLrA "Introduction")
 
