@@ -5,7 +5,7 @@
 [![fiware](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](https://stackoverflow.com/questions/tagged/fiware)
 [<img src="img/logo.png" align="right" width="162">](https://www.fiware.org/)<br/>
 [![Documentation](https://img.shields.io/readthedocs/fiware-academy.svg)](https://fiware-academy.rtfd.io)
-[![Build Status](https://img.shields.io/travis/FIWARE/academy.svg)](https://travis-ci.org/FIWARE/academy)
+[![CI](https://github.com/FIWARE/academy/workflows/CI/badge.svg)](https://github.com/FIWARE/academy/actions?query=workflow%3ACI)
 
 [FIWARE](https://www.fiware.org) is a curated framework of open source platform components which can be assembled
 together and with other third-party platform components to accelerate the development of Smart Solutions.
