@@ -565,3 +565,23 @@ the FIWARE catalogue components that can be used to monetize your data easily an
 This webinar introduces the Business API Ecosystem and its role in FIWARE as well as demonstrating a simple context
 broker monetization use case. The various microservices the use case relies upon (Business API , Keyrock, API Umbrella)
 are highlighted and other options are also considered.
+
+### 28. Creating Advanced Dashboards Using Wirecloud
+
+&nbsp;&nbsp;**Chapter:** [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md) &nbsp;&nbsp; **Difficulty:** <span style="color:#51b6a3">★&nbsp;★&nbsp;★</span>
+
+-   What are Application Mashups?
+-   How to find components for creating dashboards
+-   How to use WireCloud's User Interface
+    -   Demo
+-   How change behaviour of a dashboard
+-   How to share dashboards
+
+[![](https://fiware.github.io/academy/img/wirecloud.png)](https://www.youtube.com/watch?v=LkGpx6BKbRM "Wirecloud")
+
+Wirecloud is a web mashup tool designed to ease the development of operational dashboards. This allows end users to easily create 
+web applications and dashboards without programming skills and to visualize data of interest and control their environment.
+
+Web application mashups integrate heterogeneous data, application logic, and UI components (widgets) sourced from the Web to 
+create new coherent and value-adding composite applications. This webinar demonstrates how to create flexible dashboards loading
+real-time context data and modify the representation of the data to gain insight and fit the needs of your organization.
