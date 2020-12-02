@@ -614,7 +614,7 @@ your organization.
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg)](https://www.fiware.org/developers/catalogue/)
 &nbsp;&nbsp; **Difficulty:** <span style="color:#000000">★</span>
 
--   Why do you need a LICENSE ?
+-   Why do you need a `LICENSE` ?
 -   What common Open Source Licenses are available ?
 -   Three Examples in Detail
     -   MIT License
