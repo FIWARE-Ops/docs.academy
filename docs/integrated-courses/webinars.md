@@ -610,7 +610,7 @@ your organization.
 
 ### 29. Choosing Open Source Licenses for FIWARE Components
 
-&nbsp;&nbsp;**Chapter:** &nbsp;&nbsp;**Chapter:**
+&nbsp;&nbsp;**Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg)](https://www.fiware.org/developers/catalogue/)
 &nbsp;&nbsp; **Difficulty:** <span style="color:#000000">★</span>
 
