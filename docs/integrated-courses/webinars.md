@@ -45,6 +45,7 @@ disponible avec sous-titres en
 <span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
 <a  href="https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
 </small>
+
 ### 2. Core Context Management
 
 &nbsp;&nbsp;**Chapter:**
@@ -107,6 +108,7 @@ device is _FIWARE Ready_.
 <span style="direction: rtl">تتوفر هذة الندوة مع ترجمة عبر الإنترنت باللغة
 <a  href="https://www.youtube.com/embed/my6Kgiqx-OM?cc_load_policy=1&cc_lang_pref=ar">العربية</a></span>
 </small>
+
 ### 4. How to Secure FIWARE Architectures
 
 &nbsp;&nbsp;**Chapter:**
@@ -585,3 +587,25 @@ web applications and dashboards without programming skills and to visualize data
 Web application mashups integrate heterogeneous data, application logic, and UI components (widgets) sourced from the Web to 
 create new coherent and value-adding composite applications. This webinar demonstrates how to create flexible dashboards loading
 real-time context data and modify the representation of the data to gain insight and fit the needs of your organization.
+
+### 29.  Choosing Open Source Licenses for FIWARE Components
+
+&nbsp;&nbsp;**Chapter:** &nbsp;&nbsp;**Chapter:** [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg)](https://www.fiware.org/developers/catalogue/) &nbsp;&nbsp; **Difficulty:** <span style="color:#000000">★</span>
+
+-   Why do you need a LICENSE ?
+-   What common Open Source Licenses are available ?
+-   Three Examples in Detail
+    -   MIT License
+    -   Apache License 2.0
+    -   GNU Affero General Public License v3.0
+-   How to attract users and contributors through your `README.md`
+-   What are your obligations when using Open Source Software?
+   -   `NOTICES.txt` and Virality
+-   Handling Contributions
+    -   Contributor License Agreements (CLAs)
+    -   Developer Certificate of Origin (DCO)
+
+
+[![](https://fiware.github.io/academy/img/open-source.png)](https://www.youtube.com/watch?v=1X_kNwkkcjo "Open Source")
+
+Issues may arise when attempting to release software as Open Source, and this webinar discusses some of the decisions which need to be made (such as deciding which license to use) and offers a few solutions to cover some common release processes as well as explaining the commitments that must be made when offering new software to FIWARE.
