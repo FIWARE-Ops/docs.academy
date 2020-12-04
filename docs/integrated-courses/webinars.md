@@ -632,3 +632,39 @@ your organization.
 Issues may arise when attempting to release software as Open Source, and this webinar discusses some of the decisions
 which need to be made (such as deciding which license to use) and offers a few solutions to cover some common release
 processes as well as explaining the commitments that must be made when offering new software to FIWARE.
+
+### 30. Adopting Common Smart Data Models for Smart Cities
+
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
+
+-   Why is relevant to have shared data models for the industry and for the citizen
+    -   Open license and shared data models as an economic booster for smart cities
+-   Summary of the agreement: 
+    -   Adoption of NGSI-LD standard as the basis for data exchange
+    -   Contribution to smart data models initiative (including participation in governance bodies)
+-   Introduction to the Smart Data Models
+    -   General introduction
+    -   New contribution mechanism
+    -   New specification
+    -   Other updates
+
+[![](https://fiware.github.io/academy/img/iudx.png)](https://www.youtube.com/watch?v=dfMo0HnaIUQ "Adopting Common Smart Data Models")
+
+For this webinar, FIWARE teamed up with the India Urban Data Exchange (IUDX) Program. FIWARE Foundation and IUDX
+recently announced their collaboration toward building an Open Source platform that facilitates secure, authenticated, 
+and managed exchange of data amongst various data sources and consumers.
+
+### 31. India Urban Data Exchange
+
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
+
+[![](https://fiware.github.io/academy/img/iudx.png)](https://www.youtube.com/watch?v=YXp822s2_n4 "IUDX")
+
+This is the second half of the Adopting Common Smart Data Models for Smart Cities webinar, where FIWARE teamed up with the 
+India Urban Data Exchange (IUDX) Program. FIWARE Foundation and IUDX recently announced their collaboration toward building
+an Open Source platform that facilitates secure, authenticated, and managed exchange of data amongst various data sources
+and consumers.
