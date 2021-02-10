@@ -676,18 +676,18 @@ and consumers.
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md)
 &nbsp;&nbsp; **Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
 
--  What is an IoT Agent?
--  NGSI-LD Measures
--  NGSI-LD Actuations +  Lazy Attributes:
-    -  Registrations
-    -  Subscriptions
--  Provisioning NGSI-LD Devices:
-    -  Data Models and NGSI-LD @context
-    -  The role of metadata
-    -  GeoJSON and GPS device provisioning
--  Combining NGSI-v2 Devices with an NGSI-LD Context Broker
+-   What is an IoT Agent?
+-   NGSI-LD Measures
+-   NGSI-LD Actuations +  Lazy Attributes:
+    -   Registrations
+    -   Subscriptions
+-   Provisioning NGSI-LD Devices:
+    -   Data Models and NGSI-LD @context
+    -   The role of metadata
+    -   GeoJSON and GPS device provisioning
+-   Combining NGSI-v2 Devices with an NGSI-LD Context Broker
 
-[![](https://fiware.github.io/academy/img/ngsi-ld-iot-agents.png)](https://www.youtube.com/watch?v=XBLyMa-UBmg "NGSI-LD IoT Agents")
+[![](https://fiware.github.io/academy/img/ngsi-ld-iot-agents.jpeg)](https://www.youtube.com/watch?v=XBLyMa-UBmg "NGSI-LD IoT Agents")
 
 NGSI-LD support has been added to the library underpinning all of the IoT Agent so now it is simple to combine the power of linked
 data with IoT devices running the protocols of your choice. This webinar explains how to properly provision NGSI-LD devices, and how
@@ -699,10 +699,10 @@ to convert NGSI-v2 to NGSI-LD when receiving measures from external devices not 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
 &nbsp;&nbsp; **Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
 
--  What is Grafana?
--  FIWARE Architectural Considerations
-    -  Which microservices?  What roles are required?
-    -  NGSI Data: Sources, Sinks, Transformations and Data Formats 
+-   What is Grafana?
+-   FIWARE Architectural Considerations
+    -   Which microservices?  What roles are required?
+    -   NGSI Data: Sources, Sinks, Transformations and Data Formats 
 - Deep Dive:  Filling Station Dashboard
 - HOPU: Real-life Use Cases and Customizations with Grafana
 
