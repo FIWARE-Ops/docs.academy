@@ -633,7 +633,7 @@ Issues may arise when attempting to release software as Open Source, and this we
 which need to be made (such as deciding which license to use) and offers a few solutions to cover some common release
 processes as well as explaining the commitments that must be made when offering new software to FIWARE.
 
-### 30. Adopting Common Smart Data Models for Smart Cities
+### 30a. Adopting Common Smart Data Models for Smart Cities
 
 &nbsp;&nbsp;**Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
@@ -656,11 +656,12 @@ For this webinar, FIWARE teamed up with the India Urban Data Exchange (IUDX) Pro
 recently announced their collaboration toward building an Open Source platform that facilitates secure, authenticated, 
 and managed exchange of data amongst various data sources and consumers.
 
-### 31. India Urban Data Exchange
+### 30b. India Urban Data Exchange
 
 &nbsp;&nbsp;**Chapter:**
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
 &nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
+
 
 [![](https://fiware.github.io/academy/img/iudx.png)](https://www.youtube.com/watch?v=YXp822s2_n4 "IUDX")
 
@@ -668,3 +669,50 @@ This is the second half of the Adopting Common Smart Data Models for Smart Citie
 India Urban Data Exchange (IUDX) Program. FIWARE Foundation and IUDX recently announced their collaboration toward building
 an Open Source platform that facilitates secure, authenticated, and managed exchange of data amongst various data sources
 and consumers.
+
+### 31. NGSI-LD IoT Agents
+
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
+
+-  What is an IoT Agent?
+-  NGSI-LD Measures
+-  NGSI-LD Actuations +  Lazy Attributes:
+    -  Registrations
+    -  Subscriptions
+-  Provisioning NGSI-LD Devices:
+    -  Data Models and NGSI-LD @context
+    -  The role of metadata
+    -  GeoJSON and GPS device provisioning
+-  Combining NGSI-v2 Devices with an NGSI-LD Context Broker
+
+[![](https://fiware.github.io/academy/img/ngsi-ld-iot-agents.png)](https://www.youtube.com/watch?v=XBLyMa-UBmg "NGSI-LD IoT Agents")
+
+NGSI-LD support has been added to the library underpinning all of the IoT Agent so now it is simple to combine the power of linked
+data with IoT devices running the protocols of your choice. This webinar explains how to properly provision NGSI-LD devices, and how
+to convert NGSI-v2 to NGSI-LD when receiving measures from external devices not under your control.
+
+### 32. Monitoring Measures Using FIWARE & Grafana
+
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
+
+-  What is Grafana?
+-  FIWARE Architectural Considerations
+    -  Which microservices?  What roles are required?
+    -  NGSI Data: Sources, Sinks, Transformations and Data Formats 
+- Deep Dive:  Filling Station Dashboard
+- HOPU: Real-life Use Cases and Customizations with Grafana
+
+[![](https://fiware.github.io/academy/img/grafana.png)](https://www.youtube.com/watch?v=Gaa23hC0teo "Grafana")
+
+Visualisation of data is key to understanding trends and this webinar discusses how to analyse context data using 
+common open source tools.
+
+With visualisation components such as Grafana, minor changes to default look-and-feel can really help to improve customer 
+satisfaction. Co-presenting at our webinar on Monitoring Measures Using FIWARE and Grafana we will have a developer who 
+makes changes such as these for a living who will be demonstrating some real-life FIWARE-Grafana tweaks and customisations 
+they have created which have already reached paying clients.
+
