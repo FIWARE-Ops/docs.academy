@@ -716,3 +716,23 @@ satisfaction. Co-presenting at our webinar on Monitoring Measures Using FIWARE a
 makes changes such as these for a living who will be demonstrating some real-life FIWARE-Grafana tweaks and customisations 
 they have created which have already reached paying clients.
 
+### 32. Monitoring Measures Using FIWARE & Grafana
+
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iotagents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★&nbsp;★&nbsp;★</span>
+
+-   Overview of Existing IoT Agents
+    -   Payloads, Transports and Protocols   
+-   Code walkthroughs
+    -   Customizing the IoT Agent for Ultralight to accept XML payloads
+    -   IoT Agent Plugin adaptions - IoT Agent for ADAPT/ISOXML
+    -   File-based Device Measure Upserts (CSV, Excel) 
+
+[![](https://fiware.github.io/academy/img/custom-iot-agents.png)](https://www.youtube.com/watch?v=HuEwI8wJKFU "Custom IoT Agents")
+
+Many common payloads and protocols are already supported by IoT Agents. However, sometimes this is not enough and it is
+necessary to create your own IoT Agent or customize an existing IoT Agent. This webinar discusses various strategies on how to
+do this focusing on real-life use-cases from farming and water management.
+
+
