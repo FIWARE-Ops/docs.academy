@@ -716,10 +716,10 @@ satisfaction. Co-presenting at our webinar on Monitoring Measures Using FIWARE a
 makes changes such as these for a living who will be demonstrating some real-life FIWARE-Grafana tweaks and customisations 
 they have created which have already reached paying clients.
 
-### 33. Monitoring Measures Using FIWARE & Grafana
+### 33. Customizing IoT Agents
 
 &nbsp;&nbsp;**Chapter:**
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iotagents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md)
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md)
 &nbsp;&nbsp; **Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★&nbsp;★&nbsp;★</span>
 
 -   Overview of Existing IoT Agents
