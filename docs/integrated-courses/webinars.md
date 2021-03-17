@@ -742,7 +742,7 @@ do this focusing on real-life use-cases from farming and water management.
 &nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
 
 -   Differences between NGSI-v2 vs NGSI-LD Interfaces
-    - CRUD, Subscriptions and Registrations   
+    -   CRUD, Subscriptions and Registrations   
 -   Data Models and NGSI-LD `@context`
 -   NGSI-LD Interfaces
     -   Subscription Payloads (Key-Values, Normalized and GeoJSON) and Customizing Payloads
