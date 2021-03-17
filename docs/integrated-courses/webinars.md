@@ -735,4 +735,23 @@ Many common payloads and protocols are already supported by IoT Agents. However,
 necessary to create your own IoT Agent or customize an existing IoT Agent. This webinar discusses various strategies on how to
 do this focusing on real-life use-cases from farming and water management.
 
+### 34. Connecting NGSI-LD FIWARE Components
 
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
+
+-   Differences between NGSI-v2 vs NGSI-LD Interfaces
+    - CRUD, Subscriptions and Registrations   
+-   Data Models and NGSI-LD `@context`
+-   NGSI-LD Interfaces
+    -   Subscription Payloads (Key-Values, Normalized and GeoJSON) and Customizing Payloads
+    -   Registration Forwarding and receiving payloads
+    -   Federations and Data Ownership
+-   Demo: Combining v2 and LD
+
+[![](https://fiware.github.io/academy/img/combining-v2-ld.png)](https://www.youtube.com/watch?v=sWa0k5GyGyw "Combining v2 and LD")
+
+NGSI-LD is all about linked data. The NGSI-v2 syntax has evolved based on the work of the ETSI standards body. This webinar discusses
+how to ensure your FIWARE components are NGSI-LD compatible, how to transition data and how to continue using NGSI-v2 components within
+an NGSI-LD architecture.
