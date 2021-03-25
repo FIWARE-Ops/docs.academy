@@ -755,3 +755,23 @@ do this focusing on real-life use-cases from farming and water management.
 NGSI-LD is all about linked data. The NGSI-v2 syntax has evolved based on the work of the ETSI standards body. This webinar discusses
 how to ensure your FIWARE components are NGSI-LD compatible, how to transition data and how to continue using NGSI-v2 components within
 an NGSI-LD architecture.
+
+### 35. End-to-end AI Solution With PySpark & Draco
+
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#88a1ce">&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
+
+-   Managing Real-Time Context Data
+-   Data Transformation and Persistence using Apache NIFI
+-   Setting up a Google Cloud Environment
+    -   Creating a DataProc Cluster and connecting it to Jupyter Notebook
+    -   Using Google Cloud Storage service
+    -   Submitting a PySpark Job on DataProc
+-   Modelling a Machine Learning Solution on PySpark for Multi-classification
+
+[![](https://fiware.github.io/academy/img/pyspark.jpeg)](https://www.youtube.com/watch?v=d724j7PpaVg "PySpark")
+
+Data processing is key to ensure Machine Learning models' performance. But commonly, data is collected and stored in its raw format, and to get insights from it, post-processing is required. What if all of this could be automated and managed through pipelines? 
+
+This webinar not only demonstrates how to collect data in real-time, transform it, and persist it using Draco to be ready for further use, but it also shows how to build an end-to-end AI service with PySpark hosted in the cloud.
