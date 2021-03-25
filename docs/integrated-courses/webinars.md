@@ -770,7 +770,7 @@ an NGSI-LD architecture.
     -   Submitting a PySpark Job on DataProc
 -   Modelling a Machine Learning Solution on PySpark for Multi-classification
 
-[![](https://fiware.github.io/academy/img/pyspark.jpeg)](https://www.youtube.com/watch?v=d724j7PpaVg "PySpark")
+[![](https://fiware.github.io/academy/img/pyspark.png)](https://www.youtube.com/watch?v=d724j7PpaVg "PySpark")
 
 Data processing is key to ensure Machine Learning models' performance. But commonly, data is collected and stored in its raw format, and to get insights from it, post-processing is required. What if all of this could be automated and managed through pipelines? 
 
