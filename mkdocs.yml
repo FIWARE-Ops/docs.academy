@@ -40,3 +40,4 @@ pages:
   - 'Data Publication':
     - 'Biz Ecosystem': 'data-publication/business-api.md'
     - 'CKAN': 'data-publication/ckan.md'
+    - 'Idra': 'data-publication/idra.md'
