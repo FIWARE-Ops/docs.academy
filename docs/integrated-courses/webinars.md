@@ -641,7 +641,7 @@ processes as well as explaining the commitments that must be made when offering 
 
 -   Why is relevant to have shared data models for the industry and for the citizen
     -   Open license and shared data models as an economic booster for smart cities
--   Summary of the agreement: 
+-   Summary of the agreement:
     -   Adoption of NGSI-LD standard as the basis for data exchange
     -   Contribution to smart data models initiative (including participation in governance bodies)
 -   Introduction to the Smart Data Models
@@ -653,7 +653,7 @@ processes as well as explaining the commitments that must be made when offering 
 [![](https://fiware.github.io/academy/img/iudx.png)](https://www.youtube.com/watch?v=dfMo0HnaIUQ "Adopting Common Smart Data Models")
 
 For this webinar, FIWARE teamed up with the India Urban Data Exchange (IUDX) Program. FIWARE Foundation and IUDX
-recently announced their collaboration toward building an Open Source platform that facilitates secure, authenticated, 
+recently announced their collaboration toward building an Open Source platform that facilitates secure, authenticated,
 and managed exchange of data amongst various data sources and consumers.
 
 ### 30b. India Urban Data Exchange
@@ -662,13 +662,12 @@ and managed exchange of data amongst various data sources and consumers.
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
 &nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
 
-
 [![](https://fiware.github.io/academy/img/iudx.png)](https://www.youtube.com/watch?v=YXp822s2_n4 "IUDX")
 
-This is the second half of the Adopting Common Smart Data Models for Smart Cities webinar, where FIWARE teamed up with the 
-India Urban Data Exchange (IUDX) Program. FIWARE Foundation and IUDX recently announced their collaboration toward building
-an Open Source platform that facilitates secure, authenticated, and managed exchange of data amongst various data sources
-and consumers.
+This is the second half of the Adopting Common Smart Data Models for Smart Cities webinar, where FIWARE teamed up with
+the India Urban Data Exchange (IUDX) Program. FIWARE Foundation and IUDX recently announced their collaboration toward
+building an Open Source platform that facilitates secure, authenticated, and managed exchange of data amongst various
+data sources and consumers.
 
 ### 31. NGSI-LD IoT Agents
 
@@ -678,7 +677,7 @@ and consumers.
 
 -   What is an IoT Agent?
 -   NGSI-LD Measures
--   NGSI-LD Actuations +  Lazy Attributes:
+-   NGSI-LD Actuations + Lazy Attributes:
     -   Registrations
     -   Subscriptions
 -   Provisioning NGSI-LD Devices:
@@ -689,9 +688,10 @@ and consumers.
 
 [![](https://fiware.github.io/academy/img/ngsi-ld-iot-agents.png)](https://www.youtube.com/watch?v=XBLyMa-UBmg "NGSI-LD IoT Agents")
 
-NGSI-LD support has been added to the library underpinning all of the IoT Agent so now it is simple to combine the power of linked
-data with IoT devices running the protocols of your choice. This webinar explains how to properly provision NGSI-LD devices, and how
-to convert NGSI-v2 to NGSI-LD when receiving measures from external devices not under your control.
+NGSI-LD support has been added to the library underpinning all of the IoT Agent so now it is simple to combine the power
+of linked data with IoT devices running the protocols of your choice. This webinar explains how to properly provision
+NGSI-LD devices, and how to convert NGSI-v2 to NGSI-LD when receiving measures from external devices not under your
+control.
 
 ### 32. Monitoring Measures Using FIWARE & Grafana
 
@@ -701,20 +701,20 @@ to convert NGSI-v2 to NGSI-LD when receiving measures from external devices not 
 
 -   What is Grafana?
 -   FIWARE Architectural Considerations
-    -   Which microservices?  What roles are required?
-    -   NGSI Data: Sources, Sinks, Transformations and Data Formats 
--   Deep Dive:  Filling Station Dashboard
+    -   Which microservices? What roles are required?
+    -   NGSI Data: Sources, Sinks, Transformations and Data Formats
+-   Deep Dive: Filling Station Dashboard
 -   HOPU: Real-life Use Cases and Customizations with Grafana
 
 [![](https://fiware.github.io/academy/img/grafana.png)](https://www.youtube.com/watch?v=Gaa23hC0teo "Grafana")
 
-Visualisation of data is key to understanding trends and this webinar discusses how to analyse context data using 
-common open source tools.
+Visualisation of data is key to understanding trends and this webinar discusses how to analyse context data using common
+open source tools.
 
-With visualisation components such as Grafana, minor changes to default look-and-feel can really help to improve customer 
-satisfaction. Co-presenting at our webinar on Monitoring Measures Using FIWARE and Grafana we will have a developer who 
-makes changes such as these for a living who will be demonstrating some real-life FIWARE-Grafana tweaks and customisations 
-they have created which have already reached paying clients.
+With visualisation components such as Grafana, minor changes to default look-and-feel can really help to improve
+customer satisfaction. Co-presenting at our webinar on Monitoring Measures Using FIWARE and Grafana we will have a
+developer who makes changes such as these for a living who will be demonstrating some real-life FIWARE-Grafana tweaks
+and customisations they have created which have already reached paying clients.
 
 ### 33. Customizing IoT Agents
 
@@ -723,17 +723,17 @@ they have created which have already reached paying clients.
 &nbsp;&nbsp; **Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★&nbsp;★&nbsp;★</span>
 
 -   Overview of Existing IoT Agents
-    -   Payloads, Transports and Protocols   
+    -   Payloads, Transports and Protocols
 -   Code walkthroughs
     -   Customizing the IoT Agent for Ultralight to accept XML payloads
     -   IoT Agent Plugin adaptions - IoT Agent for ADAPT/ISOXML
-    -   File-based Device Measure Upserts (CSV, Excel) 
+    -   File-based Device Measure Upserts (CSV, Excel)
 
 [![](https://fiware.github.io/academy/img/custom-iot-agents.png)](https://www.youtube.com/watch?v=HuEwI8wJKFU "Custom IoT Agents")
 
 Many common payloads and protocols are already supported by IoT Agents. However, sometimes this is not enough and it is
-necessary to create your own IoT Agent or customize an existing IoT Agent. This webinar discusses various strategies on how to
-do this focusing on real-life use-cases from farming and water management.
+necessary to create your own IoT Agent or customize an existing IoT Agent. This webinar discusses various strategies on
+how to do this focusing on real-life use-cases from farming and water management.
 
 ### 34. Connecting NGSI-LD FIWARE Components
 
@@ -742,7 +742,7 @@ do this focusing on real-life use-cases from farming and water management.
 &nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
 
 -   Differences between NGSI-v2 vs NGSI-LD Interfaces
-    -   CRUD, Subscriptions and Registrations   
+    -   CRUD, Subscriptions and Registrations
 -   Data Models and NGSI-LD `@context`
 -   NGSI-LD Interfaces
     -   Subscription Payloads (Key-Values, Normalized and GeoJSON) and Customizing Payloads
@@ -752,9 +752,9 @@ do this focusing on real-life use-cases from farming and water management.
 
 [![](https://fiware.github.io/academy/img/combining-v2-ld.png)](https://www.youtube.com/watch?v=sWa0k5GyGyw "Combining v2 and LD")
 
-NGSI-LD is all about linked data. The NGSI-v2 syntax has evolved based on the work of the ETSI standards body. This webinar discusses
-how to ensure your FIWARE components are NGSI-LD compatible, how to transition data and how to continue using NGSI-v2 components within
-an NGSI-LD architecture.
+NGSI-LD is all about linked data. The NGSI-v2 syntax has evolved based on the work of the ETSI standards body. This
+webinar discusses how to ensure your FIWARE components are NGSI-LD compatible, how to transition data and how to
+continue using NGSI-v2 components within an NGSI-LD architecture.
 
 ### 35. End-to-end AI Solution With PySpark & Draco
 
@@ -772,6 +772,9 @@ an NGSI-LD architecture.
 
 [![](https://fiware.github.io/academy/img/pyspark.png)](https://www.youtube.com/watch?v=d724j7PpaVg "PySpark")
 
-Data processing is key to ensure Machine Learning models' performance. But commonly, data is collected and stored in its raw format, and to get insights from it, post-processing is required. What if all of this could be automated and managed through pipelines? 
+Data processing is key to ensure Machine Learning models' performance. But commonly, data is collected and stored in its
+raw format, and to get insights from it, post-processing is required. What if all of this could be automated and managed
+through pipelines?
 
-This webinar not only demonstrates how to collect data in real-time, transform it, and persist it using Draco to be ready for further use, but it also shows how to build an end-to-end AI service with PySpark hosted in the cloud.
+This webinar not only demonstrates how to collect data in real-time, transform it, and persist it using Draco to be
+ready for further use, but it also shows how to build an end-to-end AI service with PySpark hosted in the cloud.

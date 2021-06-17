@@ -1,4 +1,4 @@
-# Academy <img src="https://fiware.github.io//catalogue/img/fiware-black.png" width="145" align="left"> 
+# Academy <img src="https://fiware.github.io//catalogue/img/fiware-black.png" width="145" align="left">
 
 [![Documentation](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/documentation.svg)](https://fiware-academy.rtfd.io)
 [![License: CC-BY-4.0](https://img.shields.io/github/license/fiware/academy.svg)](https://creativecommons.org/licenses/by/4.0/)
