@@ -4,7 +4,10 @@
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/data-publication.svg)](https://www.fiware.org/developers/catalogue/)
 [![](https://img.shields.io/badge/tag-fiware-orange.svg?logo=stackoverflow)](http://stackoverflow.com/questions/tagged/fiware+idra+fiware-idra)
 
-Idra is a web application able to federate existing Open Data Management Systems (ODMS) based on different technologies, providing a unique access point to search and discover open datasets coming from heterogeneous sources. Idra uniforms metadata of collected open datasets, thanks to the adoption of international standards (DCAT-AP) and provides a set of RESTful APIs to be used by third-party applications.
+Idra is a web application able to federate existing Open Data Management Systems (ODMS) based on different technologies,
+providing a unique access point to search and discover open datasets coming from heterogeneous sources. Idra uniforms
+metadata of collected open datasets, thanks to the adoption of international standards (DCAT-AP) and provides a set of
+RESTful APIs to be used by third-party applications.
 
 -   [Idra general presentation](https://github.com/OPSILab/Idra/raw/master/docs/presentations/Idra_presentation_ENG.pdf)
 -   [Idra user guide](https://idra.readthedocs.io/en/latest/user/enduser/)
@@ -22,7 +25,7 @@ This video guide shows the main Idra portal functionalities for the end user.
 <br>
 
 <h4>Lesson 2. Idra portal - administration dashboard</h4>
-This video guide shows the main functionalities of the Idra portal administration dashboard. 
+This video guide shows the main functionalities of the Idra portal administration dashboard.
 
 [<img src="https://github.com/OPSILab/Idra/raw/master/docs/screenshots/administrator.png" width="640">](https://onedrive.live.com/embed?cid=F6FFB8A28077F737&resid=F6FFB8A28077F737%2113357&authkey=AJ9ykXGuwT3Po9Q)
 
