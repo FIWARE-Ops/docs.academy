@@ -26,6 +26,8 @@ This session consists of two parts. In the first part you will get introduced to
 and basic operations allowing you to start developing applications with the API. In the second part, you will get
 introduced to the Smart Data Models initiative. Technical Session for Local Experts in Data Sharing (LEBDs)
 
+<!-- textlint-disable write-good -->
+
 -   FIWARE in a nutshell
 -   Rationale behind NGSI-LD (Why linked data)
 -   NGSI-v2 to NGSI-LD
@@ -35,6 +37,8 @@ introduced to the Smart Data Models initiative. Technical Session for Local Expe
     -   Subscriptions
     -   Registrations
 -   Data Models
+
+<!-- textlint-enable write-good -->
 
 #### 3. i4Trust components for Identity Management and Access Control
 
