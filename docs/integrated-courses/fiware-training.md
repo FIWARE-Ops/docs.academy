@@ -57,6 +57,3 @@ etc.
 
 This session consists of two parts. The first part of the session will introduce you to i4Trust IAM components in detail
 while the second will introduce i4Trust Marketplace Services.
-
-
-& Ambassadors.
