@@ -28,11 +28,11 @@ This session consists of two parts. In the first part you will get introduced to
 and basic operations allowing you to start developing applications with the API. In the second part, you will get
 introduced to the Smart Data Models initiative.
 
-- ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 1a - Slides File](https://www.slideshare.net/FI-WARE/fiware-training-jsonld-and-ngsild)
-- ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 1b - Slides File](https://www.slideshare.net/FI-WARE/fiware-training-ngsild-introduction)
-- ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 1c - Slides File](https://www.slideshare.net/FI-WARE/fiware-training-smart-data-models)
 
 #### 2. Advanced NGSI-LD Operations
@@ -52,7 +52,7 @@ introduced to the Smart Data Models initiative.
 
 This session covers advanced NGSI-LD operations beyond basic CRUD, registration and subscriptions. It also includes exercises on creating data models and connecting disparate data providers in a trusted fashion.
 
-- ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-training-ngsi-ld-advanced-operationspptx)
 
 #### 3. NGSI-LD IoT Agents & Interfacing with third-party systems
@@ -62,7 +62,7 @@ This session covers advanced NGSI-LD operations beyond basic CRUD, registration 
 The session will explain about how to connect to legacy systems, IoT,
 etc. Also includes information on data persistence of NGSI-LD context data
 
-- ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 3 - Slides File](https://www.slideshare.net/FI-WARE/fiware-training-iot-and-legacy)
 
 #### 4. Identity and Access Management Components
