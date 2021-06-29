@@ -12,6 +12,7 @@ pages:
   - Home: 'index.md'
   - 'Integrated Courses':
     - 'FIWARE Webinars': 'integrated-courses/webinars.md'
+    - 'FIWARE Training': 'integrated-courses/fiware-training.md'
     - 'i4Trust: Train the Trainers': 'integrated-courses/i4Trust.md'
     - 'CEF Smart Cities': 'integrated-courses/cef-smart-cities.md'
   - 'Core Context Managment':
