@@ -76,3 +76,5 @@ while the second will introduce i4Trust Marketplace Services.
     [Lesson 4a - Slides File](https://www.slideshare.net/FI-WARE/fiware-training-api-umbrella)
 -   ![](https://fiware.github.io/academy/img/pdf.png)
     [Lesson 4b - Slides File](https://www.slideshare.net/FI-WARE/fiware-training-identity-management-access-control)
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 4c - Slides File](https://www.slideshare.net/FI-WARE/fiware-training-fiware-training-i4trust-marketplace)
