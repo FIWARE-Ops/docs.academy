@@ -12,10 +12,6 @@ Extending this core part, the virtual training camp adds introductory and deep-d
 
 [![](https://fiware.github.io/academy/img/training.jpg)](https://www.youtube.com/watch?v=dfigPKx99Bs)
 
-This session consists of two parts. In the first part you will get introduced to NGSI-LD: the basic model/concept behind
-and basic operations allowing you to start developing applications with the API. In the second part, you will get
-introduced to the Smart Data Models initiative. Technical Session for Local Experts in Data Sharing (LEBDs)
-
 <!-- textlint-disable write-good -->
 
 -   FIWARE in a nutshell
@@ -28,6 +24,16 @@ introduced to the Smart Data Models initiative. Technical Session for Local Expe
     -   Registrations
 -   Data Models
 
+This session consists of two parts. In the first part you will get introduced to NGSI-LD: the basic model/concept behind
+and basic operations allowing you to start developing applications with the API. In the second part, you will get
+introduced to the Smart Data Models initiative.
+
+- ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 1a - Slides File](https://www.slideshare.net/FI-WARE/fiware-training-jsonld-and-ngsild)
+- ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 1b - Slides File](https://www.slideshare.net/FI-WARE/fiware-training-ngsild-introduction)
+- ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 1c - Slides File](https://www.slideshare.net/FI-WARE/fiware-training-smart-data-models)
 
 #### 2. Advanced NGSI-LD Operations
 
@@ -44,12 +50,20 @@ introduced to the Smart Data Models initiative. Technical Session for Local Expe
 -   Connecting Data Providers
 -   Data Models
 
+This session covers advanced NGSI-LD operations beyond basic CRUD, registration and subscriptions. It also includes exercises on creating data models and connecting disparate data providers in a trusted fashion.
+
+- ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-training-ngsi-ld-advanced-operationspptx)
+
 #### 3. NGSI-LD IoT Agents & Interfacing with third-party systems
 
 [![](https://fiware.github.io/academy/img/training.jpg)](https://www.youtube.com/watch?v=H2DIGqzO62k)
 
-Session for Local Experts in Data Sharing (LEBDs), the session will explain about how to connect to legacy systems, IoT,
-etc.
+The session will explain about how to connect to legacy systems, IoT,
+etc. Also includes information on data persistence of NGSI-LD context data
+
+- ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 3 - Slides File](https://www.slideshare.net/FI-WARE/fiware-training-iot-and-legacy)
 
 #### 4. Identity and Access Management Components
 
@@ -57,3 +71,8 @@ etc.
 
 This session consists of two parts. The first part of the session will introduce you to i4Trust IAM components in detail
 while the second will introduce i4Trust Marketplace Services.
+
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 4a - Slides File](https://www.slideshare.net/FI-WARE/fiware-training-api-umbrella)
+-   ![](https://fiware.github.io/academy/img/pdf.png)
+    [Lesson 4b - Slides File](https://www.slideshare.net/FI-WARE/fiware-training-identity-management-access-control)
