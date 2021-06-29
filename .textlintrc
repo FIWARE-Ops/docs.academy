@@ -185,5 +185,8 @@
       "weasel": false,
       "so": false
     }
+  },
+  "filters": {
+    "comments": true
   }
 }
