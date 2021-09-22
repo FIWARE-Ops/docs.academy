@@ -778,3 +778,25 @@ through pipelines?
 
 This webinar not only demonstrates how to collect data in real-time, transform it, and persist it using Draco to be
 ready for further use, but it also shows how to build an end-to-end AI service with PySpark hosted in the cloud.
+
+### 36. NGSI-LD Temporal Operations
+
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
+
+-   How to use NGSI-LD 1.3.1 Temporal Functions
+-   Normalized and Simplified Temporal Formats
+-   Complex Temporal Queries
+    -   Filtering
+    -   Geo-queries
+    -   Pagination
+-   NGSI-LD 1.4.1 Temporal Aggregation Functions
+-   Time-Series vs Temporal Interface - what to use and when
+
+
+[![](https://fiware.github.io/academy/img/ngsi-ld-temporal.png)](https://www.youtube.com/watch?v=w6ymNPO-Baw "NGSI-LD Temporal Operations")
+
+NGSI-LD is all about linked data. The NGSI-v2 syntax has evolved based on the work of the ETSI standards body. This
+webinar discusses how to ensure your FIWARE components are NGSI-LD compatible, how to transition data and how to
+continue using NGSI-v2 components within an NGSI-LD architecture.
