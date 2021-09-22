@@ -797,6 +797,9 @@ ready for further use, but it also shows how to build an end-to-end AI service w
 
 [![](https://fiware.github.io/academy/img/ngsi-ld-temporal.png)](https://www.youtube.com/watch?v=w6ymNPO-Baw "NGSI-LD Temporal Operations")
 
-NGSI-LD is all about linked data. The NGSI-v2 syntax has evolved based on the work of the ETSI standards body. This
-webinar discusses how to ensure your FIWARE components are NGSI-LD compatible, how to transition data and how to
-continue using NGSI-v2 components within an NGSI-LD architecture.
+Context describes the state of a system at a moment in time. Traditionally context brokers have no memory - they are
+just holding the "now". However there are use cases which require the use of historical data and the NGSI-LD specification 
+recognizes this and offers an optional temporal API for time-based operations.
+
+This webinar will discuss the use of temporal operations, the types of payloads supported and other alternatives which may 
+be considered based on your use case.
