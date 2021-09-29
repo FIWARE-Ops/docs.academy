@@ -817,7 +817,7 @@ be considered based on your use case.
 -   Statistics and Logs
 -   iSHARE and Attribute-based Access Control 
 
-[![](https://fiware.github.io/academy/img/umbrella.png)](https://www.youtube.com/watch?v=w6ymNPO-Baw "API Umbrella")
+[![](https://fiware.github.io/academy/img/umbrella.png)](https://www.youtube.com/watch?v=BuyhK1rzHIY "API Umbrella")
 
 Access and usage control guarantees the enforcement of data access and usage policies - such policies are defined as part of the
 terms and conditions when data resources and services are published or negotiated between providers and consumers. Once defined, 
