@@ -803,3 +803,29 @@ recognizes this and offers an optional temporal API for time-based operations.
 
 This webinar will discuss the use of temporal operations, the types of payloads supported and other alternatives which may 
 be considered based on your use case.
+
+### 37. Managing Users Identities and Access Control Policies with API Umbrella
+
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://github.com/FIWARE/catalogue/blob/master/security/README.md)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#ff7059">&nbsp;★&nbsp;★&nbsp;</span>
+
+-   Overview - API Umbrella
+-   Basic PEP and PDP Functions
+-   Load Balancing
+-   Integration with Keyrock
+-   Statistics and Logs
+-   iSHARE and Attribute-based Access Control 
+
+[![](https://fiware.github.io/academy/img/umbrella.png)](https://www.youtube.com/watch?v=w6ymNPO-Baw "API Umbrella")
+
+Access and usage control guarantees the enforcement of data access and usage policies - such policies are defined as part of the
+terms and conditions when data resources and services are published or negotiated between providers and consumers. Once defined, 
+the policies must be enforced using appropriate software tools. This webinar demonstrates the potential of using API Umbrella for 
+access control across a FIWARE-based system.
+
+API Umbrella is an open source API management tool incorporating both Policy Enforcement Point and Policy Decision Point functions 
+which allows users to track and control API usage through API Keys and JSON Web Tokens. It also offers additional features such as
+rate limiting, API usage analytics and caching. During the webinar we will present the core functions of API umbrella and give examples
+on how to protect your APIs based on API Keys and tokens. Finally, we will introduce recent developments on how to manage API usage at 
+the attribute level, based on iSHARE specifications.
