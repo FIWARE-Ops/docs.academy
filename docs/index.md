@@ -21,7 +21,7 @@ In addition to the training materials for each individual enabler, two integrate
 
 <h4>Lesson 1. Introduction to FIWARE</h4>
 
-[![](https://img.youtube.com/vi/97JsnnpPLrA/0.jpg)](https://www.youtube.com/watch?v=97JsnnpPLrA "Introduction")
+[![](https://fiware.github.io/academy/img/intro.png)](https://www.youtube.com/watch?v=97JsnnpPLrA "Introduction")
 
 This video presentation is a basic introduction describing what FIWARE is, why you need it and how the elements of the
 FIWARE Catalogue can help accelerate the development of your Smart Solution.
