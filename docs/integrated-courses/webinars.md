@@ -829,3 +829,32 @@ which allows users to track and control API usage through API Keys and JSON Web 
 rate limiting, API usage analytics and caching. During the webinar we will present the core functions of API umbrella and give examples
 on how to protect your APIs based on API Keys and tokens. Finally, we will introduce recent developments on how to manage API usage at 
 the attribute level, based on iSHARE specifications.
+
+
+### 38. Language Maps and Multilanguage support in NGSI-LD
+
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
+
+-   Language Maps and why you need them
+-   NGSI-LD LanguageProperty
+-   Multi-lingual Queries and Responses
+    -   NGSI-LD Output formats
+    -   Language Tags (BCP 47)
+    -   Content Language Headers (RFC 3282)
+-   Localization and Internationalization
+    -   Dates and Currencies
+    -   Collation and Sort Order
+    -   Semantic Markup of Complex Objects
+
+[![](https://fiware.github.io/academy/img/language.png)](https://www.youtube.com/watch?v=QZIrSa7un24 "Language Maps")
+
+Smart Tourism is a growing sector of IT and an opportunity for economic growth. However what can you do if the tourists you attract
+don't speak the local language? Also many regions are multilingual and therefore require support for their own infrastructure in a 
+variety of local languages. NGSI-LD recognises underlying multi-language support is a need for many such context-driven systems and
+the current ETSI specification now offers language properties which define a standardized language support mechanism based on JSON-LD 
+syntax.
+
+This webinar will discuss the latest specification changes and go into details as to what context brokers can and cannot do, and describe
+the use of best practices for localizing and internationalizing smart data models
