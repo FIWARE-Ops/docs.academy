@@ -838,7 +838,7 @@ the attribute level, based on iSHARE specifications.
 &nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
 
 -   Language Maps and why you need them
--   NGSI-LD LanguageProperty
+-   NGSI-LD `LanguageProperty`
 -   Multi-lingual Queries and Responses
     -   NGSI-LD Output formats
     -   Language Tags (BCP 47)
