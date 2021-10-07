@@ -681,7 +681,7 @@ data sources and consumers.
     -   Registrations
     -   Subscriptions
 -   Provisioning NGSI-LD Devices:
-    -   Data Models and NGSI-LD @context
+    -   Data Models and NGSI-LD `@context`
     -   The role of metadata
     -   GeoJSON and GPS device provisioning
 -   Combining NGSI-v2 Devices with an NGSI-LD Context Broker
