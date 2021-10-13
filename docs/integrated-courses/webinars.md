@@ -865,11 +865,11 @@ the use of best practices for localizing and internationalizing smart data model
 ![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/fiware-ops.svg)
 &nbsp;&nbsp; **Difficulty:** <span style="color:#31859b">★&nbsp;★&nbsp;★&nbsp;★&nbsp;★</span>
 
--    What is MLOps?
--    Tooling for Machine Learning
--    Model & Data Monitoring
--    Continuous Integration, Deployment and Training
--    Further Experimentation and Learning
+-   What is MLOps?
+-   Tooling for Machine Learning
+-   Model & Data Monitoring
+-   Continuous Integration, Deployment and Training
+-   Further Experimentation and Learning
 
 [![](https://fiware.github.io/academy/img/mlops.png)](https://www.youtube.com/watch?v=6X9r5Kb8UIs "MLOps")
 
