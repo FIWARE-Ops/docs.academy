@@ -858,3 +858,23 @@ syntax.
 
 This webinar will discuss the latest specification changes and go into details as to what context brokers can and cannot do, and describe
 the use of best practices for localizing and internationalizing smart data models
+
+### 39. Machine learning with FIWARE and MLOps
+
+&nbsp;&nbsp;**Chapter:**
+![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/fiware-ops.svg)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#31859b">★&nbsp;★&nbsp;★&nbsp;★&nbsp;★</span>
+
+-    What is MLOps?
+-    Tooling for Machine Learning
+-    Model & Data Monitoring
+-    Continuous Integration, Deployment and Training
+-    Further Experimentation and Learning
+
+[![](https://fiware.github.io/academy/img/mlops.png)](https://www.youtube.com/watch?v=6X9r5Kb8UIs "MLOps")
+
+IoT has enabled companies to access data from billion of devices from all over the world but the full exploitation of this data has not 
+yet been achieved as AI adoption still lags. This is mainly due to the fact that 90% of Machine Learning models do not reach the production 
+stage because of a rapid decline of model performance in the industrialization phase. It is therefore necessary to provide solutions which 
+can facilitate the transition from development to production. This is where FIWARE and MLOps come in to play to provide a full platform 
+that can monitoring your data and models through different mechanisms and strategies to limit or prevent performance degradation.
