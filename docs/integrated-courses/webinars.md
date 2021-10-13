@@ -862,8 +862,8 @@ the use of best practices for localizing and internationalizing smart data model
 ### 39. Machine learning with FIWARE and MLOps
 
 &nbsp;&nbsp;**Chapter:**
-![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/fiware-ops.svg)
-&nbsp;&nbsp; **Difficulty:** <span style="color:#31859b">★&nbsp;★&nbsp;★&nbsp;★&nbsp;★</span>
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/fiware-ops.svg)](#)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#31859b">★&nbsp;★&nbsp;★&nbsp;★</span>
 
 -   What is MLOps?
 -   Tooling for Machine Learning
