@@ -16,7 +16,6 @@ into a series of the chapters as defined within the [FIWARE catalogue](https://w
 | :books: [Documentation](https://fiware-academy.rtfd.io) |
 | ------------------------------------------------------- |
 
-
 ## FIWARE Catalogue at a Glance
 
 ![](https://fiware.github.io/catalogue/img/catalogue.png)
