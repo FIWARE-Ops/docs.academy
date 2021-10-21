@@ -76,6 +76,7 @@ Here is a list of recordings separated by chapter:
 #### Operations [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/fiware-ops.svg)](#)
 
 -   [Machine learning with FIWARE and MLOps](#39-machine-learning-with-fiware-and-mlops)
+-   [Scalable deployments with FIWARE](#40-scalable-deployments-with-fiware)
 
 ### Detailed Listings
 
