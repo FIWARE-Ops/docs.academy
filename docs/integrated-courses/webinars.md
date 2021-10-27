@@ -54,19 +54,19 @@ Here is a list of recordings separated by chapter:
 
 <h5>IoT Agents</h5>
 
--  [What is an IoT Agent?](##3-what-is-an-iot-agent)
--  [How to Debug IoT Agents](#5-how-to-debug-iot-agents)
--  [NGSI-LD IoT Agents](#31-ngsi-ld-iot-agents)
--  [Customizing IoT Agents](#33-customizing-iot-agents)
+-   [What is an IoT Agent?](##3-what-is-an-iot-agent)
+-   [How to Debug IoT Agents](#5-how-to-debug-iot-agents)
+-   [NGSI-LD IoT Agents](#31-ngsi-ld-iot-agents)
+-   [Customizing IoT Agents](#33-customizing-iot-agents)
 
 <h5>Robotics</h5>
 
--  [How to Get Context Data Out of Robots](#6-how-to-get-context-data-out-of-robots)
--  [How to Develop FIWARE NGSI Interfaces for Robots](#11-how-to-develop-fiware-ngsi-interfaces-for-robots)
--  [The Use of DDS Middleware in Robotics](#16-the-use-of-dds-middleware-in-robotics)
--  [Robots and Machine Interfaces: Building Interfaces to ROS Systems](#20-robots-and-machine-interfaces-building-interfaces-to-ros-systems)
--  [FIWARE and micro-ROS: Enabling Robotics Systems on Micro-controllers](#23-fiware-and-micro-ros-enabling-robotics-systems-on-micro-controllers)
--  [Integrating Robotic Systems for Agile Manufacturing Using FIWARE](#24-integrating-robotic-systems-for-agile-manufacturing-using-fiware)
+-   [How to Get Context Data Out of Robots](#6-how-to-get-context-data-out-of-robots)
+-   [How to Develop FIWARE NGSI Interfaces for Robots](#11-how-to-develop-fiware-ngsi-interfaces-for-robots)
+-   [The Use of DDS Middleware in Robotics](#16-the-use-of-dds-middleware-in-robotics)
+-   [Robots and Machine Interfaces: Building Interfaces to ROS Systems](#20-robots-and-machine-interfaces-building-interfaces-to-ros-systems)
+-   [FIWARE and micro-ROS: Enabling Robotics Systems on Micro-controllers](#23-fiware-and-micro-ros-enabling-robotics-systems-on-micro-controllers)
+-   [Integrating Robotic Systems for Agile Manufacturing Using FIWARE](#24-integrating-robotic-systems-for-agile-manufacturing-using-fiware)
 
 #### Security [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg)](https://github.com/FIWARE/catalogue/blob/master/security/README.md)
 
