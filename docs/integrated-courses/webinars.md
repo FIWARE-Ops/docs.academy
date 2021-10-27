@@ -984,7 +984,7 @@ information on how to achieve them.
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
 &nbsp;&nbsp; **Difficulty:** <span style="color:#88a1ce">&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
 
-[![](https://fiware.github.io/academy/img/fogflow.png)](https://www.youtube.com/watch?v=WUman6Mnx58 "FogFlow")
+[![](https://fiware.github.io/academy/img/fogflow.png)](https://www.youtube.com/watch?v=D06W3t5uv94 "FogFlow")
 
 Device orchestration can be boring, repetitive and error-prone, however, FogFlow, with its novel intent-based programming
 model has turned the tables on this monotony, and created a standard-based data orchestration mechanism. It allows IoT solution
