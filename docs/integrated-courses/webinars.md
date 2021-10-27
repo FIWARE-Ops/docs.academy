@@ -33,12 +33,16 @@ Here is a list of recordings separated by chapter:
 -   [Big Data Analysis using Cosmos with Spark or Flink](#18-big-data-analysis-using-cosmos-with-spark-or-flink)
 -   [Machine Learning with Cosmos and Spark](#26-machine-learning-with-cosmos-and-spark)
 -   [End-to-end AI Solution With PySpark & Draco](#35-end-to-end-ai-solution-with-pyspark-draco)
+
 <h5>NGSI-LD</h5>
+
 -   [Introduction to NGSI-LD](#12-introduction-to-ngsi-ld)
 -   [Connecting NGSI-LD FIWARE Components](#34-connecting-ngsi-ld-fiware-components)
 -   [NGSI-LD Temporal Operations](#36-ngsi-ld-temporal-operations)
 -   [Language Maps and Multilanguage support in NGSI-LD](#38-language-maps-and-multilanguage-support-in-ngsi-ld)
+
 <h5>Smart Data Models</h5>
+
 -   [Data Modelling with NGSI](#7-data-modelling-with-ngsi)
 -   [NGSI-LD and Smart Data Models - Standardizing Access to Digital Twins](#19-ngsi-ld-and-smart-data-models-standardizing-access-to-digital-twins)
 -   [Using FIWARE Smart Data Models for Water](#22-smart-water-management-using-fiware-smart-data-models-for-water)
@@ -53,7 +57,9 @@ Here is a list of recordings separated by chapter:
 - [How to Debug IoT Agents](#5-how-to-debug-iot-agents)
 - [NGSI-LD IoT Agents](#31-ngsi-ld-iot-agents)
 - [Customizing IoT Agents](#33-customizing-iot-agents)
+
 <h5>Robotics</h5>
+
 - [How to Get Context Data Out of Robots](#6-how-to-get-context-data-out-of-robots)
 - [How to Develop FIWARE NGSI Interfaces for Robots](#11-how-to-develop-fiware-ngsi-interfaces-for-robots)
 - [The Use of DDS Middleware in Robotics](#16-the-use-of-dds-middleware-in-robotics)
