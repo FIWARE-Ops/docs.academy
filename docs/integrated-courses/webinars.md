@@ -72,6 +72,7 @@ Here is a list of recordings separated by chapter:
 -   [Monetizing your Organization's Data](http://127.0.0.1:8000/integrated-courses/webinars.html#27-monetizing-your-organizations-data)
 -   [Creating Advanced Dashboards Using Wirecloud](#28-creating-advanced-dashboards-using-wirecloud)
 -   [Monitoring Measures Using FIWARE & Grafana](#32-monitoring-measures-using-fiware-grafana)
+-   [Cloud-Edge processing with FogFlow](#41-cloud-edge-processing-with-fogflow)
 
 #### Operations [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/fiware-ops.svg)](#)
 
@@ -976,6 +977,8 @@ information on how to achieve them.
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
 &nbsp;&nbsp; **Difficulty:** <span style="color:#88a1ce">&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
 
+[![](https://fiware.github.io/academy/img/fogflow.png)](https://www.youtube.com/watch?v=WUman6Mnx58 "FogFlow")
+
 The concept of "Internet of Things" (IoT) has gained many accolades in industry and the boost in this sector has allowed
 ideas and startups to flourish and grow exponentially in the few past years, but the current approach of programming and
 managing a large number of connected things is still very much "old school" and requires lots of ad-hoc engineering effort.
@@ -989,4 +992,4 @@ FogFlow is emerging as a preferred choice within the FIWARE ecosystem to enable 
 can help to reduce the time-to-market of IoT solutions from months to days. This webinar will introduce the key features of FogFlow 
 and also showcases how to integrate FogFlow with other FIWARE Generic Enablers across a variety of use cases.
 
-[![](https://fiware.github.io/academy/img/fogflow.png)](https://www.youtube.com/watch?v=WUman6Mnx58 "FogFlow")
+
