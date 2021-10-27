@@ -986,10 +986,6 @@ information on how to achieve them.
 
 [![](https://fiware.github.io/academy/img/fogflow.png)](https://www.youtube.com/watch?v=WUman6Mnx58 "FogFlow")
 
-The concept of "Internet of Things" (IoT) has gained many accolades in industry and the boost in this sector has allowed
-ideas and startups to flourish and grow exponentially in the few past years, but the current approach of programming and
-managing a large number of connected things is still very much "old school" and requires lots of ad-hoc engineering effort.
-
 Device orchestration can be boring, repetitive and error-prone, however, FogFlow, with its novel intent-based programming
 model has turned the tables on this monotony, and created a standard-based data orchestration mechanism. It allows IoT solution
 providers to easily enable the smartness of their connected IoT devices with re-usable and extendable data processing capabilities
