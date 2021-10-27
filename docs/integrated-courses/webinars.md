@@ -53,6 +53,7 @@ Here is a list of recordings separated by chapter:
 #### IoT Agents & Robotics [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md) [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)
 
 <h5>IoT Agents</h5>
+
 - [What is an IoT Agent?](##3-what-is-an-iot-agent)
 - [How to Debug IoT Agents](#5-how-to-debug-iot-agents)
 - [NGSI-LD IoT Agents](#31-ngsi-ld-iot-agents)
