@@ -969,3 +969,24 @@ use of FIWARE.
 In this webinar, we will introduce how to plan for such scalable deployments and the environments they are running in.
 Setups, based on Kubernetes and OpenShift will be presented, together with associated performance numbers and
 information on how to achieve them.
+
+#### 41. Cloud-Edge processing with FogFlow
+
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#88a1ce">&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
+
+The concept of "Internet of Things" (IoT) has gained many accolades in industry and the boost in this sector has allowed
+ideas and startups to flourish and grow exponentially in the few past years, but the current approach of programming and
+managing a large number of connected things is still very much "old school" and requires lots of ad-hoc engineering effort.
+
+Device orchestration can be boring, repetitive and error-prone, however, FogFlow, with its novel intent-based programming
+model has turned the tables on this monotony, and created a standard-based data orchestration mechanism. It allows IoT solution
+providers to easily enable the smartness of their connected IoT devices with re-usable and extendable data processing capabilities
+that can run seamlessly on top of a cloud-edge environment.
+
+FogFlow is emerging as a preferred choice within the FIWARE ecosystem to enable cloud-edge computing and digital twins and it
+can help to reduce the time-to-market of IoT solutions from months to days. This webinar will introduce the key features of FogFlow 
+and also showcases how to integrate FogFlow with other FIWARE Generic Enablers across a variety of use cases.
+
+[![](https://fiware.github.io/academy/img/fogflow.png)](https://www.youtube.com/watch?v=WUman6Mnx58 "FogFlow")
