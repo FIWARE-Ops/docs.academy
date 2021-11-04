@@ -30,3 +30,10 @@ FIWARE Catalogue can help accelerate the development of your Smart Solution.
 [日本語字幕](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=ja)でご覧いただけます。<br/> 🇪🇸
 Este webinar está disponible con subtítulos en
 [español](https://www.youtube.com/embed/97JsnnpPLrA?cc_load_policy=1&cc_lang_pref=es).
+
+<h4>Lesson 2. FIWARE Basics</h4>
+
+[![](https://fiware.github.io/academy/img/basics.png)](https://www.youtube.com/watch?v=laDTBcLziB8 "Basics")
+
+A video presenation for a non-technical audience describing the terminology used in FIWARE, explaining the benefits in
+using open standards and demystifying the terms used by software developers.

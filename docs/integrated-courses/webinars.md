@@ -23,6 +23,7 @@ Here is a list of recordings separated by chapter:
 -   [FIWARE Vision and Value Proposition for a Smart Future](#15-fiware-vision-and-value-proposition-for-a-smart-future)
 -   [Turning Organizations Into Smart Organizations](#21-turning-organizations-into-smart-organizations)
 -   [Choosing Open Source Licenses for FIWARE Components](#29-choosing-open-source-licenses-for-fiware-components)
+-   [FIWARE Basics, understanding the terminology](#42-fiware-basics-understanding-the-terminology)
 
 #### Core Context Management [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
 
@@ -986,13 +987,37 @@ information on how to achieve them.
 
 [![](https://fiware.github.io/academy/img/fogflow.png)](https://www.youtube.com/watch?v=D06W3t5uv94 "FogFlow")
 
-Device orchestration can be boring, repetitive and error-prone, however, FogFlow, with its novel intent-based programming
-model has turned the tables on this monotony, and created a standard-based data orchestration mechanism. It allows IoT solution
-providers to easily enable the smartness of their connected IoT devices with re-usable and extendable data processing capabilities
-that can run seamlessly on top of a cloud-edge environment.
+Device orchestration can be boring, repetitive and error-prone, however, FogFlow, with its novel intent-based
+programming model has turned the tables on this monotony, and created a standard-based data orchestration mechanism. It
+allows IoT solution providers to easily enable the smartness of their connected IoT devices with re-usable and
+extendable data processing capabilities that can run seamlessly on top of a cloud-edge environment.
 
-FogFlow is emerging as a preferred choice within the FIWARE ecosystem to enable cloud-edge computing and digital twins and it
-can help to reduce the time-to-market of IoT solutions from months to days. This webinar will introduce the key features of FogFlow 
-and also showcases how to integrate FogFlow with other FIWARE Generic Enablers across a variety of use cases.
+FogFlow is emerging as a preferred choice within the FIWARE ecosystem to enable cloud-edge computing and digital twins
+and it can help to reduce the time-to-market of IoT solutions from months to days. This webinar will introduce the key
+features of FogFlow and also showcases how to integrate FogFlow with other FIWARE Generic Enablers across a variety of
+use cases.
 
+#### 42. FIWARE Basics, understanding the terminology
 
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg)](https://www.fiware.org/developers/catalogue/)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#000000">&nbsp;★</span>
+
+-   What is FIWARE?
+-   The role of the FIWARE Foundation
+-   Standards, Interfaces and Interoperability
+-   Developer Terminology
+    -   REST
+    -   JSON
+    -   Linked Data
+    -   NGSI-v2 & NGSI-LD
+-   Standards within Security and Data Sharing
+
+[![](https://fiware.github.io/academy/img/basics.png)](https://www.youtube.com/watch?v=laDTBcLziB8 "Basics")
+
+Do you know what an "API" is? Ever wondered what makes it "open"?
+
+Every profession has its own jargon and software engineering is no exception.
+
+The aim of this webinar is to demystify the terminology surrounding FIWARE for a non-technical audience and explain why
+developers find it so easy to use.
