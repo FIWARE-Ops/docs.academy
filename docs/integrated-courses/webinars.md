@@ -24,6 +24,7 @@ Here is a list of recordings separated by chapter:
 -   [Turning Organizations Into Smart Organizations](#21-turning-organizations-into-smart-organizations)
 -   [Choosing Open Source Licenses for FIWARE Components](#29-choosing-open-source-licenses-for-fiware-components)
 -   [FIWARE Basics, understanding the terminology](#42-fiware-basics-understanding-the-terminology)
+-   [Passing the FIWARE Experts Exam](#43-passing-the-fiware-experts-exam)
 
 #### Core Context Management [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
 
@@ -1021,3 +1022,31 @@ Every profession has its own jargon and software engineering is no exception.
 
 The aim of this webinar is to demystify the terminology surrounding FIWARE for a non-technical audience and explain why
 developers find it so easy to use.
+
+#### 43. Passing the FIWARE Experts Exam
+
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg)](https://www.fiware.org/developers/catalogue/)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#000000">&nbsp;★&nbsp;★&nbsp;★</span>
+
+-   Background and History of the Examination
+-   The role of the Examiners, Marking and Grading
+-   Mock Examination
+    -   Body of Work
+    -   NGSI Interfaces
+    -   FIWARE Catalogue
+    -   Architectural Scenario
+    -   FIWARE Ready Devices
+-   Conclusions and Opportunities for certified FIWARE Experts
+
+[![](https://fiware.github.io/academy/img/experts.png)](https://www.youtube.com/watch?v=6_JLn-69Z_8 "Experts")
+
+As an emerging technology, the FIWARE ecosystem has a growing need to be able to identify those principle developers who
+fully understand its core concepts(such as NGSI-v2 and NGSI-LD interfaces and other FIWARE fundamentals) and are able to
+create intelligent Smart Solutions which leverage the technology to the best effect.
+
+A comprehensive examination process for identifying expertise in FIWARE was launched three years ago, and the number of
+registered FIWARE experts has been growing ever since.
+
+The webinar provides a walkthrough of the examination process and explains how it is run, and is designed to help
+candidates understand the level of answers needed in order to pass with flying colours.
