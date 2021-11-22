@@ -30,13 +30,13 @@ also presents some practical examples of developing a simple chat widget using t
 <h4>Lesson 1. Introduction</h4>
 This presentation introduces the WireCloud framework, its architecture and APIs.
 
--   <a href="https://wirecloud.readthedocs.io/en/latest/slides/1.1_Introduction.html">![](https://fiware.github.io/academy/img/doc.svg)
+-   <a href="https://wirecloud.readthedocs.io/en/stable/slides/1.1_Introduction.html">![](https://fiware.github.io/academy/img/doc.svg)
     Lesson 1.1 - Slides File</a>
 
 This presentation shows how WireCloud is related to other FIWARE Generic Enablers, how to integrate them and what kind
 of applications can be created
 
--   <a href="https://wirecloud.readthedocs.io/en/latest/slides/1.2_Integration%20with%20other%20GEs.html">![](https://fiware.github.io/academy/img/doc.svg)
+-   <a href="https://wirecloud.readthedocs.io/en/stable/slides/1.2_Integration%20with%20other%20GEs.html">![](https://fiware.github.io/academy/img/doc.svg)
     Lesson 1.2 - Slides File</a>
 
 <h4>Lesson 2. WireCloud for end-users</h4>
@@ -44,7 +44,7 @@ of applications can be created
 In this section you will learn how to use WireCloud from the point of view of a end user. That is, you will learn how to
 create and manage dashboards using WireCloud.
 
--   <a href="https://wirecloud.readthedocs.io/en/latest/slides/2.3_End-user%20exercises.html">![](https://fiware.github.io/academy/img/doc.svg)
+-   <a href="https://wirecloud.readthedocs.io/en/stable/slides/2.3_End-user%20exercises.html">![](https://fiware.github.io/academy/img/doc.svg)
     Lesson 2.3 - Slides File</a>
 
 <h4> Lesson 3. WireCloud for component developers</h4>
