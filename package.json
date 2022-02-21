@@ -1,6 +1,6 @@
 {
 	"name": "fiware-academy",
-	"version": "7.5.1",
+	"version": "8.2.0",
 	"description": "Video tutorials, slide decks and other training materials for developers learning about the FIWARE ecosystem.",
 	"keywords": [
 		"node",
@@ -14,41 +14,37 @@
 		"type": "git",
 		"url": "https://github.com/fiware/academy"
 	},
+	"homepage": "https://fiware-academy.readthedocs.io/en/latest/",
 	"devDependencies": {
-		"eslint": "^7.5.0",
-		"eslint-config-tamia": "^7.2.5",
-		"eslint-plugin-prettier": "^3.1.4",
-		"husky": "^4.2.5",
-		"lint-staged": "^10.2.11",
-		"memfs": "3.2.0",
-		"prettier": "^2.0.5",
-		"remark-cli": "^8.0.1",
-		"remark-preset-lint-recommended": "^4.0.1",
-		"textlint": "^11.7.6",
+		"eslint": "^8.9.0",
+		"eslint-config-tamia": "^7.2.7",
+		"eslint-plugin-prettier": "^4.0.0",
+		"husky": "^7.0.4",
+		"lint-staged": "^12.3.4",
+		"memfs": "3.4.1",
+		"prettier": "^2.5.1",
+		"remark-cli": "^10.0.1",
+		"remark-preset-lint-recommended": "^6.1.2",
+		"textlint": "^12.1.0",
 		"textlint-filter-rule-comments": "^1.2.2",
 		"textlint-rule-common-misspellings": "^1.0.1",
-		"textlint-rule-terminology": "^2.1.4",
-		"textlint-rule-write-good": "^1.6.2"
+		"textlint-rule-terminology": "^2.1.5",
+		"textlint-rule-write-good": "^2.0.0"
 	},
 	"engines": {
-		"node": ">=8.6"
+		"node": ">=12"
 	},
 	"scripts": {
 		"start": "mkdocs serve",
-		"precommit": "lint-staged",
+		"pre-commit": "lint-staged",
 		"lint:text": "textlint  'README.md' 'docs/*.md'  'docs/**/*.md'",
 		"lint:md": "remark -f 'README.md' 'docs'",
-		"prettier:text": "prettier 'README.md' 'docs/*.md'  'docs/**/*.md' --no-config --tab-width 4 --print-width 120 --write --prose-wrap always"
-	},
-	"husky": {
-		"hooks": {
-			"pre-commit": "lint-staged"
-		}
+		"prettier:text": "prettier 'README.md' 'docs/*.md'  'docs/**/*.md' --no-config --tab-width 4 --print-width 120 --write --prose-wrap always",
+		"prepare": "husky install"
 	},
 	"lint-staged": {
 		"*.md": [
-			"prettier  --no-config --tab-width 4 --print-width 120 --write --prose-wrap always",
-			"git add"
+			"prettier  --no-config --tab-width 4 --print-width 120 --write --prose-wrap always"
 		]
 	},
 	"remarkConfig": {
