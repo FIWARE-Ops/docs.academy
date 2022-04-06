@@ -34,7 +34,7 @@ Here is a list of recordings separated by chapter:
 -   [Blockchain/DLT Integration with FIWARE](#17-blockchaindlt-integration-with-fiware)
 -   [Big Data Analysis using Cosmos with Spark or Flink](#18-big-data-analysis-using-cosmos-with-spark-or-flink)
 -   [Machine Learning with Cosmos and Spark](#26-machine-learning-with-cosmos-and-spark)
--   [End-to-end AI Solution With PySpark & Draco](#35-end-to-end-ai-solution-with-pyspark-draco)
+-   [End-to-end AI Solution With PySpark & Draco](#35-end-to-end-ai-solution-with-pyspark--draco)
 
 <h5>NGSI-LD</h5>
 
@@ -42,15 +42,17 @@ Here is a list of recordings separated by chapter:
 -   [Connecting NGSI-LD FIWARE Components](#34-connecting-ngsi-ld-fiware-components)
 -   [NGSI-LD Temporal Operations](#36-ngsi-ld-temporal-operations)
 -   [Language Maps and Multilanguage support in NGSI-LD](#38-language-maps-and-multilanguage-support-in-ngsi-ld)
+-   [NGSI-LD Concise Payloads and Merge Patch Operations](#45-ngsi-ld-concise-payloads-and-merge-patch-operations)
 
 <h5>Smart Data Models</h5>
 
 -   [Data Modelling with NGSI](#7-data-modelling-with-ngsi)
--   [NGSI-LD and Smart Data Models - Standardizing Access to Digital Twins](#19-ngsi-ld-and-smart-data-models-standardizing-access-to-digital-twins)
--   [Using FIWARE Smart Data Models for Water](#22-smart-water-management-using-fiware-smart-data-models-for-water)
--   [Cities as Enablers of the Data Economy - Smart Data Models for Cities](#25-cities-as-enablers-of-the-data-economy-smart-data-models-for-cities)
+-   [NGSI-LD and Smart Data Models - Standardizing Access to Digital Twins](#19-ngsi-ld-and-smart-data-models---standardizing-access-to-digital-twins)
+-   [Using FIWARE Smart Data Models for Water](#22-smart-water-management---using-fiware-smart-data-models-for-water)
+-   [Cities as Enablers of the Data Economy - Smart Data Models for Cities](#25-cities-as-enablers-of-the-data-economy---smart-data-models-for-cities)
 -   [Adopting Common Smart Data Models for Smart Cities](#30a-adopting-common-smart-data-models-for-smart-cities)
 -   [India Urban Data Exchange](#30b-india-urban-data-exchange)
+-   [Managing Data Models and Exposing Digital Twins](#44-managing-data-models-and-exposing-digital-twins)
 
 #### IoT Agents & Robotics [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg)](https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md) [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg)](https://github.com/FIWARE/catalogue/blob/master/robotics/README.md)
 
@@ -80,7 +82,7 @@ Here is a list of recordings separated by chapter:
 
 -   [Monetizing your Organization's Data](http://127.0.0.1:8000/integrated-courses/webinars.html#27-monetizing-your-organizations-data)
 -   [Creating Advanced Dashboards Using Wirecloud](#28-creating-advanced-dashboards-using-wirecloud)
--   [Monitoring Measures Using FIWARE & Grafana](#32-monitoring-measures-using-fiware-grafana)
+-   [Monitoring Measures Using FIWARE & Grafana](#32-monitoring-measures-using-fiware--grafana)
 -   [Cloud-Edge processing with FogFlow](#41-cloud-edge-processing-with-fogflow)
 
 #### Operations [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/fiware-ops.svg)](#)
@@ -1050,3 +1052,66 @@ registered FIWARE experts has been growing ever since.
 
 The webinar provides a walkthrough of the examination process and explains how it is run, and is designed to help
 candidates understand the level of answers needed in order to pass with flying colours.
+
+#### 44. Managing Data Models and Exposing Digital Twins
+
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg)](https://www.fiware.org/developers/catalogue/)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#000000">&nbsp;★</span>
+
+-   FIWARE iHubs - local and global
+-   Structure and Use of NGSI-LD to deal with Complexity
+-   Data Models as a "common language"
+-   Building a simple sensor model
+-   Controlling actions of Digital Twins
+-   Capabilities defined in AAS (Asset Administrative Shell)
+
+[![](https://fiware.github.io/academy/img/beyond-ngsi-ld.png)](https://www.youtube.com/watch?v=6_JLn-69Z_8 "Beyond NGSI-LD")
+
+NGSI-LD has proved its relevance and efficiency to address technical interoperability challenges in many sectors and use cases
+implemented through FIWARE components, but we need new tools and approaches to go further towards semantic interoperability and 
+controlled interactions with heterogeneous stakeholders, including human beings who have no idea of what an API is.
+
+The Asset Administration Shell (AAS) is a key concept to support digital twins implementation following the vision of the German 
+Plattform I4.0 initiative, and can contribute to a better exploitation of Machine-to-Machine interactions and also an improved 
+understanding of the digitized assets for people who may have a deep knowledge of own their businesses opportunities and constraints
+but little API experience.
+
+In this webinar, we’ll discover how the French FIWARE iHub Faubourg Numérique has built up tools and methodologies based on NGSI-LD
+data models and the AAS concept to better engage and support SMEs and local governments in their digital innovations and transformations.
+Concrete use cases and demos in environmental monitoring and industrial robotics among others, will illustrate data modeling and 
+capabilities definitions with the help of a GUI-based “powered by FIWARE” solution.
+
+#### 45. NGSI-LD Concise Payloads and Merge Patch Operations
+
+&nbsp;&nbsp;**Chapter:**
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">&nbsp;★&nbsp;★&nbsp;</span>
+
+-   NGSI-LD payload formats
+    -   Normalized
+    -   Simplified (Key-Value pairs)
+    -   Concise
+-   Context broker operations and supported HTTP Methods in Orion-LD:
+    -   GET, POST, DELETE, PATCH, PUT, OPTIONS
+-   PATCH Operations Deep Dive:
+    -   Partial Update
+    -   Merge
+    -   Use of JSON Literal `null`
+    -   Architectural Scenario
+    -   FIWARE Ready Devices
+
+[![](https://fiware.github.io/academy/img/concise-merge-patch.png)](https://www.youtube.com/watch?v=6_JLn-69Z_8 "Concise Payloads and Merge Patch")
+
+As NGSI-LD becomes more established, the needs of its user base become ever more diverse. Whether moving into data sharing
+or robotics, growing customer need dictates that context brokers must keep up with consumer demand and be able to offer
+prototypical versions of novel features for assessment and use. 
+
+The aim of this webinar is to showcase some experimental features of the Orion-LD context broker showing how its syntax,
+transports and endpoints can be adapted. These changes can then be contributed to the ETSI CIM committee for further
+discussion to achieve common operational consensus across brokers and specification changes made offering the potential
+to broaden the uptake of the official NGSI-LD API itself.
+
+Learn how concise payloads and merge-patch updates have been provisionally integrated into the Orion-LD context broker
+providing an opportunity of innovation before standardization and how to start to use these new features and how to avoid
+incompatibility clashes against the solid core of the NSGI-LD standard.
