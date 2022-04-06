@@ -1066,7 +1066,7 @@ candidates understand the level of answers needed in order to pass with flying c
 -   Controlling actions of Digital Twins
 -   Capabilities defined in AAS (Asset Administrative Shell)
 
-[![](https://fiware.github.io/academy/img/beyond-ngsi-ld.png)](https://www.youtube.com/watch?v=6_JLn-69Z_8 "Beyond NGSI-LD")
+[![](https://fiware.github.io/academy/img/beyond-ngsi-ld.png)](https://www.youtube.com/watch?v=42dNh1VM7n4 "Beyond NGSI-LD")
 
 NGSI-LD has proved its relevance and efficiency to address technical interoperability challenges in many sectors and use cases
 implemented through FIWARE components, but we need new tools and approaches to go further towards semantic interoperability and 
@@ -1101,7 +1101,7 @@ capabilities definitions with the help of a GUI-based “powered by FIWARE” so
     -   Architectural Scenario
     -   FIWARE Ready Devices
 
-[![](https://fiware.github.io/academy/img/concise-merge-patch.png)](https://www.youtube.com/watch?v=6_JLn-69Z_8 "Concise Payloads and Merge Patch")
+[![](https://fiware.github.io/academy/img/concise-merge-patch.png)](https://www.youtube.com/watch?v=-XPGyM7K_kU "Concise Payloads and Merge Patch")
 
 As NGSI-LD becomes more established, the needs of its user base become ever more diverse. Whether moving into data sharing
 or robotics, growing customer need dictates that context brokers must keep up with consumer demand and be able to offer
