@@ -13,9 +13,9 @@ Foundation. As you well know, the Internet has been changing over the years we'v
 applications through to much more complex and rich ecosystem the idea that you can have interaction with your business
 to business or things like social media you would have been completely unknown 5-10 years ago and you can see that the
 amount of information we are getting is increasing all the time we've gone from simple b2b moving up to actually getting
-people to talk to each other over the the web, explain what they're doing and what-have-you and now it's a situation
-where machines, devices, robots are able to talk to the internet explain what is going on and this is the idea behind
-smart life.
+people to talk to each other over the web, explain what they're doing and what-have-you and now it's a situation where
+machines, devices, robots are able to talk to the internet explain what is going on and this is the idea behind smart
+life.
 
 The background to all these things is _"context data"_. Context data describes what is going on where when and why. The
 way I prefer to describe it is that there are three vital questions you need to ask any device or any context entity and
@@ -55,31 +55,31 @@ have tankers, you could have the amount of space and a gas tank and so on and so
 multiple domains.
 
 So what's the concept of FIWARE? What if there were a standard API for accessing context information? A universal
-standard for context context information. You will have a situation where if you are supplying data in a neutral
-standard, you could have two separate cities (both of these cities happen to have a FIWARE web-based solution) who are
-offering their data to third parties, which would then be able to know that the data is in a standard format. So if you,
-in this case you're trying to solve the _"final mile problem"_ where you don't know where to go because you don't know
-where the parking spaces are or if parking spaces could be defined in a vendor-neutral standard, it doesn't matter what
-the low-level sensors are - whether they're different in these two cities - it means that you have an overall idea of
-this is how things are overall in this system - so that when your mobile phone goes to one of these two cities, you can
-say, okay, switching on where the car parking spaces - tell me what's going on. You can also get a situation where we
-don't care within FIWARE what the low level IoT protocol is being used. There are different competing IoT platforms
-which have got perfectly valid reasons to exist, because they might be low energy, they might be specific to domains,
-they might be solving a specific problem, however, if you can have an overriding context data layer above it - then you
-can get things like this one API call which we've got on the top of the screen - saying we can get data by just having
-stuff on a well-known endpoint - v2 - entities - slash - then the name of the entity itself, its ID, followed by the
-rest of the information. So this is getting the present sensor value of that lamp1 - this URL is part of the NGSI v2
-definition, which is an open API specification for context data. The whole point being that you can use this standard,
-so you will be able to retrieve values from a sensor. We're just making a GET request which is obviously very simple if
-you're a web developer. Similarly if you want to actuate devices it's just simply a PUT request. It's not difficult to
-get these sort of things to happen, we can just switch on a water sprinkler by doing again an NGSI call using HTTP -
-just a standard PUT HTTP verb, and it's got a well-known URL saying for this particular attribute, of that particular
-entity, change that value. So activation becomes a side-effect effectively of just changing whatever we're doing with
-the end user interface. it means you have a very simple API. if we have this situation where you have a common context
-layer, you are able to interchange the information around the system quite easily, and you are reducing the silos within
-our system. So you have a situation where you can have common authorization policies, you can have possibilities of
-selling your data (if you wish) because you'll be doing it from the NGSI standards to whatever data standard you're
-using for monetization.
+standard for context information. You will have a situation where if you are supplying data in a neutral standard, you
+could have two separate cities (both of these cities happen to have a FIWARE web-based solution) who are offering their
+data to third parties, which would then be able to know that the data is in a standard format. So if you, in this case
+you're trying to solve the _"final mile problem"_ where you don't know where to go because you don't know where the
+parking spaces are or if parking spaces could be defined in a vendor-neutral standard, it doesn't matter what the
+low-level sensors are - whether they're different in these two cities - it means that you have an overall idea of this
+is how things are overall in this system - so that when your mobile phone goes to one of these two cities, you can say,
+okay, switching on where the car parking spaces - tell me what's going on. You can also get a situation where we don't
+care within FIWARE what the low level IoT protocol is being used. There are different competing IoT platforms which have
+got perfectly valid reasons to exist, because they might be low energy, they might be specific to domains, they might be
+solving a specific problem, however, if you can have an overriding context data layer above it - then you can get things
+like this one API call which we've got on the top of the screen - saying we can get data by just having stuff on a
+well-known endpoint - v2 - entities - slash - then the name of the entity itself, its ID, followed by the rest of the
+information. So this is getting the present sensor value of that lamp1 - this URL is part of the NGSI v2 definition,
+which is an open API specification for context data. The whole point being that you can use this standard, so you will
+be able to retrieve values from a sensor. We're just making a GET request which is obviously very simple if you're a web
+developer. Similarly if you want to actuate devices it's just simply a PUT request. It's not difficult to get these sort
+of things to happen, we can just switch on a water sprinkler by doing again an NGSI call using HTTP - just a standard
+PUT HTTP verb, and it's got a well-known URL saying for this particular attribute, of that particular entity, change
+that value. So activation becomes a side-effect effectively of just changing whatever we're doing with the end user
+interface. it means you have a very simple API. if we have this situation where you have a common context layer, you are
+able to interchange the information around the system quite easily, and you are reducing the silos within our system. So
+you have a situation where you can have common authorization policies, you can have possibilities of selling your data
+(if you wish) because you'll be doing it from the NGSI standards to whatever data standard you're using for
+monetization.
 
 Now the concept here has been picked up by the European Commission and we've been given a rubber stamp as one of the
 building blocks for connecting Europe facility - which means that someone out there thinks that actually this idea is
@@ -142,13 +142,13 @@ wide range and growing range of IoT platforms which are supported. So this is ou
 the IoT level in other words we stay on top. We also have the ability to get data out of stream information video
 information this is the Kurento component. with Kurento you would be able to retrieve a video stream and then look into
 the images so that you can actually get some context data out of it. It also does a large number of other elements which
-are not strictly speaking context data related, but within our our system you'd want to get context in and out of your
-data. With any of these systems you want to be able to display and then activate the system and one of the components
-here is called Wirecloud. Wirecloud is a mash-up visualization tool which reads the the data from the NGSI format and
-then puts it out in whichever graphically pleasing method you want. You're able to add in additional custom widgets as
-necessary, so that and you can share them as well, so that you can get the data in the right format, so you can make the
-right analysis. Another more extensive tool is Knowage, this is a business intelligence suite, which again you're able
-to retrieve the data and do a wide range of queries based on what is the state of our smart system. Furthermore, we are
+are not strictly speaking context data related, but within our system you'd want to get context in and out of your data.
+With any of these systems you want to be able to display and then activate the system and one of the components here is
+called Wirecloud. Wirecloud is a mash-up visualization tool which reads the data from the NGSI format and then puts it
+out in whichever graphically pleasing method you want. You're able to add in additional custom widgets as necessary, so
+that and you can share them as well, so that you can get the data in the right format, so you can make the right
+analysis. Another more extensive tool is Knowage, this is a business intelligence suite, which again you're able to
+retrieve the data and do a wide range of queries based on what is the state of our smart system. Furthermore, we are
 able to connect to big data - as you would expect you're able to extract out data and put it into some sort of system
 for big data analysis. You may well be in a situation where you want to be able to sell the your data. Your data is
 valuable, and obviously you need to have sovereignty on it, and you need to be able to make money as necessary, and give
@@ -169,7 +169,12 @@ this GET request be allowed through?""_ and then once information is being passe
 the business framework to talk to CKAN. CKQN would then also request the information saying _"is this OK? am I really
 allowed to send this out?"_ and then pass the information on. So you can see that the various components we have are
 able to talk amongst themselves to cover the scenarios which are required of it. We have a series of developer
-information on our website - if there any questions beyond the the webinar today the answer is usually on fiware.org.
+
+<!-- textlint-disable -->
+
+information on our website - if there any questions beyond the webinar today the answer is usually on fiware.org.
+
+<!-- textlint-enable -->
 
 Now for our reference architecture - we take that five box system - obviously deployment is not necessary for these
 architecture, and again you have the context broker there in the middle - which is receiving data from the data
@@ -183,16 +188,16 @@ an overall view of the context, not just or not necessarily just what's in the d
 reference architecture is very similar depending on which system you are looking at. There are various examples of
 systems out there which are already using FIWARE. they are already _"FIWARE ready"_. This is an example in the cities
 domain which is a _"FIWARE ready"_ solution which is able to retrieve noise information - obviously that would then be
-changed in NGSI and it will be pushed pushed on the screen in an appropriate manner - again you've got visualization
-it's the same thing. You have other examples of FIWARE, which would be say, using industry or preventative maintenance -
-once again you have elements which are things like GPS or you have devices in the in the vehicle which would then be
-able to pass that as context information up to the system and you do appropriate processing. Similarly there are
-elements in the agricultural domain where you could have a collar around the an animal and that once again would give
-you information using the say the sigfox IoT agent which passes information up into the context data . You'd know where
-your animals are, even how they are feeling and you are protecting your assets. ... and again another one - with the
-idea of trying to make sure that your information in the silo is passed into the system it's a method of analyzing grain
-silos to see how much it is left in there and it's just purely battery-powered ... and there's more stuff at the FIWARE
-health domain as well. You can see that we are covering a wide range of areas. We can also use FIWARE as the basis of a
+changed in NGSI and it will be pushed on the screen in an appropriate manner - again you've got visualization it's the
+same thing. You have other examples of FIWARE, which would be say, using industry or preventative maintenance - once
+again you have elements which are things like GPS or you have devices in the in the vehicle which would then be able to
+pass that as context information up to the system and you do appropriate processing. Similarly there are elements in the
+agricultural domain where you could have a collar around the an animal and that once again would give you information
+using the say the sigfox IoT agent which passes information up into the context data . You'd know where your animals
+are, even how they are feeling and you are protecting your assets. ... and again another one - with the idea of trying
+to make sure that your information in the silo is passed into the system it's a method of analyzing grain silos to see
+how much it is left in there and it's just purely battery-powered ... and there's more stuff at the FIWARE health domain
+as well. You can see that we are covering a wide range of areas. We can also use FIWARE as the basis of a
 system-of-systems approach because we are able to retrieve information from other contexts brokers - as information
 which is relevant for my entity - so I can augment my entity with information from other systems. So we can take
 information from, say a silo, a pest management system and so on and so forth to come up with an overall integrated
@@ -213,7 +218,13 @@ users. We offer a marketplace which is usable for any system which is _"powered 
 _"Powered by FIWARE"_ means that you've got something using the context broker. _"FIWARE ready"_ means that you're able
 to connect to the context broker. You can see that solutions are able to go end-to-end, but you're also able to offer
 information about devices, so you can say, this device will plug into any FIWARE solution. And of course you can also
+
+<!-- textlint-disable -->
+
 offer training or consultancy services and so on and so forth. There is also the FIWARE lab. It is a experimental area
+
+<!-- textlint-enable -->
+
 where you can actually upload and fiddle around with your architecture for free and we have another area called FIWARE
 Mundus which is doing things worldwide and there are a series of FIWARE iHubs where you can get technical information
 local to you and we have accelerator program. In summary, there are six areas - the overall mission is to create this
