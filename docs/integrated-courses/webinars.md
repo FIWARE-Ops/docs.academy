@@ -1132,9 +1132,11 @@ incompatibility clashes against the solid core of the NSGI-LD standard.
 
 [![](https://fiware.github.io/academy/img/argo.png)](https://www.youtube.com/watch?v=IIN5d2Mco9A "Argo Workflows")
 
-IoT has enabled companies to access data from billion of devices from all over the world but the full exploitation of
-this data has not yet been achieved as AI adoption still lags. This is mainly due to the fact that 90% of Machine
-Learning models do not reach the production stage because of a rapid decline of model performance in the
-industrialization phase. It is therefore necessary to provide solutions which can facilitate the transition from
-development to production. This is where FIWARE and MLOps come in to play to provide a full platform that can monitoring
-your data and models through different mechanisms and strategies to limit or prevent performance degradation.
+MLOps is trend which has emerged to facilitate the industrialization of AI models. It consists of implementing DevOps 
+practices within a Machine Learning project. MLOps is a set of best practices to manage the AI models and data lifecycle.
+
+The aim of this webinar is to present a methodology for implementing MLOps at scale within a Kubernetes architecture by 
+leveraging FIWARE interfaces.
+
+Learn how to create and manage Machine Learning pipelines with Argo Workflow. This talk will also showcase all the benefits 
+of using CI/CD to automate AI models deployment into a production environment.
