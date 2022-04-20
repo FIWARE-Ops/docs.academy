@@ -89,6 +89,7 @@ Here is a list of recordings separated by chapter:
 
 -   [Machine learning with FIWARE and MLOps](#39-machine-learning-with-fiware-and-mlops)
 -   [Scalable deployments with FIWARE](#40-scalable-deployments-with-fiware)
+-   [Extending FIWARE MLOps using Argo Workflows](#46-extending-fiware-mlops-using-argo-workflows)
 
 ### Detailed Listings
 
@@ -1115,3 +1116,25 @@ to broaden the uptake of the official NGSI-LD API itself.
 Learn how concise payloads and merge-patch updates have been provisionally integrated into the Orion-LD context broker
 providing an opportunity of innovation before standardization and how to start to use these new features and how to avoid
 incompatibility clashes against the solid core of the NSGI-LD standard.
+
+
+#### 46. Extending FIWARE MLOps using Argo Workflows
+
+&nbsp;&nbsp;**Chapter:** [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/fiware-ops.svg)](#)
+&nbsp;&nbsp; **Difficulty:** <span style="color:#31859b">★&nbsp;★&nbsp;★&nbsp;★</span>
+
+-   Background to MLOps
+-   Tooling for Machine Learning
+-   Use of FIWARE within MLOps
+-   Use of Argo Workflows
+-   Verta AI monitioring
+-   Continuous Training, Continuous Integration, Continuous Development
+
+[![](https://fiware.github.io/academy/img/argo.png)](https://www.youtube.com/watch?v=IIN5d2Mco9A "Argo Workflows")
+
+IoT has enabled companies to access data from billion of devices from all over the world but the full exploitation of
+this data has not yet been achieved as AI adoption still lags. This is mainly due to the fact that 90% of Machine
+Learning models do not reach the production stage because of a rapid decline of model performance in the
+industrialization phase. It is therefore necessary to provide solutions which can facilitate the transition from
+development to production. This is where FIWARE and MLOps come in to play to provide a full platform that can monitoring
+your data and models through different mechanisms and strategies to limit or prevent performance degradation.
