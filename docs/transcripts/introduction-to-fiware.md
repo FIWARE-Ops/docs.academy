@@ -1,8 +1,9 @@
 <h2>Introduction to FIWARE</h2>
 
-Good morning everybody. My name is Jason Fox, I'm the senior Technical Evangelist at the FIWARE Foundation and the
-subject of today's webinar is an overview to FIWARE itself. It assumes no prior knowledge of FIWARE and will introduce
-all the concepts you need to know.
+<p><a href="https://www.youtube.com/watch?v=97JsnnpPLrA"><img style="text-align: center" src="https://fiware.github.io/academy/img/intro.png"></a></p>
+
+Good morning everybody. The subject of today's webinar is an overview to FIWARE itself. It assumes no prior knowledge of 
+FIWARE and will introduce all the concepts you need to know.
 
 The learning goals for this particular session are as follows: you will try to understand what is context data in the
 realms of FIWARE; how is context data used within smart applications and how can FIWARE help; what is NGSI - it's a term
