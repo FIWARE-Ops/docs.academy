@@ -975,8 +975,9 @@ continue using NGSI-v2 components within an NGSI-LD architecture.
 ### 35. End-to-end AI Solution With PySpark & Draco
 
 &nbsp;&nbsp;**Chapter:**
-
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
+<a href="https://github.com/FIWARE/catalogue/blob/master/processingREADME.md">
+    <img style="margin-bottom: 0px;" src="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg"/>
+</a>
 &nbsp;&nbsp; **Difficulty:** <span style="color:#88a1ce">&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
 
 -   Managing Real-Time Context Data
@@ -1129,7 +1130,10 @@ information on how to achieve them.
 
 ### 41. Cloud-Edge processing with FogFlow
 
-&nbsp;&nbsp;**Chapter:** [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg)](https://github.com/FIWARE/catalogue/blob/master/processing/README.md)
+&nbsp;&nbsp;**Chapter:**
+<a href="https://github.com/FIWARE/catalogue/blob/master/processingREADME.md">
+    <img style="margin-bottom: 0px;" src="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg"/>
+</a>
 &nbsp;&nbsp; **Difficulty:** <span style="color:#88a1ce">&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
 
 <p><a href="https://www.youtube.com/watch?v=D06W3t5uv94"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/fogflow.png"></a></p>
