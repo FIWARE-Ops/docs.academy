@@ -87,10 +87,11 @@ Interfacing with the Internet of Things (IoT), Robots and third-party systems, f
 
 <h5>IoT Agents</h5>
 
--   [What is an IoT Agent?](##3-what-is-an-iot-agent)
+-   [What is an IoT Agent?](#3-what-is-an-iot-agent)
 -   [How to Debug IoT Agents](#5-how-to-debug-iot-agents)
 -   [NGSI-LD IoT Agents](#31-ngsi-ld-iot-agents)
 -   [Customizing IoT Agents](#33-customizing-iot-agents)
+-   [IoT Agent Gateways](#48-iot-agent-gateways-using-the-iota-tangle-for-secure-data-transfer)
 
 <h5>Robotics</h5>
 
@@ -100,6 +101,7 @@ Interfacing with the Internet of Things (IoT), Robots and third-party systems, f
 -   [Robots and Machine Interfaces: Building Interfaces to ROS Systems](#20-robots-and-machine-interfaces-building-interfaces-to-ros-systems)
 -   [FIWARE and micro-ROS: Enabling Robotics Systems on Micro-controllers](#23-fiware-and-micro-ros-enabling-robotics-systems-on-micro-controllers)
 -   [Integrating Robotic Systems for Agile Manufacturing Using FIWARE](#24-integrating-robotic-systems-for-agile-manufacturing-using-fiware)
+-   [Monitoring and Supervision of robotic systems using FIWARE and ROS 2](#47--monitoring-and-supervision-of-robotic-systems-using-fiware-and-ros-2)
 
 ---
 
@@ -1386,3 +1388,65 @@ leveraging FIWARE interfaces.
 
 Learn how to create and manage Machine Learning pipelines with Argo Workflow. This talk will also showcase all the benefits 
 of using CI/CD to automate AI models deployment into a production environment.
+
+---
+
+### 47.  Monitoring and Supervision of robotic systems using FIWARE and ROS 2
+
+&nbsp;&nbsp;**Chapter:**
+<a href="https://github.com/FIWARE/catalogue/blob/master/robotics/README.md">
+    <img style="margin-bottom: 0px;" src="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg"/>
+</a>
+    &nbsp;&nbsp; **Difficulty:** <span style="color:#5dc0cf">★&nbsp;★&nbsp;★</span>
+
+-   Essential background concepts - FIWARE and ROS2 
+-   Archiectural Approach
+    -    `iot-agent-node-lib`
+    -    IoT Agent for JSON
+    -    `rclnodejs` library   .
+-   Demo: Turtle Sim
+
+<p><a href="https://www.youtube.com/watch?v=qDMljIidA6k"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/iotagent-ros2.png"></a></p>
+
+FIWARE can be found in many industrial systems and in this webinar, Francisco Melendez (the FIWARE Foundation's in-house technical expert 
+on robotics) will share with you the secrets behind implementing a ROS2 IoT Agent, and how to potentially extend this methodology to other 
+industrial robotics systems.
+
+There will also be a live demonstration how to monitor and supervise ROS 2 systems using FIWARE and the TurtleSim.
+
+---
+
+### 48. IoT Agent Gateways Using the IOTA Tangle for Secure Data Transfer
+
+&nbsp;&nbsp;**Chapter:**
+<a href="https://github.com/FIWARE/catalogue/blob/master/iot-agents/README.md">
+    <img style="margin-bottom: 0px;" src="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg"/>
+</a>
+&nbsp;&nbsp; **Difficulty:** <span style="color:#5dc0cf">&nbsp;★&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
+
+-   Review of IoT Agent Transport Binding Architectures: 
+    -   HTTP, MQTT, LoRaWAN, OPC-UA, ROS2 etc.
+-   What is the IOTA Tangle?
+    -   Potential Use Cases with FIWARE.
+    -   Anti-Patterns.
+-   Deep Dive: Creating a FIWARE-IOTA Binding :
+    -   Sensor Measurements (Northbound)
+    -   Actuation Commands (Southbound)
+    -   Actuation Command Acknowledgements (Northbound)
+    -   Gateway Bindings (Northbound + Southbound)
+-   Architectural Paradigms for Novel Data Transports
+
+<p><a href="https://www.youtube.com/watch?v=qDMljIidA6k"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/tangle.png"></a></p>
+
+Within the FIWARE Ecosystem, IoT Agents are used to ensure that devices can send their data to, and be managed from a 
+Context Broker using their own native protocols. There is no restrictions on the transport layer to be used for these communications, 
+it could be anything from HTTP to MQTT to OPC-UA to LoRaWAN and more.
+
+For example, IOTA is an open-source data communication protocol and zero-fee micro-transaction system utilising distributed ledger 
+technology. This allows participants in the IOTA network (“the Tangle”) to securely and immutably encrypt, transfer and store data. 
+
+The aim of this webinar is to demonstrate how create a gateway component for an IoT Agent and how connect to devices securely using 
+the IOTA Tangle, using it as a single source of truth and trust in data. Additionally discussing how to pick the most appropriate transport 
+for your use case and avoiding anti-patterns when securing IoT data.
+
+---
