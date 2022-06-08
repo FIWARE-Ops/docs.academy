@@ -1400,10 +1400,10 @@ of using CI/CD to automate AI models deployment into a production environment.
     &nbsp;&nbsp; **Difficulty:** <span style="color:#5dc0cf">★&nbsp;★&nbsp;★</span>
 
 -   Essential background concepts - FIWARE and ROS2 
--   Archiectural Approach
-    -    `iot-agent-node-lib`
-    -    IoT Agent for JSON
-    -    `rclnodejs` library   .
+-   Architectural Approach
+    -   `iot-agent-node-lib`
+    -   IoT Agent for JSON as baseline
+    -   `rclnodejs` library
 -   Demo: Turtle Sim
 
 <p><a href="https://www.youtube.com/watch?v=qDMljIidA6k"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/iotagent-ros2.png"></a></p>
@@ -1436,7 +1436,7 @@ There will also be a live demonstration how to monitor and supervise ROS 2 syste
     -   Gateway Bindings (Northbound + Southbound)
 -   Architectural Paradigms for Novel Data Transports
 
-<p><a href="https://www.youtube.com/watch?v=qDMljIidA6k"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/tangle.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=gED5mAtBtYg"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/tangle.png"></a></p>
 
 Within the FIWARE Ecosystem, IoT Agents are used to ensure that devices can send their data to, and be managed from a 
 Context Broker using their own native protocols. There is no restrictions on the transport layer to be used for these communications, 
