@@ -33,6 +33,7 @@ Introductory and general presentations on FIWARE.
 -   [Choosing Open Source Licenses for FIWARE Components](#29-choosing-open-source-licenses-for-fiware-components)
 -   [FIWARE Basics, understanding the terminology](#42-fiware-basics-understanding-the-terminology)
 -   [Passing the FIWARE Experts Exam](#43-passing-the-fiware-experts-exam)
+-   [Local Expert in B2B Data Sharing](#49-local-expert-in-b2b-data-sharing)
 
 ---
 
@@ -1448,5 +1449,38 @@ technology. This allows participants in the IOTA network (“the Tangle”) to s
 The aim of this webinar is to demonstrate how create a gateway component for an IoT Agent and how connect to devices securely using 
 the IOTA Tangle, using it as a single source of truth and trust in data. Additionally discussing how to pick the most appropriate transport 
 for your use case and avoiding anti-patterns when securing IoT data.
+
+---
+
+### 49. Local Expert in B2B Data Sharing
+
+&nbsp;&nbsp;**Chapter:**
+<a href="https://www.fiware.org/developers/catalogue/">
+    <img style="margin-bottom: 0px;" src="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/cross-chapter.svg">
+</a>
+&nbsp;&nbsp; **Difficulty:** <span style="color:#000000">&nbsp;★&nbsp;★&nbsp;★</span>
+
+-   What is an LEBDS? Background and History
+-   The role of FIWARE and iSHARE within Data Spaces
+-   The role of the Examiners, Marking and Grading
+-   Mock Examination
+    -   Body of Work
+    -   NGSI Interfaces
+    -   FIWARE Catalogue
+    -   FIWARE Ready Devices
+    -   Architectural Scenario
+-   Conclusions and Opportunities for Local Experts in B2B Data Sharing
+
+<p><a href="https://www.youtube.com/watch?v=J38N832HRjM"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/lebds.png"></a></p>
+
+Effective B2B Data Sharing relies on the agreement to use common frameworks and protocols. No new frameworks and protocols should need
+to be built when existing technologies such as FIWARE are readily available and in common use. The fundamental technologies underpinning
+the process of data sharing are the use of a common trustworthy security framework identifying participants and roles and a common 
+structured definition of payloads and protocols to be used when transferring data between trusted parties. A Local Expert in B2B Data 
+Sharing should be able to explain the need for such frameworks and deeply understand how they operate and how the network of trust and 
+interoperability is created. 
+
+The webinar explains the role and background required for a LEBDS and provides a walkthrough of the certification process and explains
+how it is run and how to study to take the exam.
 
 ---
