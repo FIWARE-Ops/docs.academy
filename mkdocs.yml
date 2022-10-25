@@ -8,7 +8,7 @@ use_directory_urls: false
 theme: readthedocs
 google_analytics: ["UA-83719923-1", 'fiware-academy.readthedocs.io']
 extra_css: ["https://www.fiware.org/style/fiware_readthedocs.css", "https://www.fiware.org/style/fiware_readthedocs_neutral.css"]
-pages:
+nav:
   - Home: 'index.md'
   - 'Integrated Courses':
     - 'FIWARE Webinars': 'integrated-courses/webinars.md'
