@@ -1484,3 +1484,56 @@ The webinar explains the role and background required for a LEBDS and provides a
 how it is run and how to study to take the exam.
 
 ---
+
+### 50. Building Real-time Inference AI Services with FIWARE
+
+&nbsp;&nbsp;**Chapter:** 
+<a href="#">
+    <img style="margin-bottom: 0px;" src="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg">
+</a>
+&nbsp;&nbsp; **Difficulty:** <span style="color:#31859b">★&nbsp;★&nbsp;★&nbsp;★</span>
+
+-   Real-time inference
+-   Managing and exchanging real-time data with the Context Broker
+-   Training an ML model with historical data 
+-   Creating a Python ML package
+-   Serving an ML model via REST API with FastAPI
+-   Implementing an end-to-end real-time inference AI service
+
+<p><a href="https://www.youtube.com/watch?v=L_IDCUE1IbA"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/ai-inference.png"></a></p>
+
+There is no point in training Machine Learning models if there is no plan to make them available for applications
+to use. In this webinar, we are going to learn how to deploy an ML model as a REST API and leverage FIWARE components
+to enable real-time AI inference. The use case covered involves getting data from different sources/organizations 
+for real-time inference with a trained ML model. 
+
+This webinar is your chance to learn the end-to-end implementation of the real-time inference AI service: ML Training, 
+Docker setup, creating a Python Package, and implementing the ML API.
+
+---
+
+### 51. Actuation, Federation and Interoperability of Context Brokers
+
+&nbsp;&nbsp;**Chapter:**
+<a href="https://github.com/FIWARE/catalogue/blob/master/core/README.md">
+    <img style="margin-bottom: 0px;" src="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg">
+</a>
+&nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">&nbsp;★&nbsp;★&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
+
+-   Advanced deployments
+-   Multi-Attributes with `datasetId`
+-   Scopes + `scopeQ` (filter based on logical hierarchies)
+-   Multitenancy `NGSILD-Tenant` header.
+-   Distributed deployments based on registrations
+    -   IoT Agents
+    -   Context Brokers
+    -   Federated deployments
+-   New distributed deployment features in NGSI-LD v1.6.1
+
+<p><a href="https://www.youtube.com/watch?v=ebk14k5dNxo"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/actuation.png"></a></p>
+
+egistration of external context sources is a fundamental principle behind the correct use of context brokers. The use of NGSI-LD expands into multiple different areas ranging from robotics to IoT to distributed data spaces. The 1.6.1 ETSI Specification has introduced new modes of registration and clarified best practices to be used across interoperable systems.
+
+Learn more about recent changes around the federation of context brokers and  the connection of context brokers with other sources of context such as IoT Agents.  Understand the correct use of datasetId for multi-attribute properties and the preferred definition of sequential actuations.
+
+---
