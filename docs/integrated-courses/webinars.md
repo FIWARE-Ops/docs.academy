@@ -53,6 +53,7 @@ Core Context Management manipulates and stores context data so it can be used fo
 -   [Big Data Analysis using Cosmos with Spark or Flink](#18-big-data-analysis-using-cosmos-with-spark-or-flink)
 -   [Machine Learning with Cosmos and Spark](#26-machine-learning-with-cosmos-and-spark)
 -   [End-to-end AI Solution With PySpark & Draco](#35-end-to-end-ai-solution-with-pyspark--draco)
+-   [Building Real-time Inference AI Services with FIWARE](#50-building-real-time-inference-ai-services-with-fiware)
 
 <h5>NGSI-LD</h5>
 
@@ -61,6 +62,7 @@ Core Context Management manipulates and stores context data so it can be used fo
 -   [NGSI-LD Temporal Operations](#36-ngsi-ld-temporal-operations)
 -   [Language Maps and Multilanguage support in NGSI-LD](#38-language-maps-and-multilanguage-support-in-ngsi-ld)
 -   [NGSI-LD Concise Payloads and Merge Patch Operations](#45-ngsi-ld-concise-payloads-and-merge-patch-operations)
+-   [Actuation, Federation and Interoperability of Context Brokers](#51-actuation-federation-and-interoperability-of-context-brokers)
 
 <h5>Smart Data Models</h5>
 
@@ -1487,11 +1489,11 @@ how it is run and how to study to take the exam.
 
 ### 50. Building Real-time Inference AI Services with FIWARE
 
-&nbsp;&nbsp;**Chapter:** 
-<a href="#">
-    <img style="margin-bottom: 0px;" src="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg">
+&nbsp;&nbsp;**Chapter:**
+<a href="https://github.com/FIWARE/catalogue/blob/master/core/README.md">
+    <img style="margin-bottom: 0px;" src="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg">
 </a>
-&nbsp;&nbsp; **Difficulty:** <span style="color:#31859b">★&nbsp;★&nbsp;★&nbsp;★</span>
+&nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">&nbsp;★&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
 
 -   Real-time inference
 -   Managing and exchanging real-time data with the Context Broker
