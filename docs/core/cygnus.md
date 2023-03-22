@@ -11,7 +11,7 @@ powerful and scalable directed graphs of data routing, transformation, and syste
 automate the flow of data between systems. While the term 'dataflow' can be used in a variety of contexts, we use it
 here to mean the automated and managed flow of information between systems.
 
-![](https://fiware.github.io/academy/img/books.png) [Documentation](https://fiware-cygnus.rtfd.io)
+![](https://fiware-ops.github.io/docs.academy/img/books.png) [Documentation](https://fiware-cygnus.rtfd.io)
 
 <h3>Academy Courses</h3>
 
@@ -20,8 +20,8 @@ here to mean the automated and managed flow of information between systems.
 By following this course, you will learn about Cygnus, our connector able to create historics from Orion context data.
 FAQ, architecture, basic and advanced configuration, and detailed sink catalogue.
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
-    [Lesson 1 - introduction to Cygnus](https://fiware.github.io/academy/cygnus/cygnus1.pdf)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
+    [Lesson 1 - introduction to Cygnus](https://fiware-ops.github.io/docs.academy/cygnus/cygnus1.pdf)
 
 <h4>Lesson 2. Persisting to HDFS using Cygnus</h4>
 

@@ -21,7 +21,7 @@ In addition to the training materials for each individual enabler, two integrate
 
 <h4>Lesson 1. Introduction to FIWARE</h4>
 
-[![](https://fiware.github.io/academy/img/intro.png)](https://www.youtube.com/watch?v=97JsnnpPLrA "Introduction")
+[![](https://fiware-ops.github.io/docs.academy/img/intro.png)](https://www.youtube.com/watch?v=97JsnnpPLrA "Introduction")
 
 This video presentation is a basic introduction describing what FIWARE is, why you need it and how the elements of the
 FIWARE Catalogue can help accelerate the development of your Smart Solution.
@@ -33,7 +33,7 @@ Este webinar está disponible con subtítulos en
 
 <h4>Lesson 2. FIWARE Basics</h4>
 
-[![](https://fiware.github.io/academy/img/basics.png)](https://www.youtube.com/watch?v=laDTBcLziB8 "Basics")
+[![](https://fiware-ops.github.io/docs.academy/img/basics.png)](https://www.youtube.com/watch?v=laDTBcLziB8 "Basics")
 
 A video presenation for a non-technical audience describing the terminology used in FIWARE, explaining the benefits in
 using open standards and demystifying the terms used by software developers.

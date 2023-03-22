@@ -12,7 +12,7 @@ visualization features.
 -   [CKAN API Guide](https://docs.ckan.org/en/latest/api/index.html)
 -   [CKAN Sysadmin guide](https://docs.ckan.org/en/latest/sysadmin-guide.html)
 
-![](https://fiware.github.io/academy/img/books.png) [Documentation](https://fiware-ckan-extensions.rtfd.io/)
+![](https://fiware-ops.github.io/docs.academy/img/books.png) [Documentation](https://fiware-ckan-extensions.rtfd.io/)
 
 <h3>Academy Courses</h3>
 

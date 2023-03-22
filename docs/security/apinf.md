@@ -8,7 +8,7 @@ integrates with FIWARE core technologies, such as Identity Management, NGSI v2 a
 Umbrella to offer a comprehensive toolset to let various API Owners to run business with their APIs. Public market place
 is one of the essential GUI tools to help API Owners to reach their customer with the showcase.
 
-![](https://fiware.github.io/academy/img/books.png)
+![](https://fiware-ops.github.io/docs.academy/img/books.png)
 [Documentation](https://github.com/apinf/platform/blob/develop/README.md)
 
 <h3>Academy Courses</h3>

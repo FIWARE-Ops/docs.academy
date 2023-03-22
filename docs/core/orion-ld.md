@@ -11,7 +11,7 @@ for the management and requesting context of information in a structured manner 
 the NGSI-LD specification. Orion-LD is more suitable for smaller installations or possibly in embedded environments - it
 currentlys supports only a subset of the standard NGSI-LD endpoints.
 
-![](https://fiware.github.io/academy/img/books.png)
+![](https://fiware-ops.github.io/docs.academy/img/books.png)
 [Documentation](https://github.com/FIWARE/context.Orion-LD/tree/develop/doc/manuals-ld)
 
 <h3>Step-by-Step Tutorials</h3>

@@ -11,7 +11,7 @@ from offering creation to its charging, accounting and revenue settlement and sh
 Ecosystem provides sellers the means for managing, publishing, and generating revenue of they products, apps, data, and
 services.
 
-![](https://fiware.github.io/academy/img/books.png) [Documentation](https://business-api-ecosystem.rtfd.io/)
+![](https://fiware-ops.github.io/docs.academy/img/books.png) [Documentation](https://business-api-ecosystem.rtfd.io/)
 
 <h3>Academy Courses</h3>
 
@@ -22,16 +22,16 @@ done with it. In this regard, this topic includes documentation about the Busine
 architecture, its relationships with other GE, and the basic user
 <a title="Configuration" href="https://edu.fiware.org/mod/url/view.php?id=989">configuration</a> settings
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=993">![](https://fiware.github.io/academy/img/doc.svg)Introduction</a>
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=993">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Introduction</a>
 
 These slides describe the Business API Ecosystem features and its architecture
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=973">![](https://fiware.github.io/academy/img/doc.svg)Profile
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=973">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Profile
     Configuration</a>
 
 These slides include the different options available to users for configuring their profile and personal information
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=1036">![](https://fiware.github.io/academy/img/doc.svg)Publishing
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=1036">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Publishing
     context information as Open Data and supporting an Economy of Data</a>
 
 Publishing context information as Open Data and supporting an Economy of Data session given in the FIWARE Summit'16.
@@ -44,32 +44,32 @@ This topic is intended for sellers that want to monetize their apps, data or ser
 The current topic explains the different steps that have to be carried out to create catalogs, products and offerings,
 manage received orders, and deal with revenue sharing features
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=956">![](https://fiware.github.io/academy/img/doc.svg)Catalog
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=956">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Catalog
     Management</a>
 
 These slides explain the process for creating and updating catalogs from the point of view of a seller
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=960">![](https://fiware.github.io/academy/img/doc.svg)Product
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=960">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Product
     Specification Management</a>
 
 These slides describe the interactions of sellers in order to list, create, and update product specifications
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=961">![](https://fiware.github.io/academy/img/doc.svg)Product
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=961">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Product
     Offering Management</a>
 
 These slides show the process followed by a seller for listing, creating, and updating product offerings
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=963">![](https://fiware.github.io/academy/img/doc.svg)Received
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=963">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Received
     Orders Management</a>
 
 These slides show the different actions that can be carried out by a seller for managing its received product orders
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=964">![](https://fiware.github.io/academy/img/doc.svg)Revenue
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=964">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Revenue
     Sharing Models Management</a>
 
 These slides include the process followed by a seller in order to list, create, and update her revenue sharing models
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=965">![](https://fiware.github.io/academy/img/doc.svg)Transactions
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=965">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Transactions
     Management</a>
 
 These slides includes the steps done by a seller in order to list its pending transactions and generate a revenue
@@ -82,23 +82,23 @@ particular, this topic contains documentation about acquisitions, order manageme
 <a title="Acquired Products Management" href="https://edu.fiware.org/mod/url/view.php?id=970">acquired products
 management</a> (including subscription and usage renewals).
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=968">![](https://fiware.github.io/academy/img/doc.svg)Offering
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=968">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Offering
     Search</a>
 
 These slides document how to search and filter the available offerings from the point of view of a customer
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=969">![](https://fiware.github.io/academy/img/doc.svg)Order
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=969">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Order
     Creation</a>
 
 These slides show the process followed by a customer in order to create an order for acquiring offerings
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=970">![](https://fiware.github.io/academy/img/doc.svg)Acquired
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=970">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Acquired
     Products Management</a>
 
 These slides include the different steps that can be carried out by a customer for listing and managing its acquired
 products
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=972">![](https://fiware.github.io/academy/img/doc.svg)Manage
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=972">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Manage
     Requested Orders</a>
 
 These slides show the actions that can be carried out by a customer to manage its requested orders.
@@ -113,29 +113,29 @@ usage of the admin-specific sections of the portal
 -   To properly follow the contents included in this topic it is required some basic knowledge of Linux systems and
     systems administration
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=974">![](https://fiware.github.io/academy/img/doc.svg)Categories
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=974">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Categories
     Management</a>
 
 These slides document the different steps done by an admin in order to list, create, and update product categories
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=992">![](https://fiware.github.io/academy/img/doc.svg)Asset
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=992">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Asset
     Plugins Management</a>
 
 These slides show how asset plugins can be installed, listed, and removed by an admin
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=988">![](https://fiware.github.io/academy/img/doc.svg)Installation</a>
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=988">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Installation</a>
 
 These slides explain the process followed by an admin to install an instance of the Business API Ecosystem
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=989">![](https://fiware.github.io/academy/img/doc.svg)Configuration</a>
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=989">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Configuration</a>
 
 These slides show the concepts needed for configuring a new instance of the Business API Ecosystem
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=991">![](https://fiware.github.io/academy/img/doc.svg)Running</a>
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=991">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Running</a>
 
 These slides explain how to run the Business API Ecosystem
 
--   <a href="https://edu.fiware.org/mod/url/view.php?id=990">![](https://fiware.github.io/academy/img/doc.svg)Diagnosis
+-   <a href="https://edu.fiware.org/mod/url/view.php?id=990">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Diagnosis
     Procedures</a>
 
 These slides include the sanity checks and the diganosis procedures to help admins verifying the
@@ -149,9 +149,9 @@ structure, existing events, and data models
 
 -   To properly follow this topic it is required some knowledge on Python programming
 
-*   <a href="https://fiware.github.io/academy/biz-ecosystem/API-Specification.pdf">![](https://fiware.github.io/academy/img/pdf.png)API
+*   <a href="https://fiware-ops.github.io/docs.academy/biz-ecosystem/API-Specification.pdf">![](https://fiware-ops.github.io/docs.academy/img/pdf.png)API
     Specification File</a> This document includes the reference of the REST API, including the possible interactions and
     the managed objects
 
-*   <a href="https://edu.fiware.org/mod/url/view.php?id=987">![](https://fiware.github.io/academy/img/doc.svg)Plugins
+*   <a href="https://edu.fiware.org/mod/url/view.php?id=987">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Plugins
     Development</a> These slides include the different concepts that are needed for creating a new asset plugin

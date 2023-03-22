@@ -9,7 +9,7 @@ The QuantumLeap Generic Enabler focuses on persisting historical context data in
 reference to maintaining a scalable architecture and compatibility with visualization tools such as
 [Grafana](https://www.grafana.com/)
 
-![](https://fiware.github.io/academy/img/books.png) [Documentation](https://quantumleap.rtfd.io/)
+![](https://fiware-ops.github.io/docs.academy/img/books.png) [Documentation](https://quantumleap.rtfd.io/)
 
 <h3>Step-by-Step Tutorials</h3>
 

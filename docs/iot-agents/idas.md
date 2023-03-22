@@ -20,7 +20,7 @@ do not need this component if your devices or gateways natively support the NGSI
 -   [IoT Agent for LightWeight Machine2Machine](https://fiware-iotagent-lwm2m.rtfd.io)
 -   [IoT Agent for OPC UA](https://iotagent-opcua.rtfd.io)
 
-![](https://fiware.github.io/academy/img/books.png) [IoT Agent Framework Library](https://iotagent-node-lib.rtfd.io)
+![](https://fiware-ops.github.io/docs.academy/img/books.png) [IoT Agent Framework Library](https://iotagent-node-lib.rtfd.io)
 
 <h3>Academy Courses</h3>
 
@@ -32,12 +32,12 @@ Introduction to IoT and IoT Agents. Training at Madrid Developers Week 2015.
 
 <h4>Lesson 2. Connecting IoT Devices</h4>
 
--   <a href="https://www.slideshare.net/FI-WARE/fiware-iotidasintroul20v2">![](https://fiware.github.io/academy/img/doc.svg)Connecting
+-   <a href="https://www.slideshare.net/FI-WARE/fiware-iotidasintroul20v2">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Connecting
     IoT Devices to FIWARE</a>
 
 <h4>Lesson 3. UltraLight 2.0</h4>
 
--   <a href="https://www.slideshare.net/FI-WARE/io-t-basicexercisesdevelopersweek">![](https://fiware.github.io/academy/img/doc.svg)Autoevaluation
+-   <a href="https://www.slideshare.net/FI-WARE/io-t-basicexercisesdevelopersweek">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)Autoevaluation
     Exercises for UL2.0 Devices</a>
 
 <h4>Lesson 4. OMA Lightweight M2M</h4>
@@ -48,17 +48,17 @@ This video presentation explains how to connect to the internet of Things using 
 
 <h4>Lesson 5. JSON</h4>
 
--   <a href="https://github.com/telefonicaid/iotagent-json/blob/master/docs/stepbystep.md">![](https://fiware.github.io/academy/img/doc.svg)How
+-   <a href="https://github.com/telefonicaid/iotagent-json/blob/master/docs/stepbystep.md">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)How
     to connect the IoT Agent for JSON</a>
 
 <h4>Lesson 6. LoRaWAN</h4>
 
--   <a href="https://github.com/Atos-Research-and-Innovation/IoTagent-LoRaWAN/blob/master/docs/tutorialStm32TTN.md">![](https://fiware.github.io/academy/img/doc.svg)How
+-   <a href="https://github.com/Atos-Research-and-Innovation/IoTagent-LoRaWAN/blob/master/docs/tutorialStm32TTN.md">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)How
     to connect the IoT Agent for LoRaWAN</a>
 
 <h4>Lesson 7. OPC-UA</h4>
 
--   <a href="https://iotagent-opcua.readthedocs.io/en/latest/opc_ua_agent_tutorial/index.html">![](https://fiware.github.io/academy/img/doc.svg)How
+-   <a href="https://iotagent-opcua.readthedocs.io/en/latest/opc_ua_agent_tutorial/index.html">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)How
     to connect the OPC-UA IoT Agent</a>
 
 <h3>Step-by-Step Tutorials</h3>

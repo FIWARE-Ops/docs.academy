@@ -173,12 +173,12 @@ publication
 -   What is the FIWARE Marketplace?
 -   What is the role of the FIWARE Foundation?
 
-<p><a href="https://www.youtube.com/watch?v=97JsnnpPLrA"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/intro.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=97JsnnpPLrA"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/intro.png"></a></p>
 
 This video presentation is a basic introduction describing what FIWARE is, why you need it and how the elements of the
 FIWARE Catalogue can help accelerate the development of your Smart Solution.
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 1 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-overview)
 
 <small>
@@ -213,10 +213,10 @@ disponible avec sous-titres en
 -   How to register other sources as context data
 -   How to subscribe to changes in context
 
-<p><a href="https://www.youtube.com/watch?v=pK4GgYjlmdY"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/core-context.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=pK4GgYjlmdY"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/core-context.png"></a></p>
 
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-core-context-management)
 
 <small>
@@ -251,9 +251,9 @@ interface, registrations, subscription etc.
 -   How can I configure an IoT Agent over HTTP?
 -   How can I configure an IoT Agent over MQTT?
 
-<p><a href="https://www.youtube.com/watch?v=my6Kgiqx-OM"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/iot-agents.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=my6Kgiqx-OM"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/iot-agents.png"></a></p>
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 3 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-iot-agends)
 
 This video presentation shows how to connect IoT Devices to the Context Broker using an IoT Agent and how to ensure your
@@ -282,10 +282,10 @@ device is _FIWARE Ready_.
 -   What is a PDP and when will I need one?
 -   What terms such as RBAC, PBAC and XACML mean and how are they used?
 
-<p><a href="https://www.youtube.com/watch?v=SP0zFdTybA4"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/security.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=SP0zFdTybA4"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/security.png"></a></p>
 
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 4 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-secure-fiware-architectures)
 
 This video presentation shows how to add Identity Management and Access Control elements to your FIWARE Architecture by
@@ -312,10 +312,10 @@ using the Generic Enablers from the Security Chapter.
 -   Adding diagnostic debug
 -   Where to look for help and advice
 
-<p><a href="https://www.youtube.com/watch?v=FRqJsywi9e8"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/iotagent-debug.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=FRqJsywi9e8"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/iotagent-debug.png"></a></p>
 
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 5 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-debug-iot-agents)
 
 This video presentation shows how to connect devices to processing enablers via an IoT Agent and the context broker,
@@ -336,9 +336,9 @@ what can go wrong when trying to wire up the system. How to diagnose problems an
 -   What is a Robotic System?
 -   How to get/put context data out from/into robotic systems?
 
-<p><a href="https://www.youtube.com/watch?v=T8XV6Wah9l4"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/robots-1.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=T8XV6Wah9l4"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/robots-1.png"></a></p>
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 6 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-get-context-data-out-of-robots)
 
 This video presentation shows how to retrieve context data and actuate robots
@@ -363,9 +363,9 @@ This video presentation shows how to retrieve context data and actuate robots
 -   **NGSI-LD** : Relationships, properties and `@context`
 -   Practical use cases in Smart City and Smart Agriculture
 
-<p><a href="https://www.youtube.com/watch?v=T_1DpKf6C_c"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/data-models-1.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=T_1DpKf6C_c"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/data-models-1.png"></a></p>
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 7 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-design-datamodels)
 
 This video presentation shows how to design and apply Standard NGSI Data Models.
@@ -386,9 +386,9 @@ This video presentation shows how to design and apply Standard NGSI Data Models.
 -   Which FIWARE components are available to deal with the persistence of context data?
 -   Why do context brokers not offer a data persistence function of their own?
 
-<p><a href="https://www.youtube.com/watch?v=_uLZDGFPlRA"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/data-persistence.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=_uLZDGFPlRA"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/data-persistence.png"></a></p>
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 8 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-strategies-for-context-data-persistence)
 
 Introduction to the data persistence components found within the FIWARE Catalogue and various options on how to maintain
@@ -414,10 +414,10 @@ a historical record of context when a context broker has no memory.
 -   What options exist to create a trend graph?
 -   Introduction to the NGSI-LD temporal interface
 
-<p><a href="https://www.youtube.com/watch?v=fX_YAc7G4Dk"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/short-term-history.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=fX_YAc7G4Dk"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/short-term-history.png"></a></p>
 
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 9 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-short-term-history-within-smart-systems)
 
 This webinar shows how to utilise times series components and monitor and display trends within FIWARE applications
@@ -444,9 +444,9 @@ This webinar shows how to utilise times series components and monitor and displa
     -   What options do I have with other protocols?
 -   What is a PEP Proxy and how can I use one to protect services and device?s
 
-<p><a href="https://www.youtube.com/watch?v=_87IZhrYo3U"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/secure-devices.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=_87IZhrYo3U"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/secure-devices.png"></a></p>
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 10 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-secure-iot-devices/FI-WARE/fiware-wednesday-webinars-how-to-secure-iot-devices)
 
 Live coding session and commentary, demonstrating various techniques and methods for securing the interactions between
@@ -475,9 +475,9 @@ Devices, IoT Agents, and the Context Broker.
     -   ROS, ROS2, OPC-UA and DDS
 -   Use Cases in Smart Industry
 
-<p><a href="https://www.youtube.com/watch?v=m5JWxlMMuqk"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/robots-2.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=m5JWxlMMuqk"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/robots-2.png"></a></p>
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 11 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-how-to-develop-fiware-ngsi-interfaces-for-robots/FI-WARE/fiware-wednesday-webinars-how-to-develop-fiware-ngsi-interfaces-for-robots)
 
 This webinar presents different alternatives for developing FIWARE-Ready robots and the main FIWARE components that can
@@ -509,11 +509,11 @@ facilitate/empower these developments.
 -   Using Compaction/Expansion operations on NGSI-LD data
 -   Navigating the `@graph`
 
-<p><a href="https://www.youtube.com/watch?v=rZ13IyLpAtA"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/ngsi-ld-1.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=rZ13IyLpAtA"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/ngsi-ld-1.png"></a></p>
 
 A data-model driven and linked data first introduction for developers to NGSI-LD and JSON-LD.
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 12 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-introduction-to-ngsild-236464309)
     
 ---
@@ -535,12 +535,12 @@ A data-model driven and linked data first introduction for developers to NGSI-LD
     -   Data Marketplace
     -   Marketplace of Plug & Play AI / Big Data Services
 
-<p><a href="https://www.youtube.com/watch?v=REoJA7yxJ_0"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/future.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=REoJA7yxJ_0"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/future.png"></a></p>
 
 An in-depth look at where FIWARE is going next and integrates with blockchain and distributed ledger technologies,
 Artificial Intelligence or Robotics.
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 13 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-building-the-future-236139127)
 
 ---
@@ -553,12 +553,12 @@ Artificial Intelligence or Robotics.
 </a>
 &nbsp;&nbsp; **Difficulty:** <span style="color:#000000">★ ★</span>
 
-<p><a href="https://www.youtube.com/watch?v=pTkZk4VF0gY"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/architecting.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=pTkZk4VF0gY"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/architecting.png"></a></p>
 
 Learn how Smart Solutions solving a particular challenge are architected with FIWARE. This webinar is supported by use
 cases.
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 14 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-architecting-your-smart-solution-powered-by-fiware)
 
 ---
@@ -575,11 +575,11 @@ cases.
 -   Building _"Powered by FIWARE"_ Solutions
 -   FIWARE: Going beyond the technology
 
-<p><a href="https://www.youtube.com/watch?v=7ZMUYEWD1gw"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/fiware-vision.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=7ZMUYEWD1gw"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/fiware-vision.png"></a></p>
 
 A broad overview of the value proposition of FIWARE and its position in a Smart Digital Future.
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 15 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-fiware-vision-and-value-proposition)
 
 ---
@@ -599,14 +599,14 @@ A broad overview of the value proposition of FIWARE and its position in a Smart 
     -   What is new?
 -   XRCE-DDS & Micro-ROS
 
-<p><a href="https://www.youtube.com/watch?v=OQYBJJ5ydto"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/robots-3.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=OQYBJJ5ydto"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/robots-3.png"></a></p>
 
 An introduction to core real-time technologies: FAST DDS, the most complete Open Source DDS for ROS 2, and Micro
 XRCE-DDS, the middleware for microcontrollers, and micro-ROS.
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 16.1 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-the-use-of-dds-middleware-in-robotics-part-1)
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 16.2 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-the-use-of-dds-middleware-in-robotics-part-2)
 
 ---
@@ -624,13 +624,13 @@ XRCE-DDS, the middleware for microcontrollers, and micro-ROS.
     -   Agri-Food Supply Chain Demo
 -   Upcoming DLT Components and Research
 
-<p><a href="https://www.youtube.com/watch?v=ITSxtlCmNhQ"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/blockchain.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=ITSxtlCmNhQ"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/blockchain.png"></a></p>
 
 This webinar will be an introduction to Blockchain and how FIWARE can be integrated with Blockchain/DLTs with a demo. In
 addition, it will also explain upcoming DLT components in the FIWARE ecosystem and an idea/state of art to leverage DLTs
 in 'Powered by FIWARE' systems.
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 17 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-integrating-fiware-with-blockchaindlts)
 
 ---
@@ -643,11 +643,11 @@ in 'Powered by FIWARE' systems.
 </a>
 &nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★&nbsp;★</span>
 
-<p><a href="https://www.youtube.com/watch?v=n6XN89VSZNg"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/big-data-1.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=n6XN89VSZNg"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/big-data-1.png"></a></p>
 
 Performing Big Data Analysis Using Cosmos With Spark or Flink - 8
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 18 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-performing-big-data-analysis-using-cosmos-with-spark-or-flink)
 
 ---
@@ -660,11 +660,11 @@ Performing Big Data Analysis Using Cosmos With Spark or Flink - 8
 </a>
 &nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
 
-<p><a href="https://www.youtube.com/watch?v=MBx23ypORLk"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/data-models-2.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=MBx23ypORLk"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/data-models-2.png"></a></p>
 
 Understanding the basis of context information management, NGSI-LD and smart Data Models
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 19 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-ngsild-and-smart-data-models-standard-access-to-digital-twin-data)
 
 ---
@@ -685,11 +685,11 @@ Understanding the basis of context information management, NGSI-LD and smart Dat
 -   FIWARE-Side Perspective (Context Data Managementin Robotics)
     -   Simple Example: AMR in a Warehouse
 
-<p><a href="https://www.youtube.com/watch?v=a0NxSS96YzY"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/robots-4.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=a0NxSS96YzY"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/robots-4.png"></a></p>
 
 This webinar will present how to develop FIWARE NGSI Interfaces for ROS-based robots.
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 20 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-interface-with-machines-and-robots-building-interfaces-to-ros-systems)
 
 ---
@@ -702,7 +702,7 @@ This webinar will present how to develop FIWARE NGSI Interfaces for ROS-based ro
 </a>
 &nbsp;&nbsp; **Difficulty:** <span style="color:#000000">★</span>
 
-<p><a href="https://www.youtube.com/watch?v=XsoXchKiKB4"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/smart-organizations.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=XsoXchKiKB4"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/smart-organizations.png"></a></p>
 
 This webinar will cover the “system of systems” approach and FIWARE transformation journey, also with the help of
 success stories.
@@ -717,7 +717,7 @@ success stories.
 </a>
 &nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★ ★</span>
 
-<p><a href="https://www.youtube.com/watch?v=QbAiLMFEQrY"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/smart-water.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=QbAiLMFEQrY"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/smart-water.png"></a></p>
 
 Using FIWARE Smart Data Models for Water.
 
@@ -737,7 +737,7 @@ Using FIWARE Smart Data Models for Water.
 -   SOSS-FIWARE
 -   Demo
 
-<p><a href="https://www.youtube.com/watch?v=XJL2_FHcils"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/robots-5.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=XJL2_FHcils"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/robots-5.png"></a></p>
 
 The aim of this webinar is to give an introduction about the existing synergies between FIWARE, ROS, and micro-ROS - the
 Robot Operating System for microcontrollers - frameworks.
@@ -763,7 +763,7 @@ overviewed.
 -   Digital Factory centered use cases.
 -   Deployment of a _"Powered by FIWARE"_ Robotics Architecture
 
-<p><a href="https://www.youtube.com/watch?v=ftxNOdwqjiQ"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/robots-6.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=ftxNOdwqjiQ"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/robots-6.png"></a></p>
 
 Robotics systems play a major role in the automation roadmap of factories that aim to beat competitors by offering small
 lot sizes of highly customized products. As standalone manufacturing assets, the contribution of robotics systems to the
@@ -789,9 +789,9 @@ integration of robots in smart factory environments.
 -   Relevance of Standardization
 -   Smart Data Models - Structure, Examples, Users and Contributors
 
-<p><a href="https://www.youtube.com/watch?v=b0EWq5E5jAc"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/smart-cities.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=b0EWq5E5jAc"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/smart-cities.png"></a></p>
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 25 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-cities-as-enablers-of-the-data-economy-smart-data-models-for-cities)
 
 ---
@@ -804,12 +804,12 @@ integration of robots in smart factory environments.
 </a>
 &nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
 
-<p><a href="https://www.youtube.com/watch?v=isugbtZWU4I"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/big-data-2.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=isugbtZWU4I"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/big-data-2.png"></a></p>
 
 This webinar presents an introduction to data engineering with FIWARE using Apache Spark ready for big data deployments.
 You will learn how to perform real-time predictions step-by-step through a real use case.
 
--   ![](https://fiware.github.io/academy/img/pdf.png)
+-   ![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     [Lesson 26 - Slides File](https://www.slideshare.net/FI-WARE/fiware-wednesday-webinars-machine-learning-with-cosmos-and-spark)
 
 ---
@@ -828,7 +828,7 @@ You will learn how to perform real-time predictions step-by-step through a real 
     -   Demo
 -   How can the Business API Ecosystem be extended to fit custom environments?
 
-<p><a href="https://www.youtube.com/watch?v=jsG7SYtP4FU"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/monetization.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=jsG7SYtP4FU"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/monetization.png"></a></p>
 
 In the digital economy, your context data has value and could be used as a potential revenue stream. Learn more about
 the FIWARE catalogue components that can be used to monetize your data easily and still maintain ownership
@@ -854,7 +854,7 @@ are highlighted and other options are also considered.
 -   How change behaviour of a dashboard
 -   How to share dashboards
 
-<p><a href="https://www.youtube.com/watch?v=LkGpx6BKbRM"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/wirecloud.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=LkGpx6BKbRM"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/wirecloud.png"></a></p>
 
 Wirecloud is a web mashup tool designed to ease the development of operational dashboards. This allows end users to
 easily create web applications and dashboards without programming skills and to visualize data of interest and control
@@ -888,7 +888,7 @@ your organization.
     -   Contributor License Agreements (CLA)
     -   Developer Certificate of Origin (DCO)
 
-<p><a href="https://www.youtube.com/watch?v=1X_kNwkkcjo"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/open-source.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=1X_kNwkkcjo"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/open-source.png"></a></p>
 
 Issues may arise when attempting to release software as Open Source, and this webinar discusses some of the decisions
 which need to be made (such as deciding which license to use) and offers a few solutions to cover some common release
@@ -915,7 +915,7 @@ processes as well as explaining the commitments that must be made when offering 
     -   New specification
     -   Other updates
 
-<p><a href="https://www.youtube.com/watch?v=dfMo0HnaIUQ"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/iudx.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=dfMo0HnaIUQ"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/iudx.png"></a></p>
 
 For this webinar, FIWARE teamed up with the India Urban Data Exchange (IUDX) Program. FIWARE Foundation and IUDX
 recently announced their collaboration toward building an Open Source platform that facilitates secure, authenticated,
@@ -931,7 +931,7 @@ and managed exchange of data amongst various data sources and consumers.
 </a>
 &nbsp;&nbsp; **Difficulty:** <span style="color:#233c68">★&nbsp;★&nbsp;★</span>
 
-<p><a href="https://www.youtube.com/watch?v=YXp822s2_n4"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/iudx.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=YXp822s2_n4"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/iudx.png"></a></p>
 
 This is the second half of the Adopting Common Smart Data Models for Smart Cities webinar, where FIWARE teamed up with
 the India Urban Data Exchange (IUDX) Program. FIWARE Foundation and IUDX recently announced their collaboration toward
@@ -959,7 +959,7 @@ data sources and consumers.
     -   GeoJSON and GPS device provisioning
 -   Combining NGSI-v2 Devices with an NGSI-LD Context Broker
 
-<p><a href="https://www.youtube.com/watch?v=XBLyMa-UBmg"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/ngsi-ld-iot-agents.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=XBLyMa-UBmg"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/ngsi-ld-iot-agents.png"></a></p>
 
 NGSI-LD support has been added to the library underpinning all of the IoT Agent so now it is simple to combine the power
 of linked data with IoT devices running the protocols of your choice. This webinar explains how to properly provision
@@ -983,7 +983,7 @@ control.
 -   Deep Dive: Filling Station Dashboard
 -   HOPU: Real-life Use Cases and Customizations with Grafana
 
-<p><a href="https://www.youtube.com/watch?v=Gaa23hC0teo"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/grafana.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=Gaa23hC0teo"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/grafana.png"></a></p>
 
 Visualisation of data is key to understanding trends and this webinar discusses how to analyse context data using common
 open source tools.
@@ -1010,7 +1010,7 @@ and customisations they have created which have already reached paying clients.
     -   IoT Agent Plugin adaptions - IoT Agent for ADAPT/ISOXML
     -   File-based Device Measure Upserts (CSV, Excel)
 
-<p><a href="https://www.youtube.com/watch?v=HuEwI8wJKFU"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/custom-iot-agents.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=HuEwI8wJKFU"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/custom-iot-agents.png"></a></p>
 
 Many common payloads and protocols are already supported by IoT Agents. However, sometimes this is not enough and it is
 necessary to create your own IoT Agent or customize an existing IoT Agent. This webinar discusses various strategies on
@@ -1035,7 +1035,7 @@ how to do this focusing on real-life use-cases from farming and water management
     -   Federations and Data Ownership
 -   Demo: Combining v2 and LD
 
-<p><a href="https://www.youtube.com/watch?v=sWa0k5GyGyw"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/combining-v2-ld.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=sWa0k5GyGyw"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/combining-v2-ld.png"></a></p>
 
 NGSI-LD is all about linked data. The NGSI-v2 syntax has evolved based on the work of the ETSI standards body. This
 webinar discusses how to ensure your FIWARE components are NGSI-LD compatible, how to transition data and how to
@@ -1059,7 +1059,7 @@ continue using NGSI-v2 components within an NGSI-LD architecture.
     -   Submitting a PySpark Job on DataProc
 -   Modelling a Machine Learning Solution on PySpark for Multi-classification
 
-<p><a href="https://www.youtube.com/watch?v=d724j7PpaVg"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/pyspark.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=d724j7PpaVg"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/pyspark.png"></a></p>
 
 Data processing is key to ensure Machine Learning models' performance. But commonly, data is collected and stored in its
 raw format, and to get insights from it, post-processing is required. What if all of this could be automated and managed
@@ -1087,7 +1087,7 @@ ready for further use, but it also shows how to build an end-to-end AI service w
 -   NGSI-LD 1.4.1 Temporal Aggregation Functions
 -   Time-Series vs Temporal Interface - what to use and when
 
-<p><a href="https://www.youtube.com/watch?v=w6ymNPO-Baw"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/ngsi-ld-temporal.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=w6ymNPO-Baw"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/ngsi-ld-temporal.png"></a></p>
 
 Context describes the state of a system at a moment in time. Traditionally context brokers have no memory - they are
 just holding the "now". However there are use cases which require the use of historical data and the NGSI-LD
@@ -1113,7 +1113,7 @@ may be considered based on your use case.
 -   Statistics and Logs
 -   iSHARE and Attribute-based Access Control
 
-<p><a href="https://www.youtube.com/watch?v=BuyhK1rzHIY"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/umbrella.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=BuyhK1rzHIY"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/umbrella.png"></a></p>
 
 Access and usage control guarantees the enforcement of data access and usage policies - such policies are defined as
 part of the terms and conditions when data resources and services are published or negotiated between providers and
@@ -1147,7 +1147,7 @@ introduce recent developments on how to manage API usage at the attribute level,
     -   Collation and Sort Order
     -   Semantic Markup of Complex Objects
 
-<p><a href="https://www.youtube.com/watch?v=QZIrSa7un24"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/language.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=QZIrSa7un24"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/language.png"></a></p>
 
 Smart Tourism is a growing sector of IT and an opportunity for economic growth. However what can you do if the tourists
 you attract don't speak the local language? Also many regions are multilingual and therefore require support for their
@@ -1174,7 +1174,7 @@ do, and describe the use of best practices for localizing and internationalizing
 -   Continuous Integration, Deployment and Training
 -   Further Experimentation and Learning
 
-<p><a href="https://www.youtube.com/watch?v=6X9r5Kb8UIs"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/mlops.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=6X9r5Kb8UIs"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/mlops.png"></a></p>
 
 IoT has enabled companies to access data from billion of devices from all over the world but the full exploitation of
 this data has not yet been achieved as AI adoption still lags. This is mainly due to the fact that 90% of Machine
@@ -1199,7 +1199,7 @@ your data and models through different mechanisms and strategies to limit or pre
 -   Scaling the Orion-LD context broker
 -   Tooling and testing
 
-<p><a href="https://www.youtube.com/watch?v=WUman6Mnx58"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/scalable.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=WUman6Mnx58"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/scalable.png"></a></p>
 
 FIWARE components offer a wide range of functionalities and opportunities. Scaling of components to high levels of
 performance, while maintaining cost efficiency and the ability to operate on the system is important in order to make
@@ -1219,7 +1219,7 @@ information on how to achieve them.
 </a>
 &nbsp;&nbsp; **Difficulty:** <span style="color:#88a1ce">&nbsp;★&nbsp;★&nbsp;★&nbsp;</span>
 
-<p><a href="https://www.youtube.com/watch?v=D06W3t5uv94"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/fogflow.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=D06W3t5uv94"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/fogflow.png"></a></p>
 
 Device orchestration can be boring, repetitive and error-prone, however, FogFlow, with its novel intent-based
 programming model has turned the tables on this monotony, and created a standard-based data orchestration mechanism. It
@@ -1251,7 +1251,7 @@ use cases.
     -   NGSI-v2 & NGSI-LD
 -   Standards within Security and Data Sharing
 
-<p><a href="https://www.youtube.com/watch?v=laDTBcLziB8"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/basics.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=laDTBcLziB8"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/basics.png"></a></p>
 
 Do you know what an "API" is? Ever wondered what makes it "open"?
 
@@ -1280,7 +1280,7 @@ developers find it so easy to use.
     -   FIWARE Ready Devices
 -   Conclusions and Opportunities for certified FIWARE Experts
 
-<p><a href="https://www.youtube.com/watch?v=6_JLn-69Z_8"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/experts.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=6_JLn-69Z_8"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/experts.png"></a></p>
 
 As an emerging technology, the FIWARE ecosystem has a growing need to be able to identify those principle developers who
 fully understand its core concepts(such as NGSI-v2 and NGSI-LD interfaces and other FIWARE fundamentals) and are able to
@@ -1309,7 +1309,7 @@ candidates understand the level of answers needed in order to pass with flying c
 -   Controlling actions of Digital Twins
 -   Capabilities defined in AAS (Asset Administrative Shell)
 
-<p><a href="https://www.youtube.com/watch?v=42dNh1VM7n4"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/beyond-ngsi-ld.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=42dNh1VM7n4"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/beyond-ngsi-ld.png"></a></p>
 
 NGSI-LD has proved its relevance and efficiency to address technical interoperability challenges in many sectors and use cases
 implemented through FIWARE components, but we need new tools and approaches to go further towards semantic interoperability and 
@@ -1348,7 +1348,7 @@ capabilities definitions with the help of a GUI-based “powered by FIWARE” so
     -   Architectural Scenario
     -   FIWARE Ready Devices
 
-<p><a href="https://www.youtube.com/watch?v=-XPGyM7K_kU"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/concise-merge-patch.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=-XPGyM7K_kU"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/concise-merge-patch.png"></a></p>
 
 As NGSI-LD becomes more established, the needs of its user base become ever more diverse. Whether moving into data sharing
 or robotics, growing customer need dictates that context brokers must keep up with consumer demand and be able to offer
@@ -1381,7 +1381,7 @@ incompatibility clashes against the solid core of the NSGI-LD standard.
 -   Verta AI monitioring
 -   Continuous Training, Continuous Integration, Continuous Development
 
-<p><a href="https://www.youtube.com/watch?v=IIN5d2Mco9A"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/argo.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=IIN5d2Mco9A"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/argo.png"></a></p>
 
 MLOps is trend which has emerged to facilitate the industrialization of AI models. It consists of implementing DevOps 
 practices within a Machine Learning project. MLOps is a set of best practices to manage the AI models and data lifecycle.
@@ -1409,7 +1409,7 @@ of using CI/CD to automate AI models deployment into a production environment.
     -   `rclnodejs` library
 -   Demo: Turtle Sim
 
-<p><a href="https://www.youtube.com/watch?v=qDMljIidA6k"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/iotagent-ros2.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=qDMljIidA6k"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/iotagent-ros2.png"></a></p>
 
 FIWARE can be found in many industrial systems and in this webinar, Francisco Melendez (the FIWARE Foundation's in-house technical expert 
 on robotics) will share with you the secrets behind implementing a ROS2 IoT Agent, and how to potentially extend this methodology to other 
@@ -1439,7 +1439,7 @@ There will also be a live demonstration how to monitor and supervise ROS 2 syste
     -   Gateway Bindings (Northbound + Southbound)
 -   Architectural Paradigms for Novel Data Transports
 
-<p><a href="https://www.youtube.com/watch?v=gED5mAtBtYg"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/tangle.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=gED5mAtBtYg"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/tangle.png"></a></p>
 
 Within the FIWARE Ecosystem, IoT Agents are used to ensure that devices can send their data to, and be managed from a 
 Context Broker using their own native protocols. There is no restrictions on the transport layer to be used for these communications, 
@@ -1473,7 +1473,7 @@ for your use case and avoiding anti-patterns when securing IoT data.
     -   Architectural Scenario
 -   Conclusions and Opportunities for Local Experts in B2B Data Sharing
 
-<p><a href="https://www.youtube.com/watch?v=J38N832HRjM"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/lebds.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=J38N832HRjM"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/lebds.png"></a></p>
 
 Effective B2B Data Sharing relies on the agreement to use common frameworks and protocols. No new frameworks and protocols should need
 to be built when existing technologies such as FIWARE are readily available and in common use. The fundamental technologies underpinning
@@ -1502,7 +1502,7 @@ how it is run and how to study to take the exam.
 -   Serving an ML model via REST API with FastAPI
 -   Implementing an end-to-end real-time inference AI service
 
-<p><a href="https://www.youtube.com/watch?v=L_IDCUE1IbA"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/ai-inference.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=L_IDCUE1IbA"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/ai-inference.png"></a></p>
 
 There is no point in training Machine Learning models if there is no plan to make them available for applications
 to use. In this webinar, we are going to learn how to deploy an ML model as a REST API and leverage FIWARE components
@@ -1532,7 +1532,7 @@ Docker setup, creating a Python Package, and implementing the ML API.
     -   Federated deployments
 -   New distributed deployment features in NGSI-LD v1.6.1
 
-<p><a href="https://www.youtube.com/watch?v=ebk14k5dNxo"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/actuation.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=ebk14k5dNxo"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/actuation.png"></a></p>
 
 egistration of external context sources is a fundamental principle behind the correct use of context brokers. The use of NGSI-LD expands into multiple different areas ranging from robotics to IoT to distributed data spaces. The 1.6.1 ETSI Specification has introduced new modes of registration and clarified best practices to be used across interoperable systems.
 

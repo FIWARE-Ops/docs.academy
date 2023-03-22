@@ -14,7 +14,7 @@ source of data) source of data) and a wide range of external systems such as MyS
 you need to process and persist context data so that you can keep a historical record. Draco can also be used to filter
 and repost context data back into Orion.
 
-![](https://fiware.github.io/academy/img/books.png) [Documentation](https://fiware-draco.rtfd.io)
+![](https://fiware-ops.github.io/docs.academy/img/books.png) [Documentation](https://fiware-draco.rtfd.io)
 
 <h3>Step-by-Step Tutorials</h3>
 

@@ -9,7 +9,7 @@ publisher-subscriber communications over unreliable transports such as UDP, as d
 Management Group (OMG) consortium. RTPS is also the wire interoperability protocol defined for the Data Distribution
 Service (DDS) standard, again by the OMG.
 
-![](https://fiware.github.io/academy/img/books.png) [Documentation](https://fast-rtps.docs.eprosima.com/en/latest/)
+![](https://fiware-ops.github.io/docs.academy/img/books.png) [Documentation](https://fast-rtps.docs.eprosima.com/en/latest/)
 
 <h3>Step-by-Step Tutorials</h3>
 

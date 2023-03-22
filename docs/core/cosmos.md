@@ -24,7 +24,7 @@ context data. These tools are:
 By following this course you will learn about Big Data fundamentals (distributed storing and computing), Map and Reduce
 basics, Hadoop and its ecosystem.
 
--   <a href="https://fiware.github.io/academy/cosmos/cosmos1.pdf">![](https://fiware.github.io/academy/img/pdf.png)
+-   <a href="https://fiware-ops.github.io/docs.academy/cosmos/cosmos1.pdf">![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     Lesson 1 - An Introduction to Big Data</a>
 
 <h4>Lesson 2. HDFS and Map Reduce</h4>
@@ -32,7 +32,7 @@ basics, Hadoop and its ecosystem.
 By following this course you will be able to use the Global Instance of Cosmos in FIWARE Lab. Basically, doing I/O with
 Web HDFS API and submitting and managing MapReduce jobs with Tidopp API.
 
--   <a href="https://fiware.github.io/academy/cosmos/cosmos2.pdf">![](https://fiware.github.io/academy/img/pdf.png)
+-   <a href="https://fiware-ops.github.io/docs.academy/cosmos/cosmos2.pdf">![](https://fiware-ops.github.io/docs.academy/img/pdf.png)
     Lesson 2 - HDFS and Map Reduce</a>
 
 <h4>Lesson 3. Big Data Analysis</h4>

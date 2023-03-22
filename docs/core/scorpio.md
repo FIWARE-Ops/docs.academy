@@ -15,7 +15,7 @@ be used – completely transparent to Context Consumers that can still use a sin
 implements the optional temporal NGSI-LD interface, so any updated context information can automatically be made
 available as history information through the temporal interface.
 
-![](https://fiware.github.io/academy/img/books.png) [Documentation](https://scorpio.rtfd.io)
+![](https://fiware-ops.github.io/docs.academy/img/books.png) [Documentation](https://scorpio.rtfd.io)
 
 <h3>Step-by-Step Tutorials</h3>
 

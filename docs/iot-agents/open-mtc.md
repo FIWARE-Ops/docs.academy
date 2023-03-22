@@ -17,7 +17,7 @@ proxy entities (IPEs).
 
 <h4>Lesson 1. An Introduction to OpenMTC</h4>
 
--   <a href="https://www.slideshare.net/FI-WARE/fiware-global-summit-openmtc-an-open-source-implementation-of-the-onem2m-standard">![](https://fiware.github.io/academy/img/doc.svg)
+-   <a href="https://www.slideshare.net/FI-WARE/fiware-global-summit-openmtc-an-open-source-implementation-of-the-onem2m-standard">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)
     OpenMTC – An Open Source Implementation of the oneM2M Standard</a>
 
 <h3>Code Examples</h3>

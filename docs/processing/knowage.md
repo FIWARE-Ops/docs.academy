@@ -20,8 +20,8 @@ and comprehensive support to rich and multi-source data analysis.
 
 This course depicts the global vision of Knowage Suite, the policy it carries out, its usage and its main features.
 
--   ![](https://fiware.github.io/academy/img/link.png)
-    [Lesson 1 - Introduction to Knowage](https://fiware.github.io/academy/knowage/course1)
+-   ![](https://fiware-ops.github.io/docs.academy/img/link.png)
+    [Lesson 1 - Introduction to Knowage](https://fiware-ops.github.io/docs.academy/knowage/course1)
 
 <h4> Lesson 2. Knowage Report Designer</h4>
 
@@ -30,8 +30,8 @@ source project embedded BIRT technology platform into its products. Precisely, K
 report designer for creating BIRT Designs while Knowage Server contains the runtime engine for generating those designs
 that can be deployed to any Java environment.
 
--   ![](https://fiware.github.io/academy/img/link.png)
-    [Lesson 2 - My First Report](https://fiware.github.io/academy/knowage/course2)
+-   ![](https://fiware-ops.github.io/docs.academy/img/link.png)
+    [Lesson 2 - My First Report](https://fiware-ops.github.io/docs.academy/knowage/course2)
 
 This course aims at offering assistance to create a simple Report with Birt. We focused the attention on crucial steps
 from installation to the development of the document and finally show how the report can be transferred on server.
@@ -43,8 +43,8 @@ analytical driver (AD) is an autonomous entity that models a business concept in
 criterion in the global data context, according to the different end user roles. LOV stands for List of Values. They
 represent the valid values for an analytical driver.
 
--   ![](https://fiware.github.io/academy/img/link.png)
-    [Lesson 3 - Parametric Report](https://fiware.github.io/academy/knowage/course3)
+-   ![](https://fiware-ops.github.io/docs.academy/img/link.png)
+    [Lesson 3 - Parametric Report](https://fiware-ops.github.io/docs.academy/knowage/course3)
 
 In this course we see how parameters can be set on analytical documents stored on Knowage Server. The delineation of
 them is realised by means of LOV and AD. We illustrate the procedure step by step, in particular we show how these two

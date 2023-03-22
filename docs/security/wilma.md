@@ -9,7 +9,7 @@ authorization security to your backend applications. Thus, only FIWARE users wil
 Enablers and other REST services. The PEP Proxy allows you to programmatially manage specific permissions and policies
 to your resources allowing different access levels to your users.
 
-![](https://fiware.github.io/academy/img/books.png) [Documentation](https://fiware-pep-proxy.rtfd.io/)
+![](https://fiware-ops.github.io/docs.academy/img/books.png) [Documentation](https://fiware-pep-proxy.rtfd.io/)
 
 <h3>Academy Courses</h3>
 <h4>Lesson 1. Introduction</h4>
@@ -18,7 +18,7 @@ This lesson introduces the main concepts needed to understand the architecture a
 
 [![](https://img.youtube.com/vi/8tGbUI18udM/0.jpg)](https://www.youtube.com/watch?v=8tGbUI18udM "Introduction")
 
--   <a href="https://www.slideshare.net/alvaroalonsogonzalez/pep-proxy-wilma-ge-lesson-1-introduction">![](https://fiware.github.io/academy/img/doc.svg)
+-   <a href="https://www.slideshare.net/alvaroalonsogonzalez/pep-proxy-wilma-ge-lesson-1-introduction">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)
     Lesson 1 - Slides</a>
 
 <h4>Lesson 2. Installing, registering and configuring Wilma</h4>
@@ -26,7 +26,7 @@ This lesson explains how to install and configure Wilma to start working with it
 
 [![](https://img.youtube.com/vi/b4sYU78skrw/0.jpg)](https://www.youtube.com/watch?v=b4sYU78skrw "Install and Register")
 
--   <a href="https://www.slideshare.net/alvaroalonsogonzalez/pep-proxy-wilma-ge-lesson-2-installing-registering-and-configuring-wilma">![](https://fiware.github.io/academy/img/doc.svg)
+-   <a href="https://www.slideshare.net/alvaroalonsogonzalez/pep-proxy-wilma-ge-lesson-2-installing-registering-and-configuring-wilma">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)
     Lesson 2 - Slides</a>
 
 <h4>Lesson 3. Securing a REST API</h4>

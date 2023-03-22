@@ -23,7 +23,7 @@ This lesson presents a introduction to the Kurento framework, architecture and k
 
 [![](https://img.youtube.com/vi/1EKV1wpz4iU/0.jpg)](https://www.youtube.com/watch?v=1EKV1wpz4iU "Introduction")
 
--   <a href="https://www.slideshare.net/slideshow/embed_code/key/NrhOiNZgJYrTGP">![](https://fiware.github.io/academy/img/doc.svg)
+-   <a href="https://www.slideshare.net/slideshow/embed_code/key/NrhOiNZgJYrTGP">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)
     Lesson 1 - Slides</a>
 
 <h4>Lesson 2. Kurento Installation Guide</h4>
@@ -31,7 +31,7 @@ This lesson shows how to install the Kurento infrastructure, i.e. the Kurento Me
 
 [![](https://img.youtube.com/vi/I-qAFViQfBk/0.jpg)](https://www.youtube.com/watch?v=I-qAFViQfBk "Installation Guide")
 
--   <a href="https://www.slideshare.net/slideshow/embed_code/key/4nuMbBzveljUwq">![](https://fiware.github.io/academy/img/doc.svg)
+-   <a href="https://www.slideshare.net/slideshow/embed_code/key/4nuMbBzveljUwq">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)
     Lesson 2 - Slides</a>
 
 <h4>Lesson 3. Kurento Development Guide</h4>
@@ -39,7 +39,7 @@ This lesson presents a tutorial of how to start developing Kurento-based multime
 
 [![](https://img.youtube.com/vi/rloBE438avU/0.jpg)](https://www.youtube.com/watch?v=rloBE438avU "Development Guide")
 
--   <a href="https://www.slideshare.net/slideshow/embed_code/key/rh4MdjkWfUJidt">![](https://fiware.github.io/academy/img/doc.svg)
+-   <a href="https://www.slideshare.net/slideshow/embed_code/key/rh4MdjkWfUJidt">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)
     Lesson 3 - Slides</a>
 
 <h4>Lesson 4. Cloud Instances of Kurento on FIWARE Lab</h4>
@@ -47,7 +47,7 @@ This lesson shows how to create cloud instances of Kurento using FIWARE Lab.
 
 [![](https://img.youtube.com/vi/U-_vh03g5cs/0.jpg)](https://www.youtube.com/watch?v=U-_vh03g5cs "Cloud Instances")
 
--   <a href="https://www.slideshare.net/slideshow/embed_code/key/yQP8pSzp244Isk">![](https://fiware.github.io/academy/img/doc.svg)
+-   <a href="https://www.slideshare.net/slideshow/embed_code/key/yQP8pSzp244Isk">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)
     Lesson 4 - Slides</a>
 
 <h4>Lesson 5. Real-time Media Stream Processing</h4>

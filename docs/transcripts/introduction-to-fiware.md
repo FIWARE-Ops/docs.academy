@@ -6,7 +6,7 @@
 </a>
 &nbsp;&nbsp; **Difficulty:** <span style="color:#000000">&nbsp;★</span>
 
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=97JsnnpPLrA"><img src="https://fiware.github.io/academy/img/intro.png"></a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=97JsnnpPLrA"><img src="https://fiware-ops.github.io/docs.academy/img/intro.png"></a></p>
 
 Good morning everybody. The subject of today's webinar is an overview to FIWARE itself. It assumes no prior knowledge of 
 FIWARE and will introduce all the concepts you need to know.

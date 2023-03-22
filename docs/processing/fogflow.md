@@ -17,7 +17,7 @@ the availability, locality, and mobility of IoT devices.
 
 <h4>Lesson 1. Introduction to FogFlow</h4>
 
--   <a href="https://www.slideshare.net/FI-WARE/fiware-global-summit-fogflow-a-new-ge-for-iot-edge-computing-97031456">![](https://fiware.github.io/academy/img/doc.svg)
+-   <a href="https://www.slideshare.net/FI-WARE/fiware-global-summit-fogflow-a-new-ge-for-iot-edge-computing-97031456">![](https://fiware-ops.github.io/docs.academy/img/doc.svg)
     Introduction to FogFlow</a>
 
 <h3>Step-by-Step Tutorials</h3>
