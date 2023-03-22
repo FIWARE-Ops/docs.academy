@@ -1,6 +1,6 @@
 site_name: Academy
 site_url: https://fiware-academy.readthedocs.org
-repo_url: https://github.com/fiware/academy
+repo_url: https://github.com/fiware-ops/docs.academy
 site_description: FIWARE Academy
 docs_dir: docs
 site_dir: html
