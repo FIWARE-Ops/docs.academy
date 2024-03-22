@@ -5,7 +5,7 @@
 [![fiware](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](https://stackoverflow.com/questions/tagged/fiware)
 
 Orion-LD is an alternative
-[NGSI-LD](https://www.etsi.org/deliver/etsi_gs/CIM/001_099/009/01.01.01_60/gs_CIM009v010101p.pdf) Context Broker written
+[NGSI-LD](https://www.etsi.org/deliver/etsi_gs/CIM/001_099/009/01.08.01_60/gs_cim009v010801p.pdf) Context Broker written
 in C/C++. It is a standalone executable and therefore small, fast, lightweight and easy to handle. Context brokers allow
 for the management and requesting context of information in a structured manner based on linked data standards following
 the NGSI-LD specification. Orion-LD is more suitable for smaller installations or possibly in embedded environments - it

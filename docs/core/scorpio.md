@@ -4,7 +4,7 @@
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://github.com/FIWARE/catalogue/blob/master/core/README.md)
 [![fiware](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/fiware.svg)](https://stackoverflow.com/questions/tagged/fiware)
 
-Scorpio implements [NGSI-LD](https://www.etsi.org/deliver/etsi_gs/CIM/001_099/009/01.01.01_60/gs_CIM009v010101p.pdf),
+Scorpio implements [NGSI-LD](https://www.etsi.org/deliver/etsi_gs/CIM/001_099/009/01.08.01_60/gs_cim009v010801p.pdf),
 which is the evolution of NGSI v2 and previous versions going back to the OMA NGSI context interfaces. This standardized
 version is based on the NGSI-LD specification published by the ETSI Industry Specification Group on Context Information
 Management.
