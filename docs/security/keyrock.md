@@ -77,6 +77,6 @@ End-to-end example for IdM and Access Control. Training at Madrid Developers Wee
 
 Use of the Keyrock Identity Manager is described in the following step-by-step tutorials:
 
--   [FIWARE 401: Administrating Users and Organizations](https://fiware-tutorials.readthedocs.io/en/latest/identity-management)
--   [FIWARE 402: Managing Roles and Permissions](https://fiware-tutorials.readthedocs.io/en/latest/roles-permissions)
--   [FIWARE 403: Securing Application Access](https://fiware-tutorials.readthedocs.io/en/latest/securing-access)
+-   [FIWARE 401: Administrating Users and Organizations](https://fiware-tutorials.readthedocs.io/en/latest/identity-management.html)
+-   [FIWARE 402: Managing Roles and Permissions](https://fiware-tutorials.readthedocs.io/en/latest/.html)
+-   [FIWARE 403: Securing Application Access](https://fiware-tutorials.readthedocs.io/en/latest/securing-access.html)

@@ -48,5 +48,5 @@ In this lesson, you will learn about AuthzForce - the Authorization PDP GEri:
 
 Use of Authzforce is described in the following step-by-step tutorial:
 
--   [FIWARE 405: XACML Rules-based Permissions](https://fiware-tutorials.readthedocs.io/en/latest/xacml-access-rules)
--   [FIWARE 406: Administrating XACML via a PAP](https://fiware-tutorials.readthedocs.io/en/latest/administrating-xacml)
+-   [FIWARE 405: XACML Rules-based Permissions](https://fiware-tutorials.readthedocs.io/en/latest/xacml-access-rules.html)
+-   [FIWARE 406: Administrating XACML via a PAP](https://fiware-tutorials.readthedocs.io/en/latest/administrating-xacml.html)
