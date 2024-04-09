@@ -121,4 +121,4 @@ In this section you will learn how to use WireCloud from the point of view of an
 
 Wirecloud is described in the following step-by-step tutorial:
 
--   [FIWARE 501: Creating Application Mashups](https://fiware-tutorials.readthedocs.io/en/latest/application-mashups)
+-   [FIWARE 501: Creating Application Mashups](https://fiware-tutorials.readthedocs.io/en/latest/application-mashups.html)

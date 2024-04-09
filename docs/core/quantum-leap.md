@@ -15,5 +15,5 @@ reference to maintaining a scalable architecture and compatibility with visualiz
 
 Creating time series data using QuantumLeap is described in the following step-by-step tutorial:
 
--   -   [FIWARE 303: Querying Time Series Data](https://fiware-tutorials.readthedocs.io/en/latest/time-series-data)
+-   -   [FIWARE 303: Querying Time Series Data](https://fiware-tutorials.readthedocs.io/en/latest/time-series-data.html)
         (Crate-DB)

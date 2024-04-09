@@ -45,7 +45,10 @@ This video presentation explains context information processing and advanced Big
 
 Use of the Cosmos Flink Connector is described in the following step-by-step tutorial:
 
--   [FIWARE 505: Real-time Processing and Big Data Analysis](https://fiware-tutorials.readthedocs.io/en/latest/big-data-analysis)
+-   [FIWARE 505: Real-time Processing and Big Data Analysis](https://fiware-tutorials.readthedocs.io/en/latest/big-data-flink.html)
+-   [FIWARE 506: Real-time Processing and Big Data Analysis](https://fiware-tutorials.readthedocs.io/en/latest/big-data-spark.html)
+
+
 
 <h3>Code Examples</h3>
 

@@ -33,5 +33,5 @@ This video presentation explains how to use Cygnus to persist data for Big Data 
 
 Data Persistence using Cygnus is described in the following step-by-step tutorial:
 
--   [FIWARE 301: Persisting Context Data using Apache Flume](https://fiware-tutorials.readthedocs.io/en/latest/historic-context-flume)
+-   [FIWARE 301: Persisting Context Data using Apache Flume](https://fiware-tutorials.readthedocs.io/en/latest/historic-context-flume.html)
     (MongoDB, MySQL, PostgreSQL)

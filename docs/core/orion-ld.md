@@ -18,5 +18,5 @@ currentlys supports only a subset of the standard NGSI-LD endpoints.
 
 Techniques for working with Linked Data using Orion-LD are described in the following step-by-step tutorials:
 
--   [FIWARE 601: Introduction to Linked Data](https://fiware-tutorials.readthedocs.io/en/latest/linked-data)
--   [FIWARE 602: Linked Data Relationships and Data Models](https://fiware-tutorials.readthedocs.io/en/latest/relationships-linked-data)
+-   [FIWARE 601: Introduction to Linked Data](https://fiware-tutorials.readthedocs.io/en/latest/linked-data.html)
+-   [FIWARE 602: Linked Data Relationships and Data Models](https://fiware-tutorials.readthedocs.io/en/latest/relationships-linked-data.html)

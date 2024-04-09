@@ -24,7 +24,7 @@ the availability, locality, and mobility of IoT devices.
 
 Use of FogFlow is described in the following step-by-step tutorial:
 
--   [FIWARE 507: Cloud-Edge Computing](https://fiware-tutorials.readthedocs.io/en/latest/edge-computing)
+-   [FIWARE 507: Cloud-Edge Computing](https://fiware-tutorials.readthedocs.io/en/latest/edge-computing.html)
 
 <h3>Code Examples</h3>
 

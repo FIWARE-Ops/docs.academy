@@ -20,5 +20,5 @@ and repost context data back into Orion.
 
 Data Persistence using Draco is described in the following step-by-step tutorial:
 
--   [FIWARE 302: Persisting Context Data using Apache NIFI](https://fiware-tutorials.readthedocs.io/en/latest/historic-context-nifi)
+-   [FIWARE 302: Persisting Context Data using Apache NIFI](https://fiware-tutorials.readthedocs.io/en/latest/historic-context-nifi.html)
     (MongoDB, MySQL, PostgreSQL)

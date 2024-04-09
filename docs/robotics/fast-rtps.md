@@ -11,9 +11,3 @@ Service (DDS) standard, again by the OMG.
 
 ![](https://fiware-ops.github.io/docs.academy/img/books.png) [Documentation](https://fast-rtps.docs.eprosima.com/en/latest/)
 
-<h3>Step-by-Step Tutorials</h3>
-
-Use of Fast-RTPS is described in the following step-by-step tutorial:
-
-&nbsp; 250.
-[Introduction to Fast-RTPS and Micro-RTPS](https://fiware-tutorials.readthedocs.io/en/latest/fast-rtps-micro-rtps)<br/>

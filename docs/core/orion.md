@@ -61,9 +61,9 @@ A set of advanced-level exercises that you can use to exercise your knowledge on
 These tutorials are an introduction to the FIWARE Context Broker, and are an essential first step when learning to use
 FIWARE:
 
--   [FIWARE 101: Getting Started](https://fiware-tutorials.readthedocs.io/en/latest/getting-started)
--   [FIWARE 102: Entity Relationships](https://fiware-tutorials.readthedocs.io/en/latest/entity-relationships)
--   [FIWARE 103: CRUD Operations](https://fiware-tutorials.readthedocs.io/en/latest/crud-operations)
--   [FIWARE 104: Context Providers](https://fiware-tutorials.readthedocs.io/en/latest/context-providers)
--   [FIWARE 105: Altering the Context Programmatically](https://fiware-tutorials.readthedocs.io/en/latest/accessing-context)
--   [FIWARE 106: Subscribing to Changes in Context](https://fiware-tutorials.readthedocs.io/en/latest/subscriptions)
+-   [FIWARE 101: Getting Started](https://fiware-tutorials.readthedocs.io/en/latest/getting-started.html)
+-   [FIWARE 102: Entity Relationships](https://fiware-tutorials.readthedocs.io/en/latest/entity-relationships.html)
+-   [FIWARE 103: CRUD Operations](https://fiware-tutorials.readthedocs.io/en/latest/crud-operations.html)
+-   [FIWARE 104: Context Providers](https://fiware-tutorials.readthedocs.io/en/latest/context-providers.html)
+-   [FIWARE 105: Altering the Context Programmatically](https://fiware-tutorials.readthedocs.io/en/latest/accessing-context.html)
+-   [FIWARE 106: Subscribing to Changes in Context](https://fiware-tutorials.readthedocs.io/en/latest/subscriptions.html)

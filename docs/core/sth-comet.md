@@ -24,5 +24,5 @@ and covering from installation to configuration and running.
 
 Creating short-term historic data using STH-Comet is described in the following step-by-step tutorial:
 
--   [FIWARE 302: Querying Time Series Data](https://fiware-tutorials.readthedocs.io/en/latest/short-term-history)
+-   [FIWARE 302: Querying Time Series Data](https://fiware-tutorials.readthedocs.io/en/latest/short-term-history.html)
     (MongoDB)

@@ -41,4 +41,4 @@ This lesson presents the way in which you can secure your REST APIs and shows pr
 
 Use of the Wilma PEP Proxy is described in the following step-by-step tutorial:
 
--   [FIWARE 404: Securing Microservices with a PEP Proxy](https://fiware-tutorials.readthedocs.io/en/latest/pep-proxy)
+-   [FIWARE 404: Securing Microservices with a PEP Proxy](https://fiware-tutorials.readthedocs.io/en/latest/pep-proxy.html)

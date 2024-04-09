@@ -76,4 +76,4 @@ Moreover, other tutorials can be done using the Stream Oriented GE (Kurento), fo
 
 Kurento is described in the following step-by-step tutorial:
 
--   [FIWARE 503: Introduction to Media Streams](https://fiware-tutorials.readthedocs.io/en/latest/media-streams)
+-   [FIWARE 503: Introduction to Media Streams](https://fiware-tutorials.readthedocs.io/en/latest/media-streams.html)
